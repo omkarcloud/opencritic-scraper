@@ -1,0 +1,1072 @@
+[
+ {
+  "_id": "5d867e2893765d677879cf3f",
+  "hasLootBoxes": false,
+  "isMajorTitle": true,
+  "type": "BASE",
+  "Skus": [
+   "GP_3692-1",
+   "HB_resident-evil-2-biohazard-re2",
+   "ES_883710",
+   "GP_3692-2",
+   "HB_resident-evil-2-biohazard-re2-deluxe-edition",
+   "FN_resident-evil-2-biohazard-re2",
+   "FN_resident-evil-2-biohazard-re2-deluxe-edition",
+   "FN_resident-evil-2-biohazard-re-2",
+   "FN_resident-evil-2-biohazard-re-2-deluxe",
+   "V_resident-evil-2-biohazard-re2-deluxe-edition-row",
+   "V_resident-evil-2-biohazard-re2-row",
+   "NZ_f74fefcd-da64-4d87-86d9-17d43ce389c4",
+   "V_resident-evil-2-biohazard-re2-deluxe-edition",
+   "GOG_resident_evil_2"
+  ],
+  "percentRecommended": 97.02970297029702,
+  "numReviews": 211,
+  "numTopCriticReviews": 151,
+  "medianScore": 90,
+  "averageScore": 92.13730569948187,
+  "topCriticScore": 92.04347826086956,
+  "percentile": 100,
+  "tier": "Mighty",
+  "name": "Resident Evil 2",
+  "description": "A deadly virus engulfs the residents of Raccoon City in September of 1998, plunging the city into chaos as flesh eating zombies roam the streets for survivors.\n\n\n\nAn unparalleled adrenaline rush, gripping storyline, and unimaginable horrors await you.\n\n\n\nWitness the return of Resident Evil 2.",
+  "reviewSummary": {
+   "summary": "Resident Evil 2 is a gold-standard for how to do a remake, combining the original's nostalgia with modernized and fresh gameplay to bring an awesome experience for players old and new. This may be the best Resident Evil game ever released.",
+   "slot1": "Sense of Fear",
+   "slot2": "Tense Gameplay",
+   "slot3": "True to the Original",
+   "slot1State": "pro",
+   "slot2State": "pro",
+   "slot3State": "pro",
+   "slot1P": "",
+   "slot2P": "",
+   "slot3P": "",
+   "completed": false
+  },
+  "screenshots": [
+   {
+    "_id": "5be1504471c1ed63ff0c6da0",
+    "fullRes": "//c.opencritic.com/images/games/6848/Hz9Dnheq6uNgIgW8dE.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/6848/Hz9Dnheq6uNgIgW8dE_th.jpg"
+   },
+   {
+    "_id": "5be1504471c1ed63ff0c6d9f",
+    "fullRes": "//c.opencritic.com/images/games/6848/NlW9oGVhK24CRKYbnN.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/6848/NlW9oGVhK24CRKYbnN_th.jpg"
+   },
+   {
+    "_id": "5be1504471c1ed63ff0c6d9e",
+    "fullRes": "//c.opencritic.com/images/games/6848/JUACYL1Pir3bFd1xAS.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/6848/JUACYL1Pir3bFd1xAS_th.jpg"
+   }
+  ],
+  "trailers": [
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054fd",
+    "publishedDate": "2019-01-08T00:00:00.000Z",
+    "title": "Resident Evil 2 - 1-Shot Demo",
+    "videoId": "Dhj_CqbMQ9U",
+    "externalUrl": "https://www.youtube.com/watch?v=Dhj_CqbMQ9U",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "Thirty minutes, one shot! The Resident Evil 2 “1-Shot” Demo is coming to PS4, Xbox One, and Steam on January 11th! \n\nFor more official news and updates, follow us on:\nTwitter - https://twitter.com/RE_Games\nFacebook - https://www.facebook.com/residentevil/\nInstagram - https://www.instagram.com/re_games/ \nwww.residentevil2.com"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054fb",
+    "publishedDate": "2018-12-04T00:00:00.000Z",
+    "title": "Resident Evil 2: Claire Gameplay - Unstoppable Tyrant",
+    "videoId": "rMo8LNXN_ss",
+    "externalUrl": "https://www.youtube.com/watch?v=rMo8LNXN_ss",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "His boots were made for stomping. See what it's like to take on the Tyrant in this new gameplay video featuring Claire in Resident Evil 2! Can Claire put a halt to the unstoppable force? Plus, get a quick look at Sherry Birkin and the new Orphanage area.\n\n'Like' on Facebook\nhttp://www.facebook.com/residentevil\n\nFollow on Twitter\nhttp://twitter.com/#!/RE_games"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054fc",
+    "publishedDate": "2018-12-04T00:00:00.000Z",
+    "title": "Resident Evil 2: Leon Gameplay - Familiar Faces",
+    "videoId": "T78HIXVAkTo",
+    "externalUrl": "https://www.youtube.com/watch?v=T78HIXVAkTo",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "Get a closer look at some of the familiar faces you'll see and sinister places you'll go as Leon attempts to survive the nightmare of Raccoon City, including gameplay featuring Ada Wong.\n\n 'Like' on Facebook\nhttp://www.facebook.com/residentevil\n\nFollow on Twitter\nhttp://twitter.com/#!/RE_games"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054fa",
+    "publishedDate": "2018-10-31T00:00:00.000Z",
+    "title": "Resident Evil 2 - Classic Costumes",
+    "videoId": "30BQjlXXamY",
+    "externalUrl": "https://www.youtube.com/watch?v=30BQjlXXamY",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "We have a treat for you! As a thanks for your undying support, we’re providing all Resident Evil 2 players with a piece of nostalgia: Leon and Claire’s classic costumes will be unlockable in-game, for free!\n#RE2\n\nFor more official news and updates, follow us on:\nTwitter - https://twitter.com/RE_Games\nFacebook - https://www.facebook.com/residentevil/\nInstagram - https://www.instagram.com/re_games/ \nwww.residentevil2.com"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054f9",
+    "publishedDate": "2018-09-20T00:00:00.000Z",
+    "title": "Resident Evil 2 - Story Trailer (TGS 2018)",
+    "videoId": "KyGk4KTJu5w",
+    "externalUrl": "https://www.youtube.com/watch?v=KyGk4KTJu5w",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "Check out our latest trailer that delves into the story of RE2...\n\nFor more official news and updates, follow us on: \nTwitter - https://twitter.com/RE_Games \nFacebook - https://www.facebook.com/residentevil/ \nInstagram - https://www.instagram.com/re_games/\nwww.residentevil.com"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054f8",
+    "publishedDate": "2018-06-20T00:00:00.000Z",
+    "title": "Resident Evil 2 - E3 2018 Gameplay Video",
+    "videoId": "ahu9VmQ6RcY",
+    "externalUrl": "https://www.youtube.com/watch?v=ahu9VmQ6RcY",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "In 4K where available! Itching for more Resident Evil 2 gameplay? We’ve got fresh video for you to sink your teeth into. Pre-order now, and play Resident Evil 2 as soon as it's available on January 25th, 2019.\n\n'Like' on Facebook\nhttp://www.facebook.com/residentevil\n\nFollow on Twitter\nhttp://twitter.com/#!/RE_games"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054f7",
+    "publishedDate": "2018-06-19T00:00:00.000Z",
+    "title": "Resident Evil 2 - E3 2018 Developer Interview & Community Reaction",
+    "videoId": "MNvDtoFimTw",
+    "externalUrl": "https://www.youtube.com/watch?v=MNvDtoFimTw",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "Resident Evil 2 Remake was finally revealed at E3 2018! Our community manager Kat got to interview developers Yoshiaki 'H' Hirabayashi, and Tsuyoshi Kanda, as well as ask some fans what they thought of the E3 demo! \n\nResident Evil 2 returns this January 25th 2019, for PS4, Xbox One and PC! \n------\nFor more official news and updates, follow us on:\nTwitter - https://twitter.com/RE_Games\nFacebook - https://www.facebook.com/residentevil/\nInstagram - https://www.instagram.com/re_games/ \nAnd of course, subscribe to our Youtube channel!"
+   },
+   {
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61aa99a5063ab93b368054f6",
+    "publishedDate": "2018-06-12T00:00:00.000Z",
+    "title": "Resident Evil 2  - Announcement Trailer",
+    "videoId": "v8_ovw0QaUM",
+    "externalUrl": "https://www.youtube.com/watch?v=v8_ovw0QaUM",
+    "channelTitle": "Resident Evil",
+    "channelId": "UCS2iGSouOopNHXFBcWtBQiA",
+    "description": "Resident Evil 2 returns this January 25th 2019, for PS4, Xbox One and PC! Welcome back to Raccoon City...\nFor more official news and updates, follow us on:\nTWITTER - https://twitter.com/RE_Games\nFacebook - https://www.facebook.com/residentevil/\nInstagram - https://www.instagram.com/re_games/"
+   }
+  ],
+  "mastheadScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/6848/pofp0jgTb4gTEnLq5H.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/6848/pofp0jgTb4gTEnLq5H_th.jpg"
+  },
+  "twitchName": null,
+  "embargoDate": "2019-01-22T16:03:12.000Z",
+  "steamId": "883710",
+  "Companies": [
+   {
+    "_id": "5d867e2893765d677879cf4c",
+    "name": "CAPCOM Co., Ltd.",
+    "type": "DEVELOPER"
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5d867e2893765d677879cf4f",
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2019-01-25T00:00:00.000Z",
+    "displayRelease": null
+   },
+   {
+    "_id": "5d867e2893765d677879cf4e",
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2019-01-25T00:00:00.000Z",
+    "displayRelease": null
+   },
+   {
+    "_id": "5d867e2893765d677879cf4d",
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2019-01-25T00:00:00.000Z",
+    "displayRelease": null
+   },
+   {
+    "_id": "5faad4fbbc7dc4357cd19637",
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z"
+   },
+   {
+    "_id": "5faad5abd988965290d0d869",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z"
+   },
+   {
+    "_id": "5d866d6a93765d677873615b",
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2022-11-11T00:00:00.000Z"
+   }
+  ],
+  "Genres": [
+   {
+    "_id": "5d866d6993765d6778736136",
+    "id": 95,
+    "name": "Horror"
+   },
+   {
+    "_id": "5d866d6a93765d6778736179",
+    "id": 27,
+    "name": "Action"
+   }
+  ],
+  "Affiliates": [
+   {
+    "_id": "66ff632fc454b1c5879d65fe",
+    "externalUrl": "https://af.gog.com/en/game/resident_evil_2?as=1673677962",
+    "name": "GOG",
+    "basePrice": 9.99,
+    "price": 9.99
+   },
+   {
+    "_id": "66ff632fc454b1c5879d65ff",
+    "externalUrl": "http://geni.us/K2zfQ",
+    "name": "Amazon"
+   },
+   {
+    "_id": "66ff632fc454b1c5879d6600",
+    "externalUrl": "https://us.gamesplanet.com/game/stuff--3692-1?ref=opencritic",
+    "name": "GamesPlanet"
+   },
+   {
+    "_id": "66ff632fc454b1c5879d6601",
+    "externalUrl": "http://www.anrdoezrs.net/links/8050398/type/dlg/https://www.fanatical.com/en/game/resident-evil-2-biohazard-re2",
+    "name": "Fanatical"
+   },
+   {
+    "_id": "66ff632fc454b1c5879d6602",
+    "externalUrl": "https://lt45.net/c/?si=12328&li=1541858&wi=343735&ws=&dl=en%2Fresident-evil-2-biohazard-re2-row",
+    "name": "Voidu"
+   }
+  ],
+  "id": 6848,
+  "firstReleaseDate": "2019-01-25T00:00:00.000Z",
+  "createdAt": "2019-09-21T19:46:48.317Z",
+  "updatedAt": "2026-09-19T09:28:30.238Z",
+  "__v": 17,
+  "firstReviewDate": "2017-12-05T05:00:00.000Z",
+  "latestReviewDate": "2024-10-10T00:00:00.000Z",
+  "logoScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/6848/Y6ZKUKFfQA7dwTF5M4.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/6848/Y6ZKUKFfQA7dwTF5M4_th.jpg"
+  },
+  "bannerScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/6848/banner.jpg"
+  },
+  "adminReviewed": false,
+  "externalSourcesConnected": false,
+  "newsSearchEnabled": true,
+  "oldObject": {
+   "summary": "Resident Evil 2 is a gold-standard for how to do a remake, combining the original's nostalgia with modernized and fresh gameplay to bring an awesome experience for players old and new. This may be the best Resident Evil game ever released.",
+   "slot1": "Sense of Fear",
+   "slot2": "Tense Gameplay",
+   "slot3": "True to the Original",
+   "slot1State": "pro",
+   "slot2State": "pro",
+   "slot3State": "pro",
+   "slot1P": "",
+   "slot2P": "",
+   "slot3P": ""
+  },
+  "numUserReviews": 1,
+  "monetizationFeatures": {
+   "hasLootBoxes": false
+  },
+  "squareScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/6848/Vj14LsWwB31Kf9OSrL1Hv8NnztjUEXT3dle8BvHIHoubdPyi.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/6848/Vj14LsWwB31Kf9OSrL1Hv8NnztjUEXT3dle8BvHIHoubdPyi_th.jpg"
+  },
+  "verticalLogoScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/6848/RpipVyEyh7TFKJyprFNFWpKexsYJmnKZjXSh40xbsmqZqgEB.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/6848/RpipVyEyh7TFKJyprFNFWpKexsYJmnKZjXSh40xbsmqZqgEB_th.jpg"
+  },
+  "discount": 0,
+  "Affiliate": {
+   "discount": 0
+  },
+  "isFeatured": false,
+  "imageMigrationComplete": true,
+  "images": {
+   "box": {
+    "og": "game/6848/o/pbpeziCb.jpg",
+    "sm": "game/6848/EihIXhds.jpg"
+   },
+   "square": {
+    "og": "game/6848/o/RILG4wWk.jpg",
+    "xs": "game/6848/A2uPGBWk.jpg",
+    "sm": "game/6848/5updRop3.jpg",
+    "lg": "game/6848/y4R1qcLB.jpg"
+   },
+   "masthead": {
+    "og": "game/6848/o/xYpyDcsp.jpg",
+    "xs": "game/6848/JFapVftN.jpg",
+    "sm": "game/6848/pBggdT5g.jpg",
+    "md": "game/6848/0aC6Eies.jpg",
+    "lg": "game/6848/frd2l7WK.jpg",
+    "xl": "game/6848/eBnMuW1m.jpg"
+   },
+   "banner": {
+    "og": "game/6848/o/ux8jfSmv.jpg",
+    "sm": "game/6848/PZdl4Yj8.jpg"
+   },
+   "logo": {
+    "og": "game/6848/o/WjZ9Csi3.jpg"
+   },
+   "screenshots": [
+    {
+     "_id": "62f47390c25b595e6c50f2b2",
+     "og": "game/6848/o/DjEqkdMs.jpg",
+     "sm": "game/6848/gzUJ3wfZ.jpg"
+    },
+    {
+     "_id": "62f47390c25b595e6c50f2b3",
+     "og": "game/6848/o/WuB30yjU.jpg",
+     "sm": "game/6848/1sBWNB6t.jpg"
+    },
+    {
+     "_id": "62f47390c25b595e6c50f2b4",
+     "og": "game/6848/o/v1UqJd4R.jpg",
+     "sm": "game/6848/4YAPOOlB.jpg"
+    }
+   ]
+  },
+  "tenthReviewDate": "2019-01-22T00:00:00.000Z",
+  "criticalReviewDate": "2019-01-22T05:00:00.000Z",
+  "isEligibleForDealFocus": true,
+  "biggestDiscountDollars": 0,
+  "biggestDiscountPercentage": 0,
+  "needsAdminDealReview": true,
+  "nextPriceScanTime": "2026-09-19T11:28:30.237Z",
+  "adminPriority": false,
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078ec",
+   "6699556c534cfd6134a0790c",
+   "6699556f534cfd6134a07954",
+   "66995570534cfd6134a07960",
+   "66995571534cfd6134a0797c",
+   "6699557c534cfd6134a07a70",
+   "66995582534cfd6134a07b0c",
+   "66995586534cfd6134a07b6c",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "_id": "60de0c038f7460af4f504903",
+  "reviewSummary": {
+   "summary": "Forza Horizon 5 is the highest rated game of 2021 and the best entry in the franchise to date, offering its famously fun arcade racing in a beautiful, well-crafted world.",
+   "slot1State": "pro",
+   "slot2State": "pro",
+   "slot3State": "pro",
+   "completed": true
+  },
+  "hasLootBoxes": false,
+  "isMajorTitle": true,
+  "newsSearchEnabled": true,
+  "type": "BASE",
+  "Skus": [
+   "ES_1551360"
+  ],
+  "adminReviewed": false,
+  "externalSourcesConnected": false,
+  "percentRecommended": 100,
+  "numReviews": 185,
+  "numTopCriticReviews": 111,
+  "numUserReviews": 0,
+  "medianScore": 91,
+  "averageScore": 92.60843373493977,
+  "topCriticScore": 91.84,
+  "percentile": 100,
+  "tier": "Mighty",
+  "name": "Forza Horizon 5",
+  "screenshots": [
+   {
+    "_id": "60de0cdd40141c598cae46ec",
+    "fullRes": "//c.opencritic.com/images/games/11624/aTUSCAND8XLmVaIHppOqXzzOsnbZvGzHzVyGCzm3M8ygVbMl.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/aTUSCAND8XLmVaIHppOqXzzOsnbZvGzHzVyGCzm3M8ygVbMl_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46ed",
+    "fullRes": "//c.opencritic.com/images/games/11624/TsAbIYaQhTBTzHzLSHsTbTGjBPjzn5FEFj2CGID7vXGCMAsF.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/TsAbIYaQhTBTzHzLSHsTbTGjBPjzn5FEFj2CGID7vXGCMAsF_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46ee",
+    "fullRes": "//c.opencritic.com/images/games/11624/qEJYV8SsqElUAKuXfHzoz9JU06qqhhanQgm0TB3CmUM1oNJx.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/qEJYV8SsqElUAKuXfHzoz9JU06qqhhanQgm0TB3CmUM1oNJx_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46ef",
+    "fullRes": "//c.opencritic.com/images/games/11624/ZzIEt2SB7JGbNO14JYFW2n6YXvs7bAQUOn29h9bvjHO2rTMt.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/ZzIEt2SB7JGbNO14JYFW2n6YXvs7bAQUOn29h9bvjHO2rTMt_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f0",
+    "fullRes": "//c.opencritic.com/images/games/11624/Ydq3xd5ugR6dzwsel88Ik8MHOpzW9bXIWmHWIGWHGsXSZW8H.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/Ydq3xd5ugR6dzwsel88Ik8MHOpzW9bXIWmHWIGWHGsXSZW8H_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f1",
+    "fullRes": "//c.opencritic.com/images/games/11624/lxhxsUVOxvziWJbJfy1CIV4sB6om5APwef48DytiphDiGpe6.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/lxhxsUVOxvziWJbJfy1CIV4sB6om5APwef48DytiphDiGpe6_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f2",
+    "fullRes": "//c.opencritic.com/images/games/11624/8oNC3vuiUisNHj1TUmUfMpQO6XKM4RdlebGGmFLr9pP5rpxj.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/8oNC3vuiUisNHj1TUmUfMpQO6XKM4RdlebGGmFLr9pP5rpxj_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f3",
+    "fullRes": "//c.opencritic.com/images/games/11624/OhG0AiKyoqxWoNv1pBkdqUlg7b0C6S9sZrMREzNFhQnwlzLt.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/OhG0AiKyoqxWoNv1pBkdqUlg7b0C6S9sZrMREzNFhQnwlzLt_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f4",
+    "fullRes": "//c.opencritic.com/images/games/11624/fFLjs4SftLw5TzCIdKjuKRE88Y34zrIDhgu0yb4qC4he5h55.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/fFLjs4SftLw5TzCIdKjuKRE88Y34zrIDhgu0yb4qC4he5h55_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f5",
+    "fullRes": "//c.opencritic.com/images/games/11624/oHTbbbWougR2ursbU2U4X2WJjGtprfgxniztUVVv9S9CqgJd.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/oHTbbbWougR2ursbU2U4X2WJjGtprfgxniztUVVv9S9CqgJd_th.jpg"
+   },
+   {
+    "_id": "60de0cdd40141c598cae46f6",
+    "fullRes": "//c.opencritic.com/images/games/11624/QwDkF7sLTmJ4s0eErlzv8nO08v4EzZUmcDnjHrbUBLlsOOgO.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/11624/QwDkF7sLTmJ4s0eErlzv8nO08v4EzZUmcDnjHrbUBLlsOOgO_th.jpg"
+   }
+  ],
+  "trailers": [
+   {
+    "title": "Forza Horizon 5 Official Cover Cars Reveal Trailer",
+    "videoId": "eh2sGze-8G0",
+    "channelId": "UCydtMNspoPAlqBjFSGnigSw",
+    "description": "Introducing the cover cars of Forza Horizon 5, the Mercedes-AMG ONE and the 2021 Ford Bronco Badlands. Whether in the Mercedes-AMG One with its ...",
+    "externalUrl": "https://www.youtube.com/watch?v=eh2sGze-8G0",
+    "channelTitle": "Forza",
+    "publishedDate": "2021-08-24T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b542c4d563cd42e6f70"
+   },
+   {
+    "title": "Forza Horizon 5 Official Gameplay Demo - Xbox & Bethesda Games Showcase 2021",
+    "videoId": "6VU4hNi7F38",
+    "channelId": "UCydtMNspoPAlqBjFSGnigSw",
+    "description": "Mike Brown, creative director of Forza Horizon 5 takes us through an extended first look at gameplay. Go along with Mike and a few friends as they showcase a ...",
+    "externalUrl": "https://www.youtube.com/watch?v=6VU4hNi7F38",
+    "channelTitle": "Forza",
+    "publishedDate": "2021-06-13T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b542c4d563cd42e6f71"
+   },
+   {
+    "title": "Forza Horizon 5 Official Announce Trailer",
+    "videoId": "btdtkN00O70",
+    "channelId": "UCydtMNspoPAlqBjFSGnigSw",
+    "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of ...",
+    "externalUrl": "https://www.youtube.com/watch?v=btdtkN00O70",
+    "channelTitle": "Forza",
+    "publishedDate": "2021-06-13T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b542c4d563cd42e6f72"
+   },
+   {
+    "title": "Forza Horizon 5 Official Initial Drive Trailer",
+    "videoId": "YY2GX_7wR7Y",
+    "channelId": "UCydtMNspoPAlqBjFSGnigSw",
+    "description": "Presenting the first eight minutes of Forza Horizon 5, exploring our expansive version of Mexico. Featuring Forza Horizon 5's cover cars, the Mercedes-AMG ...",
+    "externalUrl": "https://www.youtube.com/watch?v=YY2GX_7wR7Y",
+    "channelTitle": "Forza",
+    "publishedDate": "2021-08-24T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b542c4d563cd42e6f73"
+   },
+   {
+    "title": "Forza Horizon 5 - Official Launch Trailer",
+    "videoId": "U3mEOHvSUyw",
+    "channelId": "UCydtMNspoPAlqBjFSGnigSw",
+    "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of ...",
+    "externalUrl": "https://www.youtube.com/watch?v=U3mEOHvSUyw",
+    "channelTitle": "Forza",
+    "publishedDate": "2021-11-04T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b542c4d563cd42e6f74"
+   }
+  ],
+  "Companies": [
+   {
+    "name": "Playground Games",
+    "type": "DEVELOPER",
+    "_id": "60de0cdd40141c598cae46f8"
+   },
+   {
+    "name": "Xbox Game Studios",
+    "type": "PUBLISHER",
+    "_id": "60de0cdd40141c598cae46f9"
+   }
+  ],
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2021-11-09T00:00:00.000Z",
+    "_id": "60de0cdd40141c598cae46fa"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "releaseDate": "2021-11-09T00:00:00.000Z",
+    "_id": "60de0cdd40141c598cae46fb"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2021-11-09T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Genres": [
+   {
+    "_id": "5d866d6b93765d67787361bb",
+    "id": 84,
+    "name": "Racing"
+   }
+  ],
+  "id": 11624,
+  "firstReleaseDate": "2021-11-09T00:00:00.000Z",
+  "Affiliates": [
+   {
+    "externalUrl": "http://geni.us/EG1Xp",
+    "name": "Amazon",
+    "_id": "67f8e2a3f8c306636f9f7a16"
+   }
+  ],
+  "createdAt": "2021-07-01T18:40:03.642Z",
+  "updatedAt": "2026-09-19T09:24:47.834Z",
+  "__v": 11,
+  "bannerScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/11624/j8Xznv1MmdxyowavRp5nKDqoaT4suqi2iqPXvFa0aCHTPvzu.jpg"
+  },
+  "description": "Your Ultimate Horizon Adventure awaits! Explore the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.  \n\nThis is Your Horizon Adventure\nLead breathtaking expeditions across the vibrant and ever-evolving open world landscapes of Mexico with limitless, fun driving action in hundreds of the world’s greatest cars.\n\nThis is a Diverse Open World\nExplore a world of striking contrast and beauty. Discover living deserts, lush jungles, historic cities, hidden ruins, pristine beaches, vast canyons and a towering snow-capped volcano.\n\nThis is an Adventurous Open World\nImmerse yourself in a deep campaign with hundreds  of challenges that reward you for engaging in the activities you love. Meet new characters and choose the outcomes of their Horizon Story missions.\n\nThis is an Evolving Open World\nTake on awe-inspiring weather events such as towering dust storms and intense tropical storms as Mexico’s unique, dynamic seasons change the world every week. Keep coming back for new events, challenges, collectibles, and rewards, and new areas to explore. No two seasons will ever be the same. \n\nThis is a Social Open World \nTeam up with other players and enter the Horizon Arcade for a continuing series of fun, over-the-top challenges that keep you and your friends in the action and having fun with no menus, loading screens or lobbies. Meet new friends in Horizon Open and Tours and share your creations with new community gift sharing.\n\nThis is Your Open World\nCreate your own expressions of fun with the powerful new EventLab gameplay toolset including custom races, challenges, stunts, and entirely new game modes. Customize your cars in more ways than ever before with new options such as the ability open  and close convertible tops, paint brake calipers, and more. Use the new Gift Drops feature to share your custom creations with the community.   \n\nBegin Your Horizon Adventure today!",
+  "logoScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/11624/ubd93LtWDDOodjhYNCWSVdgfAIyLF3prtUzgwgs5YGzZFZTU.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/11624/ubd93LtWDDOodjhYNCWSVdgfAIyLF3prtUzgwgs5YGzZFZTU_th.jpg"
+  },
+  "mainChannel": {
+   "channelId": "UCydtMNspoPAlqBjFSGnigSw",
+   "channelTitle": "Forza",
+   "description": "The official YouTube channel for the Forza Motorsport and Forza Horizon franchises. Make sure to follow our social channels! FORZA MOTORSPORT Twitter: ...",
+   "title": "Forza",
+   "image": "https://yt3.ggpht.com/ytc/AKedOLRWVFDGmjFkHcrtFoGeciYAGdmlbSiPPfT1ep3m=s88-c-k-c0xffffffff-no-rj-mo",
+   "externalUrl": "https://www.youtube.com/channel/UCydtMNspoPAlqBjFSGnigSw"
+  },
+  "mastheadScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/11624/ay16OGIrlTlt3bHbyNPp5PpDwxGGs3LTn6zWLnWqPMNqL3qS.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/11624/ay16OGIrlTlt3bHbyNPp5PpDwxGGs3LTn6zWLnWqPMNqL3qS_th.jpg"
+  },
+  "monetizationFeatures": {
+   "hasLootBoxes": false
+  },
+  "embargoDate": "2021-11-04T07:03:42.000Z",
+  "firstReviewDate": "2021-10-11T00:00:00.000Z",
+  "latestReviewDate": "2025-11-14T00:00:00.000Z",
+  "squareScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/11624/2OHOyYAOEHXmR4SIulvzDd055dtUdur17VBEll9P0fE9Fj1e.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/11624/2OHOyYAOEHXmR4SIulvzDd055dtUdur17VBEll9P0fE9Fj1e_th.jpg"
+  },
+  "verticalLogoScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/11624/o0JPsQZFry2jL48stN6vTmOtOz7j79lI4WtKNUak5uxWmT7X.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/11624/o0JPsQZFry2jL48stN6vTmOtOz7j79lI4WtKNUak5uxWmT7X_th.jpg"
+  },
+  "discount": 0,
+  "Affiliate": {
+   "discount": 0
+  },
+  "adminPriority": true,
+  "isFeatured": false,
+  "imageMigrationComplete": true,
+  "images": {
+   "box": {
+    "og": "game/11624/o/MUMN1TNM.jpg",
+    "sm": "game/11624/hp48LyQA.jpg"
+   },
+   "square": {
+    "og": "game/11624/o/t5CaBEjL.jpg",
+    "xs": "game/11624/9ahpVt0k.jpg",
+    "sm": "game/11624/Uo6yt8Jm.jpg",
+    "lg": "game/11624/tvPa67ZA.jpg"
+   },
+   "masthead": {
+    "og": "game/11624/o/WvyoLGfF.jpg",
+    "xs": "game/11624/YxKGiMD4.jpg",
+    "sm": "game/11624/HOUmvo9F.jpg",
+    "md": "game/11624/WNCjDDty.jpg",
+    "lg": "game/11624/fGqXYt09.jpg",
+    "xl": "game/11624/urIMih7y.jpg"
+   },
+   "banner": {
+    "og": "game/11624/o/PflODQET.jpg",
+    "sm": "game/11624/r4So2MEG.jpg"
+   },
+   "logo": {
+    "og": "game/11624/o/l2q9uXJD.jpg"
+   },
+   "screenshots": [
+    {
+     "og": "game/11624/o/OrJ2uhNg.jpg",
+     "sm": "game/11624/G4EeQNeI.jpg",
+     "_id": "62f446417dca76a005795008"
+    },
+    {
+     "og": "game/11624/o/7PdeRLhJ.jpg",
+     "sm": "game/11624/AaxypWOj.jpg",
+     "_id": "62f446417dca76a005795009"
+    },
+    {
+     "og": "game/11624/o/e0ASOBmO.jpg",
+     "sm": "game/11624/vUbWIwhg.jpg",
+     "_id": "62f446417dca76a00579500a"
+    },
+    {
+     "og": "game/11624/o/xtrA6sLK.jpg",
+     "sm": "game/11624/ZLZ072gy.jpg",
+     "_id": "62f446417dca76a00579500b"
+    },
+    {
+     "og": "game/11624/o/gKIdcRVO.jpg",
+     "sm": "game/11624/I5jZJbH3.jpg",
+     "_id": "62f446417dca76a00579500c"
+    },
+    {
+     "og": "game/11624/o/m42ow4z3.jpg",
+     "sm": "game/11624/qW8y6WSt.jpg",
+     "_id": "62f446417dca76a00579500d"
+    },
+    {
+     "og": "game/11624/o/eYfPvhN5.jpg",
+     "sm": "game/11624/aAl0IwVA.jpg",
+     "_id": "62f446417dca76a00579500e"
+    },
+    {
+     "og": "game/11624/o/FyZLfV0F.jpg",
+     "sm": "game/11624/MCIf6xQq.jpg",
+     "_id": "62f446417dca76a00579500f"
+    },
+    {
+     "og": "game/11624/o/1FIhBBgR.jpg",
+     "sm": "game/11624/B2wCO1xq.jpg",
+     "_id": "62f446417dca76a005795010"
+    },
+    {
+     "og": "game/11624/o/njVAiSJj.jpg",
+     "sm": "game/11624/ImqpQA9B.jpg",
+     "_id": "62f446417dca76a005795011"
+    },
+    {
+     "og": "game/11624/o/UVBi2xs2.jpg",
+     "sm": "game/11624/dJv34SeV.jpg",
+     "_id": "62f446417dca76a005795012"
+    }
+   ]
+  },
+  "tenthReviewDate": "2021-11-04T00:00:00.000Z",
+  "criticalReviewDate": "2021-11-04T00:00:00.000Z",
+  "isEligibleForDealFocus": true,
+  "biggestDiscountDollars": 0,
+  "biggestDiscountPercentage": 0,
+  "needsAdminDealReview": true,
+  "nextPriceScanTime": "2026-09-19T11:24:47.834Z",
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078f4",
+   "6699556c534cfd6134a07900",
+   "6699556d534cfd6134a07914",
+   "6699556f534cfd6134a07948",
+   "66995576534cfd6134a079f4",
+   "6699557a534cfd6134a07a44",
+   "66995581534cfd6134a07aec",
+   "66995589534cfd6134a07ba8",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "_id": "5f0d868bd88e035744c1a758",
+  "reviewSummary": {
+   "summary": "Microsoft Flight Simulator is a technical marvel, with an insane amount of polish, incredible realism, and phenomenal controls.",
+   "slot1": "Planet Earth",
+   "slot1State": "pro",
+   "slot1P": "Flights can truly go anywhere on the planet.",
+   "slot2": "Gorgeous Graphics",
+   "slot2State": "pro",
+   "slot2P": "From the planes, to the airports, to the mountains, forests, and oceans, everything is simply stunning.",
+   "slot3": "Approachable Simulation",
+   "slot3State": "pro",
+   "slot3P": "Both professional and first-time pilots will find approachable depth in this game.",
+   "completed": true
+  },
+  "hasLootBoxes": false,
+  "isMajorTitle": true,
+  "newsSearchEnabled": true,
+  "type": "BASE",
+  "Skus": [],
+  "adminReviewed": false,
+  "externalSourcesConnected": false,
+  "percentRecommended": 97.72727272727273,
+  "numReviews": 138,
+  "numTopCriticReviews": 99,
+  "medianScore": 90,
+  "averageScore": 91.46280991735537,
+  "topCriticScore": 91.7159090909091,
+  "percentile": 100,
+  "tier": "Mighty",
+  "name": "Microsoft Flight Simulator",
+  "screenshots": [
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b16",
+    "fullRes": "//c.opencritic.com/images/games/9793/VobSXDDtfiS7OSBtjDeTZMuJVUcHUSlp5JcXtXnGrscYgW9A.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/VobSXDDtfiS7OSBtjDeTZMuJVUcHUSlp5JcXtXnGrscYgW9A_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b17",
+    "fullRes": "//c.opencritic.com/images/games/9793/bPAHvsQMkc6BuCChXEqODfqWSHLJhWGorIRKdZVOWD757tqf.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/bPAHvsQMkc6BuCChXEqODfqWSHLJhWGorIRKdZVOWD757tqf_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b18",
+    "fullRes": "//c.opencritic.com/images/games/9793/E0V4eqJgZba8bn9yORHMbFGgvisNm8xysg9q6rS7L4X88bzn.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/E0V4eqJgZba8bn9yORHMbFGgvisNm8xysg9q6rS7L4X88bzn_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b19",
+    "fullRes": "//c.opencritic.com/images/games/9793/zCwlrjtJHjwhpqv0RKFkaV8Ke4NxkNJr8yTyECoGE3DjhH4E.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/zCwlrjtJHjwhpqv0RKFkaV8Ke4NxkNJr8yTyECoGE3DjhH4E_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b1a",
+    "fullRes": "//c.opencritic.com/images/games/9793/dhMeudlgiE6QKaQC21qUgDNjusjycdCvwtfH6JpujsB4iIyC.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/dhMeudlgiE6QKaQC21qUgDNjusjycdCvwtfH6JpujsB4iIyC_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b1b",
+    "fullRes": "//c.opencritic.com/images/games/9793/L1jVRbzF6l6FYVXGy06gK0RonQ39UvwGtv6ysReeFCUxkMbc.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/L1jVRbzF6l6FYVXGy06gK0RonQ39UvwGtv6ysReeFCUxkMbc_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b1c",
+    "fullRes": "//c.opencritic.com/images/games/9793/xgpak82aDedN7cSlPFwu8XU5CwZy3ida9QgixcUM8aHSFSz1.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/xgpak82aDedN7cSlPFwu8XU5CwZy3ida9QgixcUM8aHSFSz1_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b1d",
+    "fullRes": "//c.opencritic.com/images/games/9793/A8LjzYD26r1CYeCCeM7OEKr1THTb2M7vxDROqxLFuZzLMMio.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/A8LjzYD26r1CYeCCeM7OEKr1THTb2M7vxDROqxLFuZzLMMio_th.jpg"
+   },
+   {
+    "_id": "5f0d86fcbdf19b0b83f20b1e",
+    "fullRes": "//c.opencritic.com/images/games/9793/wfTc3CwUmrGPFbPzdUiiJcH9VXar8ClcgNsS4jXbcFa4zlx7.jpg",
+    "thumbnail": "//c.opencritic.com/images/games/9793/wfTc3CwUmrGPFbPzdUiiJcH9VXar8ClcgNsS4jXbcFa4zlx7_th.jpg"
+   }
+  ],
+  "trailers": [
+   {
+    "title": "Let it snow!",
+    "videoId": "PQFmpakz9Yo",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Happy New Year! Let it snow!",
+    "externalUrl": "https://www.youtube.com/watch?v=PQFmpakz9Yo",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2020-01-01T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e6545"
+   },
+   {
+    "title": "Feature Discovery Series Episode 6: Airports",
+    "videoId": "10P21oFOxAU",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as Sven Mestas, Lead Game Designer from Asobo Studio talks about Airports and Airport features for the new Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=10P21oFOxAU",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2020-02-23T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e6546"
+   },
+   {
+    "title": "Feature Discovery Series - Episode 1 Preview",
+    "videoId": "HZhMQpMvFxU",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Here is a sneak peek into our upcoming feature discovery series starting with episode 1: World.",
+    "externalUrl": "https://www.youtube.com/watch?v=HZhMQpMvFxU",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2019-10-14T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e6547"
+   },
+   {
+    "title": "Feature Discovery Series Episode 7: Multiplayer",
+    "videoId": "ezcSVFQdc5g",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as CEO Sebastian Wloch talks about multiplayer in the next evolution of Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=ezcSVFQdc5g",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2020-03-26T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e6548"
+   },
+   {
+    "title": "Feature Discovery Series Episode 8: IFR",
+    "videoId": "L8_UZT8nL-U",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as Lead Designer Damien Cuzacq talks about IFR in the next evolution of Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=L8_UZT8nL-U",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2020-05-29T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e6549"
+   },
+   {
+    "title": "Feature Discovery Series Episode 1: World",
+    "videoId": "BZL5PCZO8cc",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as Lead Engine Programmer Lionel Fuentes talks about the World in the next evolution of Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=BZL5PCZO8cc",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2019-10-14T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e654a"
+   },
+   {
+    "title": "Feature Discovery Series Episode 5: Soundscape",
+    "videoId": "ySEWs6luN7Q",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as Aurélien Piters, Audio Director from Asobo Studio talks about the Soundscape for the new Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=ySEWs6luN7Q",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2020-01-20T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e654b"
+   },
+   {
+    "title": "Feature Discovery Series Episode 3: Aerodynamics",
+    "videoId": "Bw-opH4f8Qg",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as CEO Sebastian Wloch talks about the Aerodynamics in the next evolution of Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=Bw-opH4f8Qg",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2019-11-27T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e654c"
+   },
+   {
+    "title": "Feature Discovery Series Episode 2: Weather",
+    "videoId": "i8TGT87Fxyw",
+    "channelId": "UCqONzeACDBaF6FfKjh7ndAQ",
+    "description": "Watch as Creative Director David Dedeine talks about the complex weather system in the next evolution of Microsoft Flight Simulator.",
+    "externalUrl": "https://www.youtube.com/watch?v=i8TGT87Fxyw",
+    "channelTitle": "Microsoft Flight Simulator",
+    "publishedDate": "2019-10-28T00:00:00.000Z",
+    "isOpenCritic": false,
+    "isSpecial": "NO",
+    "_id": "61b19b0d2c4d563cd42e654d"
+   }
+  ],
+  "Companies": [
+   {
+    "name": "Asobo Studio",
+    "type": "DEVELOPER",
+    "_id": "5f0d86fcbdf19b0b83f20b28"
+   },
+   {
+    "name": "Xbox Game Studios",
+    "type": "PUBLISHER",
+    "_id": "5f0d86fcbdf19b0b83f20b29"
+   }
+  ],
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2020-08-18T00:00:00.000Z",
+    "_id": "5f0d86fcbdf19b0b83f20b2a"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2021-07-27T00:00:00.000Z",
+    "_id": "5faad528bc7dc4357cd198fd"
+   }
+  ],
+  "Genres": [
+   {
+    "_id": "5d866d6a93765d6778736184",
+    "id": 75,
+    "name": "Simulation"
+   }
+  ],
+  "id": 9793,
+  "firstReleaseDate": "2020-08-18T00:00:00.000Z",
+  "Affiliates": [],
+  "createdAt": "2020-07-14T10:18:51.569Z",
+  "updatedAt": "2026-09-19T09:25:31.762Z",
+  "__v": 20,
+  "description": "Microsoft Flight Simulator is the next generation of one of the most beloved simulation franchises. From light planes to wide-body jets, fly highly detailed and stunning aircraft in an incredibly realistic world. Create your flight plan and fly anywhere on the planet. Enjoy flying day or night and face realistic, challenging weather conditions.",
+  "mastheadScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/9793/pockFVdugZ9nIirzxbjv38U8KEDXuVHOXKX4t2bbZrd7Ly3b.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/9793/pockFVdugZ9nIirzxbjv38U8KEDXuVHOXKX4t2bbZrd7Ly3b_th.jpg"
+  },
+  "monetizationFeatures": {
+   "hasLootBoxes": false
+  },
+  "firstReviewDate": "2020-08-17T00:00:00.000Z",
+  "latestReviewDate": "2022-01-18T00:00:00.000Z",
+  "bannerScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/9793/SQdWKrLLYYogUCDpJXnzzsssTBcX9EOiLXPmWbxRC3X9RucO.jpg"
+  },
+  "numUserReviews": 0,
+  "squareScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/9793/4vTp53AA1sM7nYUVBmQUuSEv385rjOge9kTYAKwbJolNNYG9.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/9793/4vTp53AA1sM7nYUVBmQUuSEv385rjOge9kTYAKwbJolNNYG9_th.jpg"
+  },
+  "verticalLogoScreenshot": {
+   "fullRes": "//c.opencritic.com/images/games/9793/YoA88I2AsoFjH1xwgg3QQYJdI5ocVpViKKZGXHbg8mW4peL2.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/9793/YoA88I2AsoFjH1xwgg3QQYJdI5ocVpViKKZGXHbg8mW4peL2_th.jpg"
+  },
+  "discount": 0,
+  "Affiliate": {
+   "discount": 0
+  },
+  "adminPriority": true,
+  "isFeatured": false,
+  "imageMigrationComplete": true,
+  "images": {
+   "box": {
+    "og": "game/9793/o/jd2YKGn2.jpg",
+    "sm": "game/9793/0MIl6hjk.jpg"
+   },
+   "square": {
+    "og": "game/9793/o/9cXB9CR1.jpg",
+    "xs": "game/9793/SwB0Pkcv.jpg",
+    "sm": "game/9793/ZMnyiEAZ.jpg",
+    "lg": "game/9793/gN4jw0cm.jpg"
+   },
+   "masthead": {
+    "og": "game/9793/o/2yKieDEs.jpg",
+    "xs": "game/9793/0cGxCMLT.jpg",
+    "sm": "game/9793/u89ezkoc.jpg",
+    "md": "game/9793/ffrvv4Dw.jpg",
+    "lg": "game/9793/7LLBHP6T.jpg",
+    "xl": "game/9793/d9ytPs7D.jpg"
+   },
+   "banner": {
+    "og": "game/9793/o/y0dDaSSl.jpg",
+    "sm": "game/9793/3vtadDx1.jpg"
+   },
+   "screenshots": [
+    {
+     "og": "game/9793/o/pgwPcSRx.jpg",
+     "sm": "game/9793/qkdJFILY.jpg",
+     "_id": "62f4699ec25b595e6c509b37"
+    },
+    {
+     "og": "game/9793/o/Txhtrsmd.jpg",
+     "sm": "game/9793/LQ1BQ5ru.jpg",
+     "_id": "62f4699ec25b595e6c509b38"
+    },
+    {
+     "og": "game/9793/o/y8Zb9hLB.jpg",
+     "sm": "game/9793/kWS8r7wM.jpg",
+     "_id": "62f4699ec25b595e6c509b39"
+    },
+    {
+     "og": "game/9793/o/oJgyKBkm.jpg",
+     "sm": "game/9793/msVbXSSz.jpg",
+     "_id": "62f4699ec25b595e6c509b3a"
+    },
+    {
+     "og": "game/9793/o/ITwfqmc6.jpg",
+     "sm": "game/9793/6zRtEqZD.jpg",
+     "_id": "62f4699ec25b595e6c509b3b"
+    },
+    {
+     "og": "game/9793/o/lcm4SXEK.jpg",
+     "sm": "game/9793/41Zn90Fi.jpg",
+     "_id": "62f4699ec25b595e6c509b3c"
+    },
+    {
+     "og": "game/9793/o/TNzcVCPn.jpg",
+     "sm": "game/9793/Hf3ixkVc.jpg",
+     "_id": "62f4699ec25b595e6c509b3d"
+    },
+    {
+     "og": "game/9793/o/q576gFLZ.jpg",
+     "sm": "game/9793/ebu0zQeg.jpg",
+     "_id": "62f4699ec25b595e6c509b3e"
+    },
+    {
+     "og": "game/9793/o/8MxJV4Q0.jpg",
+     "sm": "game/9793/g4ObIqtq.jpg",
+     "_id": "62f4699ec25b595e6c509b3f"
+    }
+   ]
+  },
+  "tenthReviewDate": "2020-08-17T00:00:00.000Z",
+  "criticalReviewDate": "2020-08-17T00:00:00.000Z",
+  "isEligibleForDealFocus": true,
+  "biggestDiscountDollars": 0,
+  "biggestDiscountPercentage": 0,
+  "needsAdminDealReview": true,
+  "nextPriceScanTime": "2026-09-19T11:25:31.761Z",
+  "tags": [
+   "6699558f534cfd6134a07c40",
+   "6699556d534cfd6134a07914",
+   "6699556a534cfd6134a078d8",
+   "6699556b534cfd6134a078f4"
+  ]
+ }
+]

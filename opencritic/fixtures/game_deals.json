@@ -1,0 +1,1918 @@
+[
+ {
+  "name": "Control",
+  "id": 7858,
+  "firstReleaseDate": "2019-08-27T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/7858/o/DdVgv9n3.jpg",
+    "sm": "game/7858/d6QwczaS.jpg"
+   },
+   "banner": {
+    "og": "game/7858/o/hr9107WB.jpg",
+    "sm": "game/7858/NEqLMUqF.jpg"
+   }
+  },
+  "topCriticScore": 84,
+  "biggestDiscountPercentage": 0.85,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/control_ultimate_edition?as=1673677962",
+   "name": "GOG",
+   "_id": "6a3680eaf8c306636fd89bca",
+   "basePrice": 39.99,
+   "price": 5.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2019-08-27T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86801393765d67787a832f"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2019-08-27T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86801393765d67787a832e"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2019-08-27T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86801393765d67787a832d"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad50abc7dc4357cd19720"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5b9d988965290d0d9ab"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2019-08-27T00:00:00.000Z",
+    "_id": "676beebdbbabda28b379368a"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078d8",
+   "6699556f534cfd6134a07954",
+   "6699556b534cfd6134a078e8",
+   "6699556a534cfd6134a078dc"
+  ]
+ },
+ {
+  "name": "The Medium",
+  "id": 10820,
+  "firstReleaseDate": "2021-01-28T00:00:00.000Z",
+  "tier": "Strong",
+  "images": {
+   "box": {
+    "og": "game/10820/o/C4tHuA1X.jpg",
+    "sm": "game/10820/1bmC58e9.jpg"
+   },
+   "banner": {
+    "og": "game/10820/o/p7bEwmtc.jpg",
+    "sm": "game/10820/2bbp2OLC.jpg"
+   }
+  },
+  "topCriticScore": 75,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/the_medium?as=1673677962",
+   "name": "GOG",
+   "_id": "67515dec2d05d7dcbb7051ed",
+   "basePrice": 49.99,
+   "price": 12.49
+  },
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2021-01-28T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2021-01-28T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078e8",
+   "6699556b534cfd6134a078ec",
+   "6699556d534cfd6134a07924",
+   "6699556f534cfd6134a07954",
+   "66995570534cfd6134a07960",
+   "66995572534cfd6134a07990",
+   "66995574534cfd6134a079bc",
+   "6699557b534cfd6134a07a60",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Dead Cells",
+  "id": 6386,
+  "firstReleaseDate": "2018-08-07T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/6386/o/iec77Z9U.jpg",
+    "sm": "game/6386/XImXxUGK.jpg"
+   },
+   "banner": {
+    "og": "game/6386/o/DPUyj8fi.jpg",
+    "sm": "game/6386/mujkaBah.jpg"
+   }
+  },
+  "topCriticScore": 89,
+  "biggestDiscountPercentage": 0.5,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/dead_cells?as=1673677962",
+   "name": "GOG",
+   "_id": "68011130f8c306636fbd4722",
+   "basePrice": 24.99,
+   "price": 12.49
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-08-07T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867d2393765d67787967b5"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-08-07T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867d2393765d67787967b4"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2018-08-07T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867d2393765d67787967b3"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2018-08-07T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867d2393765d67787967b2"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad4f4bc7dc4357cd195b9"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5a5d988965290d0d7c1"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078f0",
+   "6699556d534cfd6134a07920",
+   "66995573534cfd6134a079ac",
+   "66995574534cfd6134a079c0",
+   "66995574534cfd6134a079c8",
+   "66995578534cfd6134a07a10",
+   "66995578534cfd6134a07a1c",
+   "66995579534cfd6134a07a28",
+   "6699557f534cfd6134a07ac4"
+  ]
+ },
+ {
+  "name": "Streets of Rage 4",
+  "id": 9380,
+  "firstReleaseDate": "2020-04-30T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/9380/o/ESzn67pE.jpg",
+    "sm": "game/9380/a4un7nye.jpg"
+   },
+   "banner": {
+    "og": "game/9380/o/Ot84OoK9.jpg",
+    "sm": "game/9380/jURXCr3e.jpg"
+   }
+  },
+  "topCriticScore": 84,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/streets_of_rage_4?as=1673677962",
+   "name": "GOG",
+   "_id": "69f6f9a1f8c306636fbb15f9",
+   "basePrice": 24.99,
+   "price": 6.25
+  },
+  "Platforms": [
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2020-04-30T00:00:00.000Z",
+    "_id": "5ea77200791115629dab9c24"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2020-04-30T00:00:00.000Z",
+    "_id": "5ea77200791115629dab9c25"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2020-04-30T00:00:00.000Z",
+    "_id": "674ad976f5f019508a92847d"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2020-04-30T00:00:00.000Z",
+    "_id": "674ad976f5f019508a92847e"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e4",
+   "6699556b534cfd6134a078f0",
+   "6699556c534cfd6134a07904",
+   "6699556f534cfd6134a07948",
+   "66995571534cfd6134a07978",
+   "66995571534cfd6134a07984",
+   "66995572534cfd6134a07994",
+   "6699557d534cfd6134a07a88",
+   "6699557e534cfd6134a07aa8"
+  ]
+ },
+ {
+  "name": "Cult of the Lamb",
+  "id": 13509,
+  "firstReleaseDate": "2022-08-11T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/13509/o/KW0nVeXe.jpg",
+    "sm": "game/13509/A7166nJ8.jpg"
+   },
+   "banner": {
+    "og": "game/13509/o/MVD4uDwi.jpg",
+    "sm": "game/13509/rijrv8fu.jpg"
+   }
+  },
+  "topCriticScore": 84,
+  "biggestDiscountPercentage": 0.5,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/cult_of_the_lamb?as=1673677962",
+   "name": "GOG",
+   "_id": "69bbe568f8c306636fb5eeb8",
+   "basePrice": 24.99,
+   "price": 12.49
+  },
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2022-08-11T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2022-08-11T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2022-08-11T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2022-08-11T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736111"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2022-08-11T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736114"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2022-08-11T00:00:00.000Z",
+    "_id": "62f0c62740f04c5b089d9834"
+   }
+  ],
+  "tags": [
+   "6699556e534cfd6134a0792c",
+   "66995572534cfd6134a07988",
+   "66995574534cfd6134a079c8",
+   "66995578534cfd6134a07a18",
+   "66995579534cfd6134a07a28",
+   "6699557c534cfd6134a07a6c",
+   "66995580534cfd6134a07acc",
+   "66995580534cfd6134a07ad0",
+   "66995591534cfd6134a07c6c",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Death's Door",
+  "id": 11687,
+  "firstReleaseDate": "2021-07-20T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/11687/o/geg12wka.jpg",
+    "sm": "game/11687/Lqh8DRqa.jpg"
+   },
+   "banner": {
+    "og": "game/11687/o/gnpt4GqS.jpg",
+    "sm": "game/11687/h746OCyN.jpg"
+   }
+  },
+  "topCriticScore": 88,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/deaths_door?as=1673677962",
+   "name": "GOG",
+   "_id": "679fc2b72d05d7dcbb9cf5d2",
+   "basePrice": 19.99,
+   "price": 4.99
+  },
+  "Platforms": [
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2021-07-20T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736114"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2021-07-20T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2021-07-20T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2021-07-20T00:00:00.000Z",
+    "_id": "6744b5faf5f019508a869558"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2021-07-20T00:00:00.000Z",
+    "_id": "6744b5faf5f019508a869559"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2021-07-20T00:00:00.000Z",
+    "_id": "6744b5faf5f019508a86955a"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a078f8",
+   "6699556e534cfd6134a0792c",
+   "6699556f534cfd6134a0794c",
+   "66995573534cfd6134a079a8",
+   "66995574534cfd6134a079c0",
+   "66995577534cfd6134a07a00",
+   "6699557e534cfd6134a07a9c",
+   "6699557f534cfd6134a07ac4"
+  ]
+ },
+ {
+  "name": "Metro Exodus",
+  "id": 6847,
+  "firstReleaseDate": "2019-02-15T00:00:00.000Z",
+  "tier": "Strong",
+  "images": {
+   "box": {
+    "og": "game/6847/o/hZ66DejQ.jpg",
+    "sm": "game/6847/KaracorD.jpg"
+   },
+   "banner": {
+    "og": "game/6847/o/5llht4Z0.jpg",
+    "sm": "game/6847/E2RLXTxf.jpg"
+   }
+  },
+  "topCriticScore": 83,
+  "biggestDiscountPercentage": 0.85,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/metro_exodus?as=1673677962",
+   "name": "GOG",
+   "_id": "68dba669f8c306636f43632a",
+   "basePrice": 29.99,
+   "price": 4.49
+  },
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2019-02-15T00:00:00.000Z",
+    "_id": "5dd2f01066e2226fc0063a4d"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2019-02-15T00:00:00.000Z",
+    "_id": "5dd2f01066e2226fc0063a4c"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2019-02-15T00:00:00.000Z",
+    "_id": "5dd2f01066e2226fc0063a4b"
+   },
+   {
+    "id": 38,
+    "name": "Google Stadia",
+    "shortName": "Stadia",
+    "imageSrc": "https://c.opencritic.com/images/platforms/stadia.png",
+    "releaseDate": "2019-11-19T00:00:00.000Z",
+    "_id": "5dd2f01066e2226fc0063a4a"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad4fbbc7dc4357cd19639"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5abd988965290d0d868"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e8",
+   "6699556b534cfd6134a078ec",
+   "6699556f534cfd6134a07940",
+   "66995570534cfd6134a07960",
+   "66995572534cfd6134a0799c",
+   "66995575534cfd6134a079d0",
+   "6699557b534cfd6134a07a58",
+   "6699556a534cfd6134a078d8",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "name": "Vampyr",
+  "id": 6160,
+  "firstReleaseDate": "2018-06-05T00:00:00.000Z",
+  "tier": "Fair",
+  "images": {
+   "box": {
+    "og": "game/6160/o/Jo7becDU.jpg",
+    "sm": "game/6160/zW43AaPl.jpg"
+   },
+   "banner": {
+    "og": "game/6160/o/qbGMG55e.jpg",
+    "sm": "game/6160/RknEoVFF.jpg"
+   }
+  },
+  "topCriticScore": 72,
+  "biggestDiscountPercentage": 0.9,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/vampyr?as=1673677962",
+   "name": "GOG",
+   "_id": "69f2a637f8c306636fa722a9",
+   "basePrice": 39.99,
+   "price": 3.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-06-05T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867c9e93765d6778792a15"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-06-05T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867c9e93765d6778792a14"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2018-06-05T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867c9e93765d6778792a13"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad4f1bc7dc4357cd19575"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5a2d988965290d0d776"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2018-06-05T00:00:00.000Z",
+    "_id": "675ae897fc2b4b4edca900e5"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e8",
+   "6699556b534cfd6134a078ec",
+   "6699556c534cfd6134a078f8",
+   "6699556f534cfd6134a07954",
+   "66995570534cfd6134a07960",
+   "66995570534cfd6134a0796c",
+   "66995597534cfd6134a07cf8",
+   "6699556a534cfd6134a078d8",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "name": "Kena: Bridge of Spirits",
+  "id": 11516,
+  "firstReleaseDate": "2021-09-21T00:00:00.000Z",
+  "tier": "Strong",
+  "images": {
+   "box": {
+    "og": "game/11516/o/ZFzfCCRN.jpg",
+    "sm": "game/11516/U5i3luwy.jpg"
+   }
+  },
+  "topCriticScore": 82,
+  "biggestDiscountPercentage": 0.5,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/kena_bridge_of_spirits?as=1673677962",
+   "name": "GOG",
+   "_id": "6a35a7b7f8c306636fd6edaf",
+   "basePrice": 39.99,
+   "price": 19.99
+  },
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2021-09-21T00:00:00.000Z",
+    "_id": "60bfddb075bc2114889a98fb"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2021-09-21T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736111"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2021-09-21T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2021-09-21T00:00:00.000Z",
+    "_id": "675008e8b9545173a94bae58"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2021-09-21T00:00:00.000Z",
+    "_id": "675008e8b9545173a94bae59"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2021-09-21T00:00:00.000Z",
+    "_id": "69d63fe45d660c3b6228512c"
+   }
+  ],
+  "tags": [
+   "6699556f534cfd6134a0794c",
+   "6699556f534cfd6134a07954",
+   "6699556c534cfd6134a0790c",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Trek to Yomi",
+  "id": 13107,
+  "firstReleaseDate": "2022-05-05T00:00:00.000Z",
+  "tier": "Fair",
+  "images": {
+   "box": {
+    "og": "game/13107/o/OlIZcJt6.jpg",
+    "sm": "game/13107/Zadnfvpp.jpg"
+   }
+  },
+  "topCriticScore": 72,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/trek_to_yomi?as=1673677962",
+   "name": "GOG",
+   "_id": "67510d102d05d7dcbb6fac18",
+   "basePrice": 19.99,
+   "price": 4.99
+  },
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2022-05-05T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2022-05-05T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2022-05-05T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736111"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2022-05-05T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2022-05-05T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736114"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078ec",
+   "6699556f534cfd6134a0794c",
+   "6699556f534cfd6134a07954",
+   "66995571534cfd6134a07984",
+   "66995572534cfd6134a0798c",
+   "66995574534cfd6134a079c0",
+   "6699557e534cfd6134a07aac",
+   "6699558c534cfd6134a07bf0"
+  ]
+ },
+ {
+  "name": "GRIS",
+  "id": 6890,
+  "firstReleaseDate": "2018-12-13T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/6890/o/G3jXxlZE.jpg",
+    "sm": "game/6890/zxAXloHw.jpg"
+   },
+   "banner": {
+    "og": "game/6890/o/yz5Q4hg4.jpg",
+    "sm": "game/6890/CVgupXJr.jpg"
+   }
+  },
+  "topCriticScore": 86,
+  "biggestDiscountPercentage": 0.8,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/gris?as=1673677962",
+   "name": "GOG",
+   "_id": "67c4c858f8c306636fdaa281",
+   "basePrice": 14.99,
+   "price": 2.99
+  },
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2018-12-13T00:00:00.000Z",
+    "_id": "5da6810b402e852c8ae71d07"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2018-12-13T00:00:00.000Z",
+    "_id": "5da6810b402e852c8ae71d06"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-12-13T00:00:00.000Z",
+    "_id": "6758d93ffc2b4b4edca3a6ec"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2018-12-13T00:00:00.000Z",
+    "_id": "6758d93ffc2b4b4edca3a6ed"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2018-12-13T00:00:00.000Z",
+    "_id": "6758d93ffc2b4b4edca3a6ee"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-12-13T00:00:00.000Z",
+    "_id": "6758d93ffc2b4b4edca3a6ef"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078e4",
+   "6699556b534cfd6134a078ec",
+   "6699556c534cfd6134a07904",
+   "6699556d534cfd6134a07924",
+   "6699556e534cfd6134a07934",
+   "66995573534cfd6134a079a0",
+   "66995575534cfd6134a079dc",
+   "66995583534cfd6134a07b14",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Blasphemous 2",
+  "id": 15371,
+  "firstReleaseDate": "2023-08-24T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/15371/o/6YXcFgXl.jpg",
+    "sm": "game/15371/8EHcm9pw.jpg"
+   },
+   "banner": {
+    "og": "game/15371/o/xtpgRd93.jpg",
+    "sm": "game/15371/GQDUSejh.jpg"
+   }
+  },
+  "topCriticScore": 84,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/blasphemous_2?as=1673677962",
+   "name": "GOG",
+   "_id": "69f2a9b9f8c306636fa72f9b",
+   "basePrice": 29.99,
+   "price": 7.49
+  },
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2023-08-24T00:00:00.000Z",
+    "displayRelease": "2023-08-24",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2023-08-24T00:00:00.000Z",
+    "displayRelease": "2023-08-24",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2023-08-24T00:00:00.000Z",
+    "displayRelease": "2023-08-24",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2023-08-24T00:00:00.000Z",
+    "displayRelease": "2023-08-24",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2023-08-24T00:00:00.000Z",
+    "displayRelease": "2023-08-24",
+    "_id": "5d866d6893765d6778736111"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556d534cfd6134a07920",
+   "6699556e534cfd6134a07938",
+   "66995571534cfd6134a07984",
+   "66995573534cfd6134a079b0",
+   "66995574534cfd6134a079c0",
+   "66995576534cfd6134a079f0",
+   "66995578534cfd6134a07a1c",
+   "6699557f534cfd6134a07ac4",
+   "669955a0534cfd6134a07dd0"
+  ]
+ },
+ {
+  "name": "Guacamelee! 2",
+  "id": 6512,
+  "firstReleaseDate": "2018-08-21T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/6512/o/Ui8hGsnv.jpg",
+    "sm": "game/6512/toFKorYj.jpg"
+   },
+   "banner": {
+    "og": "game/6512/o/NxWXGdgS.jpg",
+    "sm": "game/6512/kNCo9L7J.jpg"
+   }
+  },
+  "topCriticScore": 86,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/guacamelee_2?as=1673677962",
+   "name": "GOG",
+   "_id": "67dbf336f8c306636f3a8965",
+   "basePrice": 19.99,
+   "price": 4.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-08-21T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867d5d93765d6778798305"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2018-08-21T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867d5d93765d6778798304"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5a7d988965290d0d7ea"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-08-21T00:00:00.000Z",
+    "_id": "675ce65bfc2b4b4edcacccbb"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2018-08-21T00:00:00.000Z",
+    "_id": "675ce65bfc2b4b4edcacccbc"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078f0",
+   "6699556e534cfd6134a07928",
+   "6699556e534cfd6134a07934",
+   "6699556e534cfd6134a07938",
+   "66995571534cfd6134a07974",
+   "66995573534cfd6134a079a8",
+   "66995578534cfd6134a07a1c",
+   "6699557e534cfd6134a07aa8"
+  ]
+ },
+ {
+  "name": "No Man's Sky",
+  "id": 2393,
+  "firstReleaseDate": "2016-08-09T00:00:00.000Z",
+  "tier": "Fair",
+  "images": {
+   "box": {
+    "og": "game/2393/o/Z7DATmMH.jpg",
+    "sm": "game/2393/8URk6U4D.jpg"
+   },
+   "banner": {
+    "og": "game/2393/o/p8rii73S.jpg",
+    "sm": "game/2393/KAtr5QCA.jpg"
+   }
+  },
+  "topCriticScore": 71,
+  "biggestDiscountPercentage": 0.6,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/no_mans_sky?as=1673677962",
+   "name": "GOG",
+   "_id": "6a0c8221f8c306636f29ac6c",
+   "basePrice": 59.99,
+   "price": 23.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2016-08-09T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86745f93765d677875e534"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2016-08-12T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86745f93765d677875e533"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad56ed988965290d0d29c"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2016-08-09T00:00:00.000Z",
+    "_id": "675400ecb9545173a9537aca"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2016-08-09T00:00:00.000Z",
+    "_id": "675400ecb9545173a9537acb"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2016-08-09T00:00:00.000Z",
+    "_id": "675400ecb9545173a9537acc"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2016-08-09T00:00:00.000Z",
+    "_id": "69f2a6365d660c3b625e93b3"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a07900",
+   "6699556e534cfd6134a07930",
+   "6699556f534cfd6134a07940",
+   "66995572534cfd6134a0799c",
+   "66995574534cfd6134a079c4",
+   "66995577534cfd6134a079f8",
+   "66995579534cfd6134a07a34",
+   "66995593534cfd6134a07c98",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "name": "Wasteland 3",
+  "id": 9140,
+  "firstReleaseDate": "2020-08-28T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/9140/o/buw5LzKJ.jpg",
+    "sm": "game/9140/9YQ4B9bR.jpg"
+   },
+   "banner": {
+    "og": "game/9140/o/k60kaUto.jpg",
+    "sm": "game/9140/Qra0ougs.jpg"
+   }
+  },
+  "topCriticScore": 86,
+  "biggestDiscountPercentage": 0.7,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/wasteland_3?as=1673677962",
+   "name": "GOG",
+   "_id": "69f2a637f8c306636fa72350",
+   "basePrice": 39.99,
+   "price": 11.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "releaseDate": "2020-08-28T00:00:00.000Z",
+    "displayRelease": "",
+    "_id": "5e67daf56649190f9f65ed81"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2020-08-28T00:00:00.000Z",
+    "_id": "5e67daf56649190f9f65ed82"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2020-08-28T00:00:00.000Z",
+    "displayRelease": "",
+    "_id": "5d866d6893765d6778736114"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad51ebc7dc4357cd1984e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5cad988965290d0db32"
+   }
+  ],
+  "tags": [
+   "6699556c534cfd6134a078f8",
+   "6699556c534cfd6134a07908",
+   "6699556e534cfd6134a07928",
+   "66995570534cfd6134a0796c",
+   "66995572534cfd6134a07988",
+   "66995576534cfd6134a079e0",
+   "66995577534cfd6134a07a08",
+   "6699557a534cfd6134a07a40",
+   "6699557b534cfd6134a07a58",
+   "6699558e534cfd6134a07c1c"
+  ]
+ },
+ {
+  "name": "Ghostrunner 2",
+  "id": 15392,
+  "firstReleaseDate": "2023-10-26T00:00:00.000Z",
+  "tier": "Strong",
+  "images": {
+   "box": {
+    "og": "game/15392/o/Mhd1vhkg.jpg",
+    "sm": "game/15392/cgLaGMuR.jpg"
+   },
+   "banner": {
+    "og": "game/15392/o/r6VKabri.jpg",
+    "sm": "game/15392/nxAjbNPb.jpg"
+   }
+  },
+  "topCriticScore": 79,
+  "biggestDiscountPercentage": 0.8,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/ghostrunner_2?as=1673677962",
+   "name": "GOG",
+   "_id": "68190471f8c306636f15c389",
+   "basePrice": 39.99,
+   "price": 7.99
+  },
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2023-10-26T00:00:00.000Z",
+    "_id": "64e504572094be031febb576"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2023-10-26T00:00:00.000Z",
+    "_id": "64e504572094be031febb577"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2023-10-26T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556e534cfd6134a07938",
+   "6699556f534cfd6134a07940",
+   "66995571534cfd6134a07970",
+   "66995574534cfd6134a079c0",
+   "6699557a534cfd6134a07a48",
+   "6699557d534cfd6134a07a90",
+   "6699558c534cfd6134a07bf0",
+   "66995595534cfd6134a07cc8",
+   "66995596534cfd6134a07cd0"
+  ]
+ },
+ {
+  "name": "Jusant",
+  "id": 15742,
+  "firstReleaseDate": "2023-10-31T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/15742/o/TjZe1nu6.jpg",
+    "sm": "game/15742/e1pMoqOU.jpg"
+   }
+  },
+  "topCriticScore": 84,
+  "biggestDiscountPercentage": 0.6,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/jusant?as=1673677962",
+   "name": "GOG",
+   "_id": "698b83d9f8c306636ff1fd65",
+   "basePrice": 24.99,
+   "price": 9.99
+  },
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2023-10-31T00:00:00.000Z",
+    "displayRelease": "2023-10-31",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2023-10-31T00:00:00.000Z",
+    "displayRelease": "2023-10-31",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2023-10-31T00:00:00.000Z",
+    "displayRelease": "2023-10-31",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078ec",
+   "6699556c534cfd6134a07900",
+   "6699556c534cfd6134a0790c",
+   "6699556e534cfd6134a0792c",
+   "6699556f534cfd6134a0794c",
+   "66995581534cfd6134a07af8",
+   "66995583534cfd6134a07b18",
+   "66995589534cfd6134a07bb4"
+  ]
+ },
+ {
+  "name": "RoboCop: Rogue City",
+  "id": 15763,
+  "firstReleaseDate": "2023-11-02T00:00:00.000Z",
+  "tier": "Fair",
+  "images": {
+   "box": {
+    "og": "game/undefined/o/qumEYxON.jpg",
+    "sm": "game/undefined/nzIbDy6v.jpg"
+   },
+   "banner": {
+    "og": "game/15763/o/esjiN99U.jpg",
+    "sm": "game/15763/Qj2YMvvi.jpg"
+   }
+  },
+  "topCriticScore": 73,
+  "biggestDiscountPercentage": 0.9,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/robocop_rogue_city?as=1673677962",
+   "name": "GOG",
+   "_id": "69f2a9b9f8c306636fa733e3",
+   "basePrice": 39.99,
+   "price": 3.99
+  },
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2023-11-02T00:00:00.000Z",
+    "displayRelease": "2023-11-02",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2023-11-02T00:00:00.000Z",
+    "displayRelease": "2023-11-02",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2023-11-02T00:00:00.000Z",
+    "displayRelease": "2023-11-02",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078e8",
+   "6699556b534cfd6134a078ec",
+   "6699556f534cfd6134a07940",
+   "66995570534cfd6134a07964",
+   "66995571534cfd6134a0797c",
+   "66995575534cfd6134a079d0",
+   "6699557d534cfd6134a07a90",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Frostpunk",
+  "id": 5948,
+  "firstReleaseDate": "2018-04-24T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/5948/o/GlsqIjQS.jpg",
+    "sm": "game/5948/2KnPRIdY.jpg"
+   },
+   "banner": {
+    "og": "game/5948/o/ndmPR0bJ.jpg",
+    "sm": "game/5948/YnH6g8Hn.jpg"
+   }
+  },
+  "topCriticScore": 85,
+  "biggestDiscountPercentage": 0.85,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/frostpunk?as=1673677962",
+   "name": "GOG",
+   "_id": "6923721af8c306636fbdf33d",
+   "basePrice": 29.99,
+   "price": 4.49
+  },
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2018-04-24T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d867c2293765d677878f23f"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-04-24T00:00:00.000Z",
+    "_id": "6756bc88b9545173a959222e"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-04-24T00:00:00.000Z",
+    "_id": "6756bc88b9545173a959222f"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2018-04-24T00:00:00.000Z",
+    "_id": "6756bc88b9545173a9592230"
+   }
+  ],
+  "tags": [
+   "6699556c534cfd6134a07908",
+   "66995572534cfd6134a0799c",
+   "66995578534cfd6134a07a18",
+   "6699557b534cfd6134a07a58",
+   "6699557e534cfd6134a07aa4",
+   "66995580534cfd6134a07acc",
+   "66995582534cfd6134a07b04",
+   "6699558c534cfd6134a07bf4",
+   "66995591534cfd6134a07c6c",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Deus Ex: Mankind Divided",
+  "id": 1812,
+  "firstReleaseDate": "2016-08-23T00:00:00.000Z",
+  "tier": "Strong",
+  "images": {
+   "box": {
+    "og": "game/1812/o/8rWwhH3k.jpg",
+    "sm": "game/1812/95WDUJl0.jpg"
+   },
+   "banner": {
+    "og": "game/1812/o/we6FuDaq.jpg",
+    "sm": "game/1812/Y58PDbvs.jpg"
+   }
+  },
+  "topCriticScore": 81,
+  "biggestDiscountPercentage": 0.9,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/deus_ex_mankind_divided?as=1673677962",
+   "name": "GOG",
+   "_id": "6754e8f42d05d7dcbb81d10c",
+   "basePrice": 29.99,
+   "price": 2.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2016-08-23T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86731a93765d67787565c9"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2016-08-23T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86731a93765d67787565c8"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2016-08-23T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86731a93765d67787565c7"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad4b3bc7dc4357cd1914c"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad566d988965290d0d1de"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e8",
+   "6699556b534cfd6134a078ec",
+   "6699556c534cfd6134a078f8",
+   "6699556e534cfd6134a07930",
+   "6699556f534cfd6134a07940",
+   "66995579534cfd6134a07a2c",
+   "6699557a534cfd6134a07a3c",
+   "6699557d534cfd6134a07a90",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Bloodstained: Ritual of the Night",
+  "id": 7710,
+  "firstReleaseDate": "2019-06-18T00:00:00.000Z",
+  "tier": "Strong",
+  "images": {
+   "box": {
+    "og": "game/7710/o/rSUtgVnw.jpg",
+    "sm": "game/7710/wV4w5zoT.jpg"
+   },
+   "banner": {
+    "og": "game/7710/o/Z8QnqWCm.jpg",
+    "sm": "game/7710/rs3cmwCI.jpg"
+   }
+  },
+  "topCriticScore": 83,
+  "biggestDiscountPercentage": 0.75,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/game/bloodstained_ritual_of_the_night?as=1673677962",
+   "name": "GOG",
+   "_id": "69f2a637f8c306636fa720c1",
+   "basePrice": 39.99,
+   "price": 9.99
+  },
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2019-06-18T00:00:00.000Z",
+    "_id": "5da6813a402e852c8ae720f6"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2019-06-18T00:00:00.000Z",
+    "_id": "5da6813a402e852c8ae720f5"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2019-06-18T00:00:00.000Z",
+    "_id": "5da6813a402e852c8ae720f4"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2019-06-25T00:00:00.000Z",
+    "_id": "5da6813a402e852c8ae720f3"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad508bc7dc4357cd196fd"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad5b7d988965290d0d97e"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a078f8",
+   "6699556c534cfd6134a07904",
+   "6699556d534cfd6134a07924",
+   "6699556e534cfd6134a07934",
+   "66995570534cfd6134a07958",
+   "66995571534cfd6134a07984",
+   "66995578534cfd6134a07a1c",
+   "6699557d534cfd6134a07a94"
+  ]
+ },
+ {
+  "name": "Kingdom Come: Deliverance",
+  "id": 1561,
+  "firstReleaseDate": "2018-02-13T00:00:00.000Z",
+  "tier": "Fair",
+  "images": {
+   "box": {
+    "og": "game/1561/o/VR4mtVSl.jpg",
+    "sm": "game/1561/Qs0V32Cq.jpg"
+   },
+   "banner": {
+    "og": "game/1561/o/XbZVbnGu.jpg",
+    "sm": "game/1561/JHo1GImq.jpg"
+   }
+  },
+  "topCriticScore": 72,
+  "biggestDiscountPercentage": 0.85,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/kingdom_come_deliverance?as=1673677962",
+   "name": "GOG",
+   "_id": "69f2a635f8c306636fa70d4f",
+   "basePrice": 29.99,
+   "price": 4.49
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-02-13T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86720e93765d677874f5d2"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-02-13T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86720e93765d677874f5d1"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2018-02-13T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86720e93765d677874f5d0"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad4afbc7dc4357cd190e0"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad563d988965290d0d152"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2018-02-13T00:00:00.000Z",
+    "_id": "674f78c3b9545173a94a446e"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078e8",
+   "6699556c534cfd6134a078f8",
+   "6699556f534cfd6134a07940",
+   "66995576534cfd6134a079f4",
+   "6699557a534cfd6134a07a50",
+   "6699557f534cfd6134a07ab4",
+   "6699558c534cfd6134a07bf0",
+   "6699556a534cfd6134a078d8",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "name": "Return to Monkey Island",
+  "id": 13681,
+  "firstReleaseDate": "2022-09-19T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/13681/o/84PqSgsy.jpg",
+    "sm": "game/13681/2jXGUieb.jpg"
+   },
+   "banner": {
+    "og": "game/13681/o/0KTwp8Wc.jpg",
+    "sm": "game/13681/RF9jAiJA.jpg"
+   }
+  },
+  "topCriticScore": 87,
+  "biggestDiscountPercentage": 0.7,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/return_to_monkey_island?as=1673677962",
+   "name": "GOG",
+   "_id": "6907c61df8c306636f2fc9c4",
+   "basePrice": 24.99,
+   "price": 7.49
+  },
+  "Platforms": [
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2022-09-19T00:00:00.000Z",
+    "_id": "63237229c007ad68b4d8c3c3"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2022-09-19T00:00:00.000Z",
+    "_id": "63237229c007ad68b4d8c3c4"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2022-09-19T00:00:00.000Z",
+    "_id": "67564c08b9545173a9586a03"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2022-09-19T00:00:00.000Z",
+    "_id": "67564c08b9545173a9586a04"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2022-09-19T00:00:00.000Z",
+    "_id": "67564c08b9545173a9586a05"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078f0",
+   "6699556d534cfd6134a07910",
+   "6699556d534cfd6134a07918",
+   "66995570534cfd6134a07968",
+   "66995574534cfd6134a079b8",
+   "66995575534cfd6134a079dc",
+   "66995596534cfd6134a07ce0",
+   "6699559c534cfd6134a07d68",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Owlboy",
+  "id": 3270,
+  "firstReleaseDate": "2016-11-01T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/3270/o/LJ0yQfju.jpg",
+    "sm": "game/3270/0H2Z61E7.jpg"
+   },
+   "banner": {
+    "og": "game/3270/o/wRoLTyNm.jpg",
+    "sm": "game/3270/UjKO90tn.jpg"
+   }
+  },
+  "topCriticScore": 88,
+  "biggestDiscountPercentage": 0.8,
+  "featuredDeal": {
+   "externalUrl": "https://af.gog.com/en/game/owlboy?as=1673677962",
+   "name": "GOG",
+   "_id": "675b71b32d05d7dcbbb0a1a0",
+   "basePrice": 19.99,
+   "price": 3.99
+  },
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2018-04-10T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86764193765d677876a1de"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2018-04-10T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86764193765d677876a1dd"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2016-11-01T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86764193765d677876a1dc"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2018-02-13T00:00:00.000Z",
+    "displayRelease": null,
+    "_id": "5d86764193765d677876a1db"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2020-11-10T00:00:00.000Z",
+    "_id": "5faad4c7bc7dc4357cd192a5"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2020-11-12T00:00:00.000Z",
+    "_id": "5faad579d988965290d0d3ba"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078e4",
+   "6699556b534cfd6134a078e8",
+   "6699556b534cfd6134a078ec",
+   "6699556b534cfd6134a078f0",
+   "6699556c534cfd6134a07904",
+   "6699556d534cfd6134a07920",
+   "6699556e534cfd6134a07934",
+   "66995578534cfd6134a07a1c"
+  ]
+ }
+]

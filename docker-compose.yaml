@@ -1,0 +1,10 @@
+services:
+  opencritic-scraper:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      # Optional — OpenCritic does not rate-limit, so leave this unset.
+      # - OPENCRITIC_PROXY=http://user:pass@host:port

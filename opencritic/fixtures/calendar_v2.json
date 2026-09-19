@@ -1,0 +1,2216 @@
+{
+ "games": [
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/4Fpjwq2B.jpg",
+     "sm": "game/undefined/fVops999.jpg"
+    }
+   },
+   "_id": "69934dd4f8c306636f12abfb",
+   "id": 20115,
+   "name": "Calamity Angels: Special Delivery",
+   "firstReleaseDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20538/o/ekJkdWRq.jpg",
+     "sm": "game/20538/NJqWeWq2.jpg"
+    }
+   },
+   "_id": "69f8beb9f8c306636fc2d562",
+   "id": 20538,
+   "name": "World of Tanks: HEAT",
+   "firstReleaseDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20797/o/5zLz4VQ3.jpg",
+     "sm": "game/20797/v2mVcEEx.jpg"
+    }
+   },
+   "_id": "6a2712a2f8c306636fa088e5",
+   "id": 20797,
+   "name": "Minecraft Dungeons II",
+   "firstReleaseDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20798/o/KSQqIzbT.jpg",
+     "sm": "game/20798/zofv60yi.jpg"
+    }
+   },
+   "_id": "6a2712bcf8c306636fa088e8",
+   "id": 20798,
+   "name": "Mistfall Hunter",
+   "firstReleaseDate": "2026-01-01T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19498/o/H0ThRRvN.jpg",
+     "sm": "game/19498/l4TlcYKK.jpg"
+    }
+   },
+   "_id": "68ee6032f8c306636f9d14ca",
+   "id": 19498,
+   "name": "Pathologic 3",
+   "firstReleaseDate": "2026-01-09T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/uignBnTK.jpg",
+     "sm": "game/undefined/CUszwZ0z.jpg"
+    }
+   },
+   "_id": "69651af6f8c306636f7487f7",
+   "id": 19940,
+   "name": "Big Hops",
+   "firstReleaseDate": "2026-01-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/Df48SaYP.jpg",
+     "sm": "game/undefined/1ReFFRUD.jpg"
+    }
+   },
+   "_id": "69651b58f8c306636f748802",
+   "id": 19941,
+   "name": "CASSETTE BOY",
+   "firstReleaseDate": "2026-01-14T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/18976/o/J3DlYKPU.jpg",
+     "sm": "game/18976/62AwRoIM.jpg"
+    }
+   },
+   "_id": "6883a1c7f8c306636fc16dc9",
+   "id": 18976,
+   "name": "The Legend of Heroes: Trails Beyond the Horizon",
+   "firstReleaseDate": "2026-01-15T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19943/o/Es1wLYcu.jpg",
+     "sm": "game/19943/IxswfKI8.jpg"
+    }
+   },
+   "_id": "69668255f8c306636f785fa1",
+   "id": 19943,
+   "name": "Animal Crossing: New Horizons - Nintendo Switch 2 Edition",
+   "firstReleaseDate": "2026-01-15T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19676/o/xBZfuLMT.jpg",
+     "sm": "game/19676/LXlBhdC6.jpg"
+    }
+   },
+   "_id": "6914ab2ef8c306636f68d279",
+   "id": 19676,
+   "name": "BrokenLore: UNFOLLOW",
+   "firstReleaseDate": "2026-01-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19840/o/ij7LpM5g.jpg",
+     "sm": "game/19840/BQeQqH7u.jpg"
+    }
+   },
+   "_id": "693844c8f8c306636f1d4b6e",
+   "id": 19840,
+   "name": "MIO: Memories in Orbit",
+   "firstReleaseDate": "2026-01-20T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19955/o/01HnNR4m.jpg",
+     "sm": "game/19955/s6FuROgA.jpg"
+    }
+   },
+   "_id": "696d1a76f8c306636f848846",
+   "id": 19955,
+   "name": "TR-49",
+   "firstReleaseDate": "2026-01-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19995/o/lBNHdXS4.jpg",
+     "sm": "game/19995/uKIQvmJU.jpg"
+    }
+   },
+   "_id": "6973c0acf8c306636f9a6b5b",
+   "id": 19995,
+   "name": "Dynasty Warriors: Origins - Visions of Four Heroes",
+   "firstReleaseDate": "2026-01-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19956/o/GSgroyPN.jpg",
+     "sm": "game/19956/HWvhtCUb.jpg"
+    }
+   },
+   "_id": "696d1af1f8c306636f84884d",
+   "id": 19956,
+   "name": "Perfect Tides: Station to Station",
+   "firstReleaseDate": "2026-01-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19962/o/7MnwNQZO.jpg",
+     "sm": "game/19962/Kv9AVVD4.jpg"
+    }
+   },
+   "_id": "696e7f80f8c306636f876df9",
+   "id": 19962,
+   "name": "Cult of the Lamb: Woolhaven",
+   "firstReleaseDate": "2026-01-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19963/o/7cExonS2.jpg",
+     "sm": "game/19963/NIJ3I2IH.jpg"
+    }
+   },
+   "_id": "696f166ef8c306636f87e378",
+   "id": 19963,
+   "name": "Arknights: Endfield",
+   "firstReleaseDate": "2026-01-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19945/o/04zqHctr.jpg",
+     "sm": "game/19945/a8REbOn8.jpg"
+    }
+   },
+   "_id": "6966da6af8c306636f792b2e",
+   "id": 19945,
+   "name": "Escape from Ever After",
+   "firstReleaseDate": "2026-01-23T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20007/o/BbdX5FLx.jpg",
+     "sm": "game/20007/gIi1Mg4n.jpg"
+    }
+   },
+   "_id": "6977e068f8c306636fa2428e",
+   "id": 20007,
+   "name": "Fighting Force Collection",
+   "firstReleaseDate": "2026-01-23T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19859/o/y8UxoR8Y.jpg",
+     "sm": "game/19859/XmsMNKaU.jpg"
+    }
+   },
+   "_id": "693c39c7f8c306636f2b24ca",
+   "id": 19859,
+   "name": "Highguard",
+   "firstReleaseDate": "2026-01-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/klmpJzoK.jpg",
+     "sm": "game/undefined/EudLaEN3.jpg"
+    }
+   },
+   "_id": "69811d22f8c306636fc34c4c",
+   "id": 20034,
+   "name": "Dark Auction",
+   "firstReleaseDate": "2026-01-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19843/o/VcTS5ct6.jpg",
+     "sm": "game/19843/2atjJF2I.jpg"
+    }
+   },
+   "_id": "69385d94f8c306636f1e6641",
+   "id": 19843,
+   "name": "Don't Stop, Girlypop!",
+   "firstReleaseDate": "2026-01-29T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19998/o/WjzwgZ1y.jpg",
+     "sm": "game/19998/3Cviq8cS.jpg"
+    }
+   },
+   "_id": "69754151f8c306636f9cc7e3",
+   "id": 19998,
+   "name": "Cairn",
+   "firstReleaseDate": "2026-01-29T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19371/o/fEdim07J.jpg",
+     "sm": "game/19371/yNxthCCZ.jpg"
+    }
+   },
+   "_id": "68d53f3df8c306636f2523d4",
+   "id": 19371,
+   "name": "Code Vein II",
+   "firstReleaseDate": "2026-01-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19296/o/kulOPSyd.jpg",
+     "sm": "game/19296/ZRMsPd05.jpg"
+    }
+   },
+   "_id": "68c826fcf8c306636fd4ca60",
+   "id": 19296,
+   "name": "Dragon Quest VII Reimagined",
+   "firstReleaseDate": "2026-02-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19484/o/rNhjxmjn.jpg",
+     "sm": "game/19484/AZPyU0Qz.jpg"
+    }
+   },
+   "_id": "68e9108cf8c306636f8f2621",
+   "id": 19484,
+   "name": "My Hero Academia: All's Justice",
+   "firstReleaseDate": "2026-02-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20043/o/9cJ1vstu.jpg",
+     "sm": "game/20043/wcriIuit.jpg"
+    }
+   },
+   "_id": "6982df6ef8c306636fc8c7a7",
+   "id": 20043,
+   "name": "Lovish",
+   "firstReleaseDate": "2026-02-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20054/o/qKGPxO2h.jpg",
+     "sm": "game/20054/UnKzmFBB.jpg"
+    }
+   },
+   "_id": "6984c66bf8c306636fd4f608",
+   "id": 20054,
+   "name": "Super Bomberman Collection",
+   "firstReleaseDate": "2026-02-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19372/o/CRxOfiWE.jpg",
+     "sm": "game/19372/3BSqlcY5.jpg"
+    }
+   },
+   "_id": "68d53f44f8c306636f2523d7",
+   "id": 19372,
+   "name": "Nioh 3",
+   "firstReleaseDate": "2026-02-06T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19908/o/2jDpYXyZ.jpg",
+     "sm": "game/19908/eBBeDq6D.jpg"
+    }
+   },
+   "_id": "6957e942f8c306636f62d704",
+   "id": 19908,
+   "name": "Carmageddon: Rogue Shift",
+   "firstReleaseDate": "2026-02-06T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20031/o/opyyzGJ5.jpg",
+     "sm": "game/20031/sLhpH4PW.jpg"
+    }
+   },
+   "_id": "6980c10cf8c306636fc0114f",
+   "id": 20031,
+   "name": "Crisol: Theater of Idols",
+   "firstReleaseDate": "2026-02-10T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20055/o/vPD0ew1i.jpg",
+     "sm": "game/20055/4XyfTWZn.jpg"
+    }
+   },
+   "_id": "6984f867f8c306636fd84af1",
+   "id": 20055,
+   "name": "Mewgenics",
+   "firstReleaseDate": "2026-02-10T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/wNiD0umB.jpg",
+     "sm": "game/undefined/TjrI6dHX.jpg"
+    }
+   },
+   "_id": "6989f0e8f8c306636fe0f73a",
+   "id": 20071,
+   "name": "The Prisoning: Fletcher's Quest",
+   "firstReleaseDate": "2026-02-10T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19366/o/J8Tl6ZE8.jpg",
+     "sm": "game/19366/u0g5IvBZ.jpg"
+    }
+   },
+   "_id": "68d40ab5f8c306636f195013",
+   "id": 19366,
+   "name": "Yakuza Kiwami 3 & Dark Ties",
+   "firstReleaseDate": "2026-02-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19823/o/7RqnHMvd.jpg",
+     "sm": "game/19823/7ffJf8Y6.jpg"
+    }
+   },
+   "_id": "6932f7b3f8c306636f090e8b",
+   "id": 19823,
+   "name": "Romeo Is a Dead Man",
+   "firstReleaseDate": "2026-02-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20062/o/2Y6m9K6Z.jpg",
+     "sm": "game/20062/uc2ZDOoS.jpg"
+    }
+   },
+   "_id": "6986309af8c306636fdc135d",
+   "id": 20062,
+   "name": "Tokyo Scramble",
+   "firstReleaseDate": "2026-02-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19292/o/DxQOS7vR.jpg",
+     "sm": "game/19292/RJepQlyt.jpg"
+    }
+   },
+   "_id": "68c44c5ff8c306636fcd2b19",
+   "id": 19292,
+   "name": "Mario Tennis Fever",
+   "firstReleaseDate": "2026-02-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20036/o/3BwW1kpl.jpg",
+     "sm": "game/20036/N6tdeHIo.jpg"
+    }
+   },
+   "_id": "69821885f8c306636fc5fa6a",
+   "id": 20036,
+   "name": "Disciples: Domination",
+   "firstReleaseDate": "2026-02-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20056/o/8Mbkb4gb.jpg",
+     "sm": "game/20056/zNJ04yKO.jpg"
+    }
+   },
+   "_id": "69857253f8c306636fd8a5c6",
+   "id": 20056,
+   "name": "Ride 6",
+   "firstReleaseDate": "2026-02-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20102/o/1wDGdFyW.jpg",
+     "sm": "game/20102/7OuZvxe6.jpg"
+    }
+   },
+   "_id": "698f424cf8c306636f0886c6",
+   "id": 20102,
+   "name": "God of War: Sons of Sparta",
+   "firstReleaseDate": "2026-02-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19191/o/XusLRIXb.jpg",
+     "sm": "game/19191/gQYSKRlS.jpg"
+    }
+   },
+   "_id": "68b709c7f8c306636f88ece1",
+   "id": 19191,
+   "name": "High on Life 2",
+   "firstReleaseDate": "2026-02-13T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19727/o/Wlh5opdq.jpg",
+     "sm": "game/19727/IgwsovDx.jpg"
+    }
+   },
+   "_id": "6920848ff8c306636fb8683e",
+   "id": 19727,
+   "name": "Reanimal",
+   "firstReleaseDate": "2026-02-13T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20086/o/FEh2iNMY.jpg",
+     "sm": "game/20086/2G3BZiOF.jpg"
+    }
+   },
+   "_id": "698ca56ff8c306636ff5826f",
+   "id": 20086,
+   "name": "Under the Island",
+   "firstReleaseDate": "2026-02-17T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19990/o/OG319dIB.jpg",
+     "sm": "game/19990/yk8Ib7fx.jpg"
+    }
+   },
+   "_id": "69723c36f8c306636f94a089",
+   "id": 19990,
+   "name": "Star Trek: Voyager - Across the Unknown",
+   "firstReleaseDate": "2026-02-18T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19824/o/GOxnzI60.jpg",
+     "sm": "game/19824/hazLNgXu.jpg"
+    }
+   },
+   "_id": "6932f7baf8c306636f090e8e",
+   "id": 19824,
+   "name": "Styx: Blades of Greed",
+   "firstReleaseDate": "2026-02-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20045/o/B1g6uaFH.jpg",
+     "sm": "game/20045/rIyVsFoW.jpg"
+    }
+   },
+   "_id": "69836a78f8c306636fcd0db4",
+   "id": 20045,
+   "name": "Gear.Club Unlimited 3",
+   "firstReleaseDate": "2026-02-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20110/o/Rbdg98CO.jpg",
+     "sm": "game/20110/74sybKyo.jpg"
+    }
+   },
+   "_id": "69920348f8c306636f0eb753",
+   "id": 20110,
+   "name": "Love Eternal",
+   "firstReleaseDate": "2026-02-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20116/o/zBA3fCVB.jpg",
+     "sm": "game/20116/C8WcCAur.jpg"
+    }
+   },
+   "_id": "69944d8bf8c306636f153d2a",
+   "id": 20116,
+   "name": "PARANORMASIGHT: The Mermaid's Curse",
+   "firstReleaseDate": "2026-02-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20127/o/6feLhtGo.jpg",
+     "sm": "game/20127/rUCYRQCm.jpg"
+    }
+   },
+   "_id": "69960fedf8c306636f221a80",
+   "id": 20127,
+   "name": "Demon Tides",
+   "firstReleaseDate": "2026-02-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/nyxEWmcl.jpg",
+     "sm": "game/undefined/DkCXdC0V.jpg"
+    }
+   },
+   "_id": "699dce68f8c306636f3ae880",
+   "id": 20151,
+   "name": "Neva: Prologue",
+   "firstReleaseDate": "2026-02-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20051/o/g3No1ydC.jpg",
+     "sm": "game/20051/DlSE0bnw.jpg"
+    }
+   },
+   "_id": "6984bd51f8c306636fd41894",
+   "id": 20051,
+   "name": "City Hunter",
+   "firstReleaseDate": "2026-02-25T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20145/o/FDgIsgUE.jpg",
+     "sm": "game/20145/ZpL2in7E.jpg"
+    }
+   },
+   "_id": "699cdb51f8c306636f37e11a",
+   "id": 20145,
+   "name": "Reigns: The Witcher",
+   "firstReleaseDate": "2026-02-25T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19994/o/mkxNOr3J.jpg",
+     "sm": "game/19994/w5zlEh9f.jpg"
+    }
+   },
+   "_id": "69739479f8c306636f98e729",
+   "id": 19994,
+   "name": "Tales of Berseria Remastered",
+   "firstReleaseDate": "2026-02-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/18716/o/0i26vD1F.jpg",
+     "sm": "game/18716/u0OEMQ5s.jpg"
+    }
+   },
+   "_id": "685040e3f8c306636fe3749a",
+   "id": 18716,
+   "name": "Resident Evil Requiem",
+   "firstReleaseDate": "2026-02-27T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20052/o/3WRVHzo9.jpg",
+     "sm": "game/20052/BwYfxVWO.jpg"
+    }
+   },
+   "_id": "6984bd5bf8c306636fd41897",
+   "id": 20052,
+   "name": "Laysara: Summit Kingdom",
+   "firstReleaseDate": "2026-02-27T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/gPruaFwL.jpg",
+     "sm": "game/undefined/oEejA76v.jpg"
+    }
+   },
+   "_id": "69a3625df8c306636f52ee26",
+   "id": 20172,
+   "name": "Pokémon FireRed Version and Pokémon LeafGreen Version",
+   "firstReleaseDate": "2026-02-27T00:00:00.000Z"
+  },
+  {
+   "_id": "69a74c7ef8c306636f633e4d",
+   "id": 20190,
+   "name": "World of Warcraft: Midnight",
+   "firstReleaseDate": "2026-03-02T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20104/o/Bx3D5MYX.jpg",
+     "sm": "game/20104/n1OBSDik.jpg"
+    }
+   },
+   "_id": "698f4262f8c306636f0886cc",
+   "id": 20104,
+   "name": "Legacy of Kain: Defiance Remastered",
+   "firstReleaseDate": "2026-03-03T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20179/o/5qCYPwNa.jpg",
+     "sm": "game/20179/Ii17BxD5.jpg"
+    }
+   },
+   "_id": "69a5a22bf8c306636f58341c",
+   "id": 20179,
+   "name": "iRacing Arcade",
+   "firstReleaseDate": "2026-03-03T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20180/o/CxobLgWA.jpg",
+     "sm": "game/20180/8EJZR2cg.jpg"
+    }
+   },
+   "_id": "69a5a406f8c306636f5834bf",
+   "id": 20180,
+   "name": "Esoteric Ebb",
+   "firstReleaseDate": "2026-03-03T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20181/o/m9mwAU9n.jpg",
+     "sm": "game/20181/JWfv6JgG.jpg"
+    }
+   },
+   "_id": "69a5ca9ff8c306636f5a5373",
+   "id": 20181,
+   "name": "Scott Pilgrim EX",
+   "firstReleaseDate": "2026-03-03T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/ffjh6l0N.jpg",
+     "sm": "game/undefined/J7tvKjc5.jpg"
+    }
+   },
+   "_id": "69af36c5f8c306636f864fbd",
+   "id": 20212,
+   "name": "Homura Hime",
+   "firstReleaseDate": "2026-03-04T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19667/o/3m3oEPCb.jpg",
+     "sm": "game/19667/b87BDXbP.jpg"
+    }
+   },
+   "_id": "6913597ef8c306636f5f4d11",
+   "id": 19667,
+   "name": "Pokémon Pokopia",
+   "firstReleaseDate": "2026-03-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20146/o/Cnb8ztRe.jpg",
+     "sm": "game/20146/ymM8LY9G.jpg"
+    }
+   },
+   "_id": "699cf135f8c306636f37e7bc",
+   "id": 20146,
+   "name": "Planet of Lana II: Children of the Leaf",
+   "firstReleaseDate": "2026-03-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/hWV3cYe2.jpg",
+     "sm": "game/undefined/2dSDlJFp.jpg"
+    }
+   },
+   "_id": "69a5fb35f8c306636f5b5248",
+   "id": 20182,
+   "name": "Marathon",
+   "firstReleaseDate": "2026-03-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/RQiS7M78.jpg",
+     "sm": "game/undefined/CsZQCRBv.jpg"
+    }
+   },
+   "_id": "69a86815f8c306636f6ab6aa",
+   "id": 20196,
+   "name": "Docked",
+   "firstReleaseDate": "2026-03-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19984/o/OaJTWQ6B.jpg",
+     "sm": "game/19984/IWYkFHrA.jpg"
+    }
+   },
+   "_id": "6970f1c4f8c306636f90cb79",
+   "id": 19984,
+   "name": "Lost and Found Co.",
+   "firstReleaseDate": "2026-03-06T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19728/o/QfAsWFEc.jpg",
+     "sm": "game/19728/a3SpNNsj.jpg"
+    }
+   },
+   "_id": "69208497f8c306636fb86841",
+   "id": 19728,
+   "name": "Fatal Frame II: Crimson Butterfly Remake",
+   "firstReleaseDate": "2026-03-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19932/o/EdGx95hb.jpg",
+     "sm": "game/19932/ejR3rwcq.jpg"
+    }
+   },
+   "_id": "695fc8e9f8c306636f6edc08",
+   "id": 19932,
+   "name": "John Carpenter's Toxic Commando",
+   "firstReleaseDate": "2026-03-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19993/o/iL01naG5.jpg",
+     "sm": "game/19993/PMK1VNle.jpg"
+    }
+   },
+   "_id": "69739470f8c306636f98e726",
+   "id": 19993,
+   "name": "1348 Ex Voto",
+   "firstReleaseDate": "2026-03-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20174/o/PUmcixzj.jpg",
+     "sm": "game/20174/OEh1vh0z.jpg"
+    }
+   },
+   "_id": "69a4c59af8c306636f554acb",
+   "id": 20174,
+   "name": "WWE 2K26",
+   "firstReleaseDate": "2026-03-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20206/o/yGoKtWM4.jpg",
+     "sm": "game/20206/VRMORqF8.jpg"
+    }
+   },
+   "_id": "69aedf31f8c306636f80724f",
+   "id": 20206,
+   "name": "Collector's Cove",
+   "firstReleaseDate": "2026-03-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19298/o/5JOz14LR.jpg",
+     "sm": "game/19298/gR56ADfw.jpg"
+    }
+   },
+   "_id": "68c8270cf8c306636fd4ca66",
+   "id": 19298,
+   "name": "Monster Hunter Stories 3: Twisted Reflection",
+   "firstReleaseDate": "2026-03-13T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20150/o/rcZlZBxt.jpg",
+     "sm": "game/20150/5T7B7Cs1.jpg"
+    }
+   },
+   "_id": "699dcb14f8c306636f3a6b72",
+   "id": 20150,
+   "name": "MLB The Show 26",
+   "firstReleaseDate": "2026-03-13T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20241/o/7zJqmZ5u.jpg",
+     "sm": "game/20241/Zt2qWvtn.jpg"
+    }
+   },
+   "_id": "69b7201af8c306636fa647f4",
+   "id": 20241,
+   "name": "Starship Troopers: Ultimate Bug War!",
+   "firstReleaseDate": "2026-03-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19373/o/VRALBT26.jpg",
+     "sm": "game/19373/jNooskro.jpg"
+    }
+   },
+   "_id": "68d53f50f8c306636f2523da",
+   "id": 19373,
+   "name": "Crimson Desert",
+   "firstReleaseDate": "2026-03-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20292/o/MRFcRh2C.jpg",
+     "sm": "game/20292/jrebfpNI.jpg"
+    }
+   },
+   "_id": "69c12110f8c306636fc6ecc9",
+   "id": 20292,
+   "name": "Ariana and the Elder Codex",
+   "firstReleaseDate": "2026-03-24T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20237/o/aRYFeVCy.jpg",
+     "sm": "game/20237/tMVECeYt.jpg"
+    }
+   },
+   "_id": "69b44d57f8c306636fa12ba3",
+   "id": 20237,
+   "name": "DAMON and BABY",
+   "firstReleaseDate": "2026-03-25T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19811/o/U3tYYO8B.jpg",
+     "sm": "game/19811/sWFU6iR2.jpg"
+    }
+   },
+   "_id": "6931ad1cf8c306636f03e672",
+   "id": 19811,
+   "name": "Copa City",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19928/o/AxR73kZp.jpg",
+     "sm": "game/19928/gvLwQx8M.jpg"
+    }
+   },
+   "_id": "695e7fddf8c306636f6c2a91",
+   "id": 19928,
+   "name": "Mega Man Star Force Legacy Collection",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19982/o/5DMNyoO9.jpg",
+     "sm": "game/19982/sTIB76tY.jpg"
+    }
+   },
+   "_id": "6970f1b9f8c306636f90cb73",
+   "id": 19982,
+   "name": "Life is Strange: Reunion",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20167/o/CSG7wE9l.jpg",
+     "sm": "game/20167/8avbaKAQ.jpg"
+    }
+   },
+   "_id": "69a1b358f8c306636f4f82fe",
+   "id": 20167,
+   "name": "Screamer",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20219/o/Y2UE1iel.jpg",
+     "sm": "game/20219/lEKqidm1.jpg"
+    }
+   },
+   "_id": "69b03602f8c306636f8ab741",
+   "id": 20219,
+   "name": "Etrange Overlord",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20252/o/Zb6yjvVW.jpg",
+     "sm": "game/20252/5NE066nQ.jpg"
+    }
+   },
+   "_id": "69b8512cf8c306636fab9fbd",
+   "id": 20252,
+   "name": "Project Songbird",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20256/o/JtDn4kwN.jpg",
+     "sm": "game/20256/AWuwYeed.jpg"
+    }
+   },
+   "_id": "69b96cbcf8c306636faddd59",
+   "id": 20256,
+   "name": "Super Mario Bros. Wonder - Nintendo Switch 2 Edition + Meetup in Bellabel Park",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20319/o/Omnj0VGM.jpg",
+     "sm": "game/20319/0fR5HbyS.jpg"
+    }
+   },
+   "_id": "69c65ba0f8c306636fe29685",
+   "id": 20319,
+   "name": "MARVEL MaXimum Collection",
+   "firstReleaseDate": "2026-03-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/tA5nmS07.jpg",
+     "sm": "game/undefined/AcaJZ4es.jpg"
+    }
+   },
+   "_id": "69c68dfaf8c306636fe4ad1d",
+   "id": 20321,
+   "name": "Aether & Iron",
+   "firstReleaseDate": "2026-03-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20360/o/TAm95dxB.jpg",
+     "sm": "game/20360/JBMMjKGw.jpg"
+    }
+   },
+   "_id": "69d3c38bf8c306636f19f839",
+   "id": 20360,
+   "name": "Hozy",
+   "firstReleaseDate": "2026-03-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20105/o/LxQnwOmT.jpg",
+     "sm": "game/20105/MFrVGNsp.jpg"
+    }
+   },
+   "_id": "698f426ef8c306636f0886cf",
+   "id": 20105,
+   "name": "Legacy of Kain: Ascendance",
+   "firstReleaseDate": "2026-03-31T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20262/o/z1fblzko.jpg",
+     "sm": "game/20262/syBGq97A.jpg"
+    }
+   },
+   "_id": "69bafea2f8c306636fb124fc",
+   "id": 20262,
+   "name": "Super Meat Boy 3D",
+   "firstReleaseDate": "2026-03-31T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20315/o/HvfefqMF.jpg",
+     "sm": "game/20315/HOs3xdrp.jpg"
+    }
+   },
+   "_id": "69c485e8f8c306636fdc1785",
+   "id": 20315,
+   "name": "Grime II",
+   "firstReleaseDate": "2026-03-31T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20330/o/3kMTJQqs.jpg",
+     "sm": "game/20330/LrwwXXZI.jpg"
+    }
+   },
+   "_id": "69ca7c01f8c306636fed8f2f",
+   "id": 20330,
+   "name": "Raccoin: Coin Pusher Roguelike",
+   "firstReleaseDate": "2026-03-31T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20335/o/zfpXv79I.jpg",
+     "sm": "game/20335/yjepQaW7.jpg"
+    }
+   },
+   "_id": "69cab729f8c306636ff3a2a4",
+   "id": 20335,
+   "name": "Fishbowl",
+   "firstReleaseDate": "2026-04-02T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20271/o/e2aAv3jR.jpg",
+     "sm": "game/20271/46txTYou.jpg"
+    }
+   },
+   "_id": "69bc2a44f8c306636fb9434e",
+   "id": 20271,
+   "name": "People of Note",
+   "firstReleaseDate": "2026-04-07T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20346/o/BhcZChKZ.jpg",
+     "sm": "game/20346/FrIsPS6l.jpg"
+    }
+   },
+   "_id": "69cd57b3f8c306636f07e0ac",
+   "id": 20346,
+   "name": "KuloNiku: Bowl Up!",
+   "firstReleaseDate": "2026-04-07T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20365/o/7Nd491Sh.jpg",
+     "sm": "game/20365/UDk0hDEp.jpg"
+    }
+   },
+   "_id": "69d42ee6f8c306636f1aa01c",
+   "id": 20365,
+   "name": "Sigma Star Saga DX",
+   "firstReleaseDate": "2026-04-07T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20377/o/mtX0WGTg.jpg",
+     "sm": "game/20377/8sdhcgVA.jpg"
+    }
+   },
+   "_id": "69d7a20ff8c306636f2e65b0",
+   "id": 20377,
+   "name": "ChainStaff",
+   "firstReleaseDate": "2026-04-07T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20288/o/a86d1Nqi.jpg",
+     "sm": "game/20288/ffRM1U8H.jpg"
+    }
+   },
+   "_id": "69bd9bb4f8c306636fc15fe0",
+   "id": 20288,
+   "name": "Samson",
+   "firstReleaseDate": "2026-04-08T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20289/o/5FXcV8p3.jpg",
+     "sm": "game/20289/sji1QNmx.jpg"
+    }
+   },
+   "_id": "69bd9bbbf8c306636fc15fe3",
+   "id": 20289,
+   "name": "The Occultist",
+   "firstReleaseDate": "2026-04-08T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20348/o/k1gI0jlY.jpg",
+     "sm": "game/20348/bbKK6G28.jpg"
+    }
+   },
+   "_id": "69cdcce5f8c306636f084101",
+   "id": 20348,
+   "name": "Beyond Words",
+   "firstReleaseDate": "2026-04-09T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20384/o/06dQQOYf.jpg",
+     "sm": "game/20384/S7QcjxYq.jpg"
+    }
+   },
+   "_id": "69d83ee6f8c306636f302b6e",
+   "id": 20384,
+   "name": "Minos",
+   "firstReleaseDate": "2026-04-09T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20225/o/wT0sVXu3.jpg",
+     "sm": "game/20225/MGxCldBp.jpg"
+    }
+   },
+   "_id": "69b18b82f8c306636f9318fd",
+   "id": 20225,
+   "name": "Replaced",
+   "firstReleaseDate": "2026-04-14T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20296/o/WuUl2OFF.jpg",
+     "sm": "game/20296/ZEG5aHrq.jpg"
+    }
+   },
+   "_id": "69c19997f8c306636fcc9be5",
+   "id": 20296,
+   "name": "Dosa Divas",
+   "firstReleaseDate": "2026-04-14T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20445/o/iaXN06bD.jpg",
+     "sm": "game/20445/KLnrsKg6.jpg"
+    }
+   },
+   "_id": "69e81519f8c306636f818c84",
+   "id": 20445,
+   "name": "The Day I Became a Bird",
+   "firstReleaseDate": "2026-04-15T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19810/o/cqld3xJy.jpg",
+     "sm": "game/19810/n7yIaqTj.jpg"
+    }
+   },
+   "_id": "6931ad11f8c306636f03e66f",
+   "id": 19810,
+   "name": "MOUSE: P.I. For Hire",
+   "firstReleaseDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19822/o/WviTQtzu.jpg",
+     "sm": "game/19822/J3txnUR1.jpg"
+    }
+   },
+   "_id": "6932f7adf8c306636f090e88",
+   "id": 19822,
+   "name": "Cthulhu: The Cosmic Abyss",
+   "firstReleaseDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20251/o/aYUq6zFf.jpg",
+     "sm": "game/20251/38ZHzjIG.jpg"
+    }
+   },
+   "_id": "69b81cadf8c306636fa9949c",
+   "id": 20251,
+   "name": "Opus: Prism Peak",
+   "firstReleaseDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20304/o/ZIxaH95t.jpg",
+     "sm": "game/20304/jxJEQ6TJ.jpg"
+    }
+   },
+   "_id": "69c2ddb0f8c306636fd33ae6",
+   "id": 20304,
+   "name": "Tomodachi Life: Living the Dream",
+   "firstReleaseDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20337/o/8TQjXBPR.jpg",
+     "sm": "game/20337/CdgTSqoa.jpg"
+    }
+   },
+   "_id": "69cbc996f8c306636ffb295f",
+   "id": 20337,
+   "name": "Gecko Gods",
+   "firstReleaseDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20427/o/G0HBX7aQ.jpg",
+     "sm": "game/20427/f20oPoeb.jpg"
+    }
+   },
+   "_id": "69e18ab4f8c306636f6b9d85",
+   "id": 20427,
+   "name": "Ground Zero",
+   "firstReleaseDate": "2026-04-16T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19920/o/pBQU73Ka.jpg",
+     "sm": "game/19920/5XiHuenr.jpg"
+    }
+   },
+   "_id": "695d2c67f8c306636f67840a",
+   "id": 19920,
+   "name": "Pragmata",
+   "firstReleaseDate": "2026-04-17T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20430/o/Tcur1yCx.jpg",
+     "sm": "game/20430/0IonI5px.jpg"
+    }
+   },
+   "_id": "69e24097f8c306636f6cfa91",
+   "id": 20430,
+   "name": "Saint Slayer: Spear of Sacrilege",
+   "firstReleaseDate": "2026-04-20T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20437/o/OVY1raEj.jpg",
+     "sm": "game/20437/U7fcbqm6.jpg"
+    }
+   },
+   "_id": "69e58231f8c306636f73de53",
+   "id": 20437,
+   "name": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+   "firstReleaseDate": "2026-04-20T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20442/o/vs9D2wMV.jpg",
+     "sm": "game/20442/y6tOh0QH.jpg"
+    }
+   },
+   "_id": "69e79032f8c306636f7b1c8d",
+   "id": 20442,
+   "name": "Tides Of Tomorrow",
+   "firstReleaseDate": "2026-04-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20309/o/UZYek9DK.jpg",
+     "sm": "game/20309/ClXk74W5.jpg"
+    }
+   },
+   "_id": "69c40995f8c306636fd79e18",
+   "id": 20309,
+   "name": "Little Nightmares VR: Altered Echoes",
+   "firstReleaseDate": "2026-04-23T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20438/o/apeNDRED.jpg",
+     "sm": "game/20438/Vjs8yGQa.jpg"
+    }
+   },
+   "_id": "69e661def8c306636f78db06",
+   "id": 20438,
+   "name": "Kiln",
+   "firstReleaseDate": "2026-04-23T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20439/o/6QDsCICO.jpg",
+     "sm": "game/20439/atgIEfKd.jpg"
+    }
+   },
+   "_id": "69e661e5f8c306636f78db09",
+   "id": 20439,
+   "name": "Moomintroll: Winter's Warmth",
+   "firstReleaseDate": "2026-04-27T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20233/o/dvw68Vko.jpg",
+     "sm": "game/20233/DsisCkrp.jpg"
+    }
+   },
+   "_id": "69b427b5f8c306636f9f6e8c",
+   "id": 20233,
+   "name": "Aphelion",
+   "firstReleaseDate": "2026-04-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20281/o/pIL7AISQ.jpg",
+     "sm": "game/20281/wpDM5XwW.jpg"
+    }
+   },
+   "_id": "69bd51f8f8c306636fbc8e0a",
+   "id": 20281,
+   "name": "Ys Memoire: Revelations in Celceta",
+   "firstReleaseDate": "2026-04-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20310/o/JaLNC4WU.jpg",
+     "sm": "game/20310/10McVRDL.jpg"
+    }
+   },
+   "_id": "69c42d1bf8c306636fd9ed51",
+   "id": 20310,
+   "name": "Will: Follow The Light",
+   "firstReleaseDate": "2026-04-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20420/o/vc5dK8eQ.jpg",
+     "sm": "game/20420/6umincoP.jpg"
+    }
+   },
+   "_id": "69e02c04f8c306636f627bd3",
+   "id": 20420,
+   "name": "Diablo IV: Lord of Hatred",
+   "firstReleaseDate": "2026-04-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/18951/o/0vDYkhWp.jpg",
+     "sm": "game/18951/JAbbSdsA.jpg"
+    }
+   },
+   "_id": "687e6728f8c306636fa739a5",
+   "id": 18951,
+   "name": "The Spell Brigade",
+   "firstReleaseDate": "2026-04-29T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20338/o/3ixEXqCq.jpg",
+     "sm": "game/20338/DVsCVflJ.jpg"
+    }
+   },
+   "_id": "69cbc9a4f8c306636ffb2962",
+   "id": 20338,
+   "name": "MotoGP 26",
+   "firstReleaseDate": "2026-04-29T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19375/o/WndqOjlo.jpg",
+     "sm": "game/19375/Hnlv9PKx.jpg"
+    }
+   },
+   "_id": "68d53f5af8c306636f2523e0",
+   "id": 19375,
+   "name": "Saros",
+   "firstReleaseDate": "2026-04-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19921/o/YsicS2Pw.jpg",
+     "sm": "game/19921/WwJC5gZC.jpg"
+    }
+   },
+   "_id": "695d2c6ff8c306636f67840d",
+   "id": 19921,
+   "name": "Invincible VS",
+   "firstReleaseDate": "2026-04-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20480/o/hnxqO6ar.jpg",
+     "sm": "game/20480/RgoqD44l.jpg"
+    }
+   },
+   "_id": "69f0f486f8c306636fa369ae",
+   "id": 20480,
+   "name": "Monster Crown: Sin Eater",
+   "firstReleaseDate": "2026-04-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20481/o/7UdHa5Y5.jpg",
+     "sm": "game/20481/aGkY9azi.jpg"
+    }
+   },
+   "_id": "69f1bffcf8c306636fa49588",
+   "id": 20481,
+   "name": "Bus Bound",
+   "firstReleaseDate": "2026-04-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20506/o/w9yG5Xxo.jpg",
+     "sm": "game/20506/ooXRr1Q4.jpg"
+    }
+   },
+   "_id": "69f52106f8c306636fb482ab",
+   "id": 20506,
+   "name": "Adorable Adventures",
+   "firstReleaseDate": "2026-04-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20512/o/SY60KTPy.jpg",
+     "sm": "game/20512/UR4ZMMIb.jpg"
+    }
+   },
+   "_id": "69f52ca2f8c306636fb89c45",
+   "id": 20512,
+   "name": "inKONBINI: One Store. Many Stories",
+   "firstReleaseDate": "2026-04-30T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20529/o/F6DJoy1f.jpg",
+     "sm": "game/20529/pQ231qOE.jpg"
+    }
+   },
+   "_id": "69f5b5cef8c306636fba3c97",
+   "id": 20529,
+   "name": "Wax Heads",
+   "firstReleaseDate": "2026-05-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20536/o/xrf4L144.jpg",
+     "sm": "game/20536/K6Cettye.jpg"
+    }
+   },
+   "_id": "69f8bce6f8c306636fc23326",
+   "id": 20536,
+   "name": "Motorslice",
+   "firstReleaseDate": "2026-05-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20188/o/zqKbtSIX.jpg",
+     "sm": "game/20188/8daJSSmh.jpg"
+    }
+   },
+   "_id": "69a704f7f8c306636f5e53f3",
+   "id": 20188,
+   "name": "Mixtape",
+   "firstReleaseDate": "2026-05-07T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20209/o/CJ0ixrai.jpg",
+     "sm": "game/20209/KFXaRmqv.jpg"
+    }
+   },
+   "_id": "69aedf47f8c306636f807258",
+   "id": 20209,
+   "name": "Everything is Crab",
+   "firstReleaseDate": "2026-05-08T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20234/o/k44wJhQ8.jpg",
+     "sm": "game/20234/2hpbq0p3.jpg"
+    }
+   },
+   "_id": "69b427bef8c306636f9f6e8f",
+   "id": 20234,
+   "name": "Outbound",
+   "firstReleaseDate": "2026-05-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20559/o/FdQQqBtw.jpg",
+     "sm": "game/20559/Yi1gWooW.jpg"
+    }
+   },
+   "_id": "69fcb7a4f8c306636fd6dc32",
+   "id": 20559,
+   "name": "Battlestar Galactica: Scattered Hopes",
+   "firstReleaseDate": "2026-05-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/18114/o/zQ7atd1W.jpg",
+     "sm": "game/18114/pDNTzQ3L.jpg"
+    }
+   },
+   "_id": "67ad3b682d05d7dcbbdafbee",
+   "id": 18114,
+   "name": "The Dark Pictures Anthology: Directive 8020",
+   "firstReleaseDate": "2026-05-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20582/o/pefdo1id.jpg",
+     "sm": "game/20582/XJA3Ciib.jpg"
+    }
+   },
+   "_id": "6a01b3baf8c306636fe8a5ed",
+   "id": 20582,
+   "name": "Call of the Elder Gods",
+   "firstReleaseDate": "2026-05-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20597/o/uSP75Y8V.jpg",
+     "sm": "game/20597/qjDNU6ez.jpg"
+    }
+   },
+   "_id": "6a036b71f8c306636ff713b5",
+   "id": 20597,
+   "name": "NITRO GEN OMEGA",
+   "firstReleaseDate": "2026-05-12T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20821/o/hpraE97m.jpg",
+     "sm": "game/20821/LrZSmiJ8.jpg"
+    }
+   },
+   "_id": "6a28a71df8c306636fa68fb6",
+   "id": 20821,
+   "name": "The Caribou Trail",
+   "firstReleaseDate": "2026-05-14T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20423/o/W4QiXwJc.jpg",
+     "sm": "game/20423/m7uNvDtf.jpg"
+    }
+   },
+   "_id": "69e0f5cbf8c306636f66f488",
+   "id": 20423,
+   "name": "R-Type Dimensions III",
+   "firstReleaseDate": "2026-05-18T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19996/o/Vy7iS2qZ.jpg",
+     "sm": "game/19996/zHX5avvw.jpg"
+    }
+   },
+   "_id": "6973ebadf8c306636f9adbe2",
+   "id": 19996,
+   "name": "Forza Horizon 6",
+   "firstReleaseDate": "2026-05-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20636/o/q5eGxNmX.jpg",
+     "sm": "game/20636/2C7OkCZY.jpg"
+    }
+   },
+   "_id": "6a0c7320f8c306636f288f31",
+   "id": 20636,
+   "name": "Rune Dice",
+   "firstReleaseDate": "2026-05-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20633/o/BjqSeBHs.jpg",
+     "sm": "game/20633/wG58XEEO.jpg"
+    }
+   },
+   "_id": "6a0c1f84f8c306636f247a08",
+   "id": 20633,
+   "name": "Thick As Thieves",
+   "firstReleaseDate": "2026-05-20T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20640/o/YlB5FWwU.jpg",
+     "sm": "game/20640/F2i4E0ey.jpg"
+    }
+   },
+   "_id": "6a0cd5d4f8c306636f2be627",
+   "id": 20640,
+   "name": "Phonopolis",
+   "firstReleaseDate": "2026-05-20T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20666/o/hSN3qfEY.jpg",
+     "sm": "game/20666/h9oJ5Xkh.jpg"
+    }
+   },
+   "_id": "6a118472f8c306636f49a386",
+   "id": 20666,
+   "name": "Psyvariar 3",
+   "firstReleaseDate": "2026-05-20T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20221/o/sdMuBOET.jpg",
+     "sm": "game/20221/mKmI6xpp.jpg"
+    }
+   },
+   "_id": "69b0427ff8c306636f8b1857",
+   "id": 20221,
+   "name": "Yoshi and the Mysterious Book",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20490/o/57cmsNwo.jpg",
+     "sm": "game/20490/3eZCrZrk.jpg"
+    }
+   },
+   "_id": "69f35c67f8c306636fa8da1e",
+   "id": 20490,
+   "name": "ZERO PARADES: For Dead Spies",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20534/o/i7aEpcd0.jpg",
+     "sm": "game/20534/hDwVmqLR.jpg"
+    }
+   },
+   "_id": "69f8b9d0f8c306636fc1001c",
+   "id": 20534,
+   "name": "Gallipoli",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20556/o/bpBIHlKO.jpg",
+     "sm": "game/20556/X8dgAF9q.jpg"
+    }
+   },
+   "_id": "69fb92a7f8c306636fd28420",
+   "id": 20556,
+   "name": "Luna Abyss",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20606/o/illcVOkD.jpg",
+     "sm": "game/20606/W9mdKUDi.jpg"
+    }
+   },
+   "_id": "6a05d100f8c306636f06a606",
+   "id": 20606,
+   "name": "STARBITES",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/olP1KL8K.jpg",
+     "sm": "game/undefined/ITWSK5u3.jpg"
+    }
+   },
+   "_id": "6a0b257bf8c306636f1f3303",
+   "id": 20625,
+   "name": "Coffee Talk Tokyo",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/undefined/o/yaXjanOS.jpg",
+     "sm": "game/undefined/q17kRcci.jpg"
+    }
+   },
+   "_id": "6a0f5fc6f8c306636f3d6b31",
+   "id": 20652,
+   "name": "Warhammer 40,000: Mechanicus II",
+   "firstReleaseDate": "2026-05-21T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19919/o/dGG2sLuM.jpg",
+     "sm": "game/19919/u9CWVSnD.jpg"
+    }
+   },
+   "_id": "695d2c5ff8c306636f678407",
+   "id": 19919,
+   "name": "LEGO Batman: Legacy of the Dark Knight",
+   "firstReleaseDate": "2026-05-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20187/o/MZHA4Al5.jpg",
+     "sm": "game/20187/jUvesJRi.jpg"
+    }
+   },
+   "_id": "69a704f0f8c306636f5e53f0",
+   "id": 20187,
+   "name": "Bubsy 4D",
+   "firstReleaseDate": "2026-05-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20644/o/5l4Ym6yS.jpg",
+     "sm": "game/20644/0WMBjTIa.jpg"
+    }
+   },
+   "_id": "6a0e0405f8c306636f36bc56",
+   "id": 20644,
+   "name": "Rugrats: Retro Rewind Collection",
+   "firstReleaseDate": "2026-05-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20134/o/ngFrpdSQ.jpg",
+     "sm": "game/20134/KIb8wxLu.jpg"
+    }
+   },
+   "_id": "69973c15f8c306636f25e27b",
+   "id": 20134,
+   "name": "The Relic: First Guardian",
+   "firstReleaseDate": "2026-05-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20411/o/LHxGoDHP.jpg",
+     "sm": "game/20411/RCOZxE1I.jpg"
+    }
+   },
+   "_id": "69de8239f8c306636f538929",
+   "id": 20411,
+   "name": "Yerba Buena",
+   "firstReleaseDate": "2026-05-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20584/o/xWUqBap9.jpg",
+     "sm": "game/20584/cG7ZMyLt.jpg"
+    }
+   },
+   "_id": "6a01dddff8c306636fea11d1",
+   "id": 20584,
+   "name": "LumenTale: Memories of Trey",
+   "firstReleaseDate": "2026-05-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20643/o/gyFKwyQo.jpg",
+     "sm": "game/20643/whiLREO5.jpg"
+    }
+   },
+   "_id": "6a0dd99ff8c306636f35d6bf",
+   "id": 20643,
+   "name": "Stonemachia",
+   "firstReleaseDate": "2026-05-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20775/o/PtnfijI0.jpg",
+     "sm": "game/20775/k8kT4FVv.jpg"
+    }
+   },
+   "_id": "6a21753bf8c306636f937ee4",
+   "id": 20775,
+   "name": "Realm of Ink",
+   "firstReleaseDate": "2026-05-26T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19224/o/icLXuJWa.jpg",
+     "sm": "game/19224/8Arc3MWq.jpg"
+    }
+   },
+   "_id": "68baf99df8c306636fa29f80",
+   "id": 19224,
+   "name": "007 First Light",
+   "firstReleaseDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20596/o/TFLMP03b.jpg",
+     "sm": "game/20596/nqg1UNl0.jpg"
+    }
+   },
+   "_id": "6a036789f8c306636ff6e588",
+   "id": 20596,
+   "name": "Schrödinger's Call",
+   "firstReleaseDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20670/o/TUQ7tL7s.jpg",
+     "sm": "game/20670/9l3Fajsv.jpg"
+    }
+   },
+   "_id": "6a14af95f8c306636f4dc2e0",
+   "id": 20670,
+   "name": "Echo Generation 2",
+   "firstReleaseDate": "2026-05-27T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20493/o/XgRPDm4Q.jpg",
+     "sm": "game/20493/wlPQnumf.jpg"
+    }
+   },
+   "_id": "69f35ce5f8c306636fa8dabe",
+   "id": 20493,
+   "name": "Bluey's Quest for the Gold Pen",
+   "firstReleaseDate": "2026-05-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20672/o/QAX9FYzF.jpg",
+     "sm": "game/20672/xRPqln3a.jpg"
+    }
+   },
+   "_id": "6a151fc8f8c306636f4e4e75",
+   "id": 20672,
+   "name": "The Remake of the End of the Greatest RPG Of All Time",
+   "firstReleaseDate": "2026-05-28T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/19213/o/G6sRS3uo.jpg",
+     "sm": "game/19213/d982euav.jpg"
+    }
+   },
+   "_id": "68b9acf0f8c306636f9d8bea",
+   "id": 19213,
+   "name": "Mina the Hollower",
+   "firstReleaseDate": "2026-05-29T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20767/o/Tij52vpQ.jpg",
+     "sm": "game/20767/FSnL8iec.jpg"
+    }
+   },
+   "_id": "6a1f9913f8c306636f8cdcd0",
+   "id": 20767,
+   "name": "eFootball Kick-Off!",
+   "firstReleaseDate": "2026-06-03T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20575/o/KtzI2tuV.jpg",
+     "sm": "game/20575/iVK95Zfu.jpg"
+    }
+   },
+   "_id": "69fe2578f8c306636fde538e",
+   "id": 20575,
+   "name": "The 7th Guest Remake",
+   "firstReleaseDate": "2026-06-04T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20647/o/rcPqzlVx.jpg",
+     "sm": "game/20647/TyhtFj1M.jpg"
+    }
+   },
+   "_id": "6a0edcf0f8c306636f388cee",
+   "id": 20647,
+   "name": "Swan Song",
+   "firstReleaseDate": "2026-06-04T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20135/o/HMxAV85k.jpg",
+     "sm": "game/20135/7P6mT75g.jpg"
+    }
+   },
+   "_id": "69973c1af8c306636f25e27e",
+   "id": 20135,
+   "name": "Gothic 1 Remake",
+   "firstReleaseDate": "2026-06-05T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20792/o/0U4yAaCc.jpg",
+     "sm": "game/20792/vTmIrTdg.jpg"
+    }
+   },
+   "_id": "6a26bd88f8c306636f9ef800",
+   "id": 20792,
+   "name": "Solarpunk",
+   "firstReleaseDate": "2026-06-08T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20598/o/SIyXXU3B.jpg",
+     "sm": "game/20598/ptTgsve4.jpg"
+    }
+   },
+   "_id": "6a036be8f8c306636ff7682c",
+   "id": 20598,
+   "name": "Voidling Bound",
+   "firstReleaseDate": "2026-06-09T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20603/o/APUYXT0T.jpg",
+     "sm": "game/20603/37nZADlD.jpg"
+    }
+   },
+   "_id": "6a0502f6f8c306636fffead2",
+   "id": 20603,
+   "name": "NBA The Run",
+   "firstReleaseDate": "2026-06-09T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20759/o/WwjDU5hR.jpg",
+     "sm": "game/20759/98dOCmXl.jpg"
+    }
+   },
+   "_id": "6a1e7ea7f8c306636f87efb0",
+   "id": 20759,
+   "name": "Crushed in Time",
+   "firstReleaseDate": "2026-06-10T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20844/o/vLhW8Swl.jpg",
+     "sm": "game/20844/V6FvPBAq.jpg"
+    }
+   },
+   "_id": "6a2fa86ff8c306636fc0b306",
+   "id": 20844,
+   "name": "33 Immortals",
+   "firstReleaseDate": "2026-06-10T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20608/o/DlfCdyVn.jpg",
+     "sm": "game/20608/WeLYCTi1.jpg"
+    }
+   },
+   "_id": "6a065667f8c306636f0a6f3a",
+   "id": 20608,
+   "name": "Monopoly: Star Wars Heroes vs. Villains",
+   "firstReleaseDate": "2026-06-11T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20193/o/OdXxLFLF.jpg",
+     "sm": "game/20193/8vtMYeQE.jpg"
+    }
+   },
+   "_id": "69a84fd0f8c306636f670d78",
+   "id": 20193,
+   "name": "Denshattack!",
+   "firstReleaseDate": "2026-06-15T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20344/o/Ftc7uddv.jpg",
+     "sm": "game/20344/ZZqHt8l3.jpg"
+    }
+   },
+   "_id": "69cd2a34f8c306636f05fdf6",
+   "id": 20344,
+   "name": "The Adventures of Elliot: The Millennium Tales",
+   "firstReleaseDate": "2026-06-18T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20627/o/kLoKOc8r.jpg",
+     "sm": "game/20627/AmwNXZzU.jpg"
+    }
+   },
+   "_id": "6a0b6275f8c306636f208784",
+   "id": 20627,
+   "name": "Dave the Diver: In the Jungle",
+   "firstReleaseDate": "2026-06-18T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20628/o/Rc7kKvwA.jpg",
+     "sm": "game/20628/PVD3zUBc.jpg"
+    }
+   },
+   "_id": "6a0b6281f8c306636f208787",
+   "id": 20628,
+   "name": "Hell Let Loose: Vietnam",
+   "firstReleaseDate": "2026-06-18T00:00:00.000Z"
+  },
+  {
+   "_id": "69f35c9bf8c306636fa8da21",
+   "id": 20491,
+   "name": "EA Sports UFC 6",
+   "firstReleaseDate": "2026-06-19T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20872/o/fNn84qo8.jpg",
+     "sm": "game/20872/jIKWMikM.jpg"
+    }
+   },
+   "_id": "6a381c9cf8c306636fdc4c8d",
+   "id": 20872,
+   "name": "Dark Scrolls",
+   "firstReleaseDate": "2026-06-22T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20863/o/tOEvlYxn.jpg",
+     "sm": "game/20863/VTD7sx82.jpg"
+    }
+   },
+   "_id": "6a348524f8c306636fd342b0",
+   "id": 20863,
+   "name": "Devil May Cry 5: Devil Hunter Edition",
+   "firstReleaseDate": "2026-06-23T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20877/o/zMCM9OET.jpg",
+     "sm": "game/20877/7T5mPRHl.jpg"
+    }
+   },
+   "_id": "6a395581f8c306636fe05d1b",
+   "id": 20877,
+   "name": "Deer & Boy",
+   "firstReleaseDate": "2026-06-23T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20103/o/GkJi86DX.jpg",
+     "sm": "game/20103/mWvlu1ta.jpg"
+    }
+   },
+   "_id": "698f4251f8c306636f0886c9",
+   "id": 20103,
+   "name": "Dead or Alive 6: Last Round",
+   "firstReleaseDate": "2026-06-25T00:00:00.000Z"
+  },
+  {
+   "images": {
+    "box": {
+     "og": "game/20560/o/KAfnIr8a.jpg",
+     "sm": "game/20560/2Wt3hsJf.jpg"
+    }
+   },
+   "_id": "69fcb7f1f8c306636fd6f5e8",
+   "id": 20560,
+   "name": "Star Fox",
+   "firstReleaseDate": "2026-06-25T00:00:00.000Z"
+  }
+ ],
+ "startDate": "2026-01-01T00:00:00.000Z",
+ "endDate": "2026-07-01T00:00:00.000Z",
+ "title": "OpenCritic 2026 Gaming Calendar",
+ "tagLine": "OpenCritic 2026 Gaming Calendar"
+}

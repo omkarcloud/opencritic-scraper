@@ -1,0 +1,34 @@
+{
+ "imageSrc": {
+  "og": "critic/481/o/fd9OFBD2.jpg",
+  "sm": "critic/481/V9xFdCCQ.jpg",
+  "lg": "critic/481/CayQVcgn.jpg"
+ },
+ "favoriteGames": [
+  "Halo 2",
+  "Minecraft",
+  "The Elder Scrolls III: Morrowind"
+ ],
+ "image": true,
+ "claimed": true,
+ "percentRecommended": 64.84018264840182,
+ "numReviews": 219,
+ "medianScore": 80,
+ "averageScore": 73.662100456621,
+ "name": "Travis Northup",
+ "externalUrl": null,
+ "twitter": "TieGuyTravis",
+ "facebook": null,
+ "steam": "TieGuyTravis",
+ "xboxLive": "TieGuyTravis",
+ "psn": "TieGuyTravis",
+ "nintendoFriendCode": "SW-7624-7355-8699",
+ "bio": "I wear a suit every day and play too many video games.",
+ "hometown": "San Francisco",
+ "id": 481,
+ "createdAt": "2019-09-21T18:37:35.562Z",
+ "updatedAt": "2026-09-19T09:52:57.818Z",
+ "__v": 0,
+ "linkedIn": "travis-northup-14586115/",
+ "publicEmail": "northup.travis@gmail.com"
+}

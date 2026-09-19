@@ -1,0 +1,296 @@
+{
+ "images": {
+  "box": {
+   "og": "game/463/o/M0VUcLa8.jpg",
+   "sm": "game/463/rB1hHRUz.jpg"
+  },
+  "square": {
+   "og": "game/463/o/OVsgXNo2.jpg",
+   "xs": "game/463/6bOIfnaJ.jpg",
+   "sm": "game/463/GG8JCUkL.jpg",
+   "lg": "game/463/oTjgRCNz.jpg"
+  },
+  "masthead": {
+   "og": "game/463/o/GUT53zSN.jpg",
+   "xs": "game/463/HDjXfrh4.jpg",
+   "sm": "game/463/MSN7ZMj6.jpg",
+   "md": "game/463/1Jy2mzhl.jpg",
+   "lg": "game/463/HdCILLfl.jpg",
+   "xl": "game/463/iNiqeJlm.jpg"
+  },
+  "banner": {
+   "og": "game/463/o/NcQS6Nk8.jpg",
+   "sm": "game/463/6uNBtFmg.jpg"
+  },
+  "logo": {
+   "og": "game/463/o/vm06X7tT.jpg"
+  },
+  "screenshots": [
+   {
+    "og": "game/463/o/3iC8cNfj.jpg",
+    "sm": "game/463/WLIfpTNm.jpg",
+    "_id": "62f495b5334b0d233c5834c3"
+   },
+   {
+    "og": "game/463/o/2be7qvpn.jpg",
+    "sm": "game/463/vESoVPyn.jpg",
+    "_id": "62f495b5334b0d233c5834c4"
+   },
+   {
+    "og": "game/463/o/d5cebZxZ.jpg",
+    "sm": "game/463/5MUgAhQU.jpg",
+    "_id": "62f495b5334b0d233c5834c5"
+   }
+  ]
+ },
+ "mainChannel": {
+  "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+  "channelTitle": "The Witcher",
+  "description": "This is the official YouTube channel for The Witcher 3: Wild Hunt, The Witcher 2: Assassins of Kings and The Witcher ...",
+  "title": "The Witcher",
+  "image": "https://yt3.ggpht.com/yP-CSpKPr7fngl3VGmUQZYoAFgtV85Na0lMqoM3b-PTnki0420tHAF4kFx0mFRPkkTAqnDsr4g=s88-c-k-c0xffffffff-no-rj-mo",
+  "externalUrl": "https://www.youtube.com/channel/UCzybXLxv08IApdjdN0mJhEg"
+ },
+ "Rating": {
+  "imageSrc": "http://www.esrb.org/images/ratingsymbol_m.png"
+ },
+ "isPre2015": false,
+ "hasLootBoxes": false,
+ "isMajorTitle": true,
+ "percentRecommended": 95.32163742690058,
+ "numReviews": 181,
+ "numTopCriticReviews": 152,
+ "medianScore": 95,
+ "topCriticScore": 92.53623188405797,
+ "percentile": 100,
+ "tier": "Mighty",
+ "name": "The Witcher 3: Wild Hunt",
+ "description": "The Witcher: Wild Hunt is a story-driven, next-generation open world role-playing game set in a visually stunning fantasy universe full of meaningful choices and impactful consequences. In The Witcher you play as the professional monster hunter, Geralt of Rivia, tasked with finding a child of prophecy in a vast open world rich with merchant cities, viking pirate islands, dangerous mountain passes, and forgotten caverns to explore.",
+ "screenshots": [
+  {
+   "_id": "5b7f6d50e29b0a01f897656c",
+   "fullRes": "//c.opencritic.com/images/games/463/JL7L5E3K2jIwnwO3cdPYKepNiCmXgfDf.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/463/JL7L5E3K2jIwnwO3cdPYKepNiCmXgfDf_th.jpg"
+  },
+  {
+   "_id": "5b7f6d50e29b0a01f897656b",
+   "fullRes": "//c.opencritic.com/images/games/463/d67IprZXB6a3V2z49MimwZIB6KTQsz4i.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/463/d67IprZXB6a3V2z49MimwZIB6KTQsz4i_th.jpg"
+  },
+  {
+   "_id": "5b7f6d50e29b0a01f897656a",
+   "fullRes": "//c.opencritic.com/images/games/463/aeqtjqoDaPvpfzHSk4nvcWhAWV18huA5.jpg",
+   "thumbnail": "//c.opencritic.com/images/games/463/aeqtjqoDaPvpfzHSk4nvcWhAWV18huA5_th.jpg"
+  }
+ ],
+ "trailers": [
+  {
+   "title": "The Witcher 3: Wild Hunt - Launch Cinematic",
+   "videoId": "1-l29HlKkXU",
+   "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+   "description": "\"A Night to Remember\", The Witcher 3: Wild Hunt launch cinematic, has arrived! Feast your eyes on a gripping portrayal what The ...",
+   "externalUrl": "https://www.youtube.com/watch?v=1-l29HlKkXU",
+   "channelTitle": "The Witcher",
+   "publishedDate": "2015-05-14T00:00:00.000Z",
+   "isOpenCritic": false,
+   "isSpecial": "NO",
+   "specialName": "Launch Cinematic",
+   "expectedName": "The Witcher 3: Wild Hunt — Launch Cinematic"
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt - Official Gameplay Trailer",
+   "videoId": "nYwe_WHARdc",
+   "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+   "description": "The Witcher 3: Wild Hunt - Official Gameplay Trailer In The Witcher 3: Wild Hunt you become Geralt of Rivia, a monster slayer for hire. You take on the greatest contract of your life -- tracking...",
+   "externalUrl": "https://www.youtube.com/watch?v=nYwe_WHARdc",
+   "channelTitle": "The Witcher",
+   "publishedDate": "2015-04-10T00:00:00.000Z",
+   "isOpenCritic": false,
+   "isSpecial": "NO",
+   "specialName": "Gameplay Trailer #2",
+   "expectedName": "The Witcher 3: Wild Hunt — Gameplay Trailer #2"
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt ”The Trail” Opening Cinematic",
+   "videoId": "FcogCjLymeI",
+   "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+   "description": "Foreshadowing the story of The Witcher 3: Wild Hunt, The Trail Opening Cinematic is an epic sneak peek into the adventure that awaits gamers in Wild Hunt. See witchers Geralt of Rivia and his...",
+   "externalUrl": "https://www.youtube.com/watch?v=FcogCjLymeI",
+   "channelTitle": "The Witcher",
+   "publishedDate": "2014-10-24T00:00:00.000Z",
+   "isOpenCritic": false,
+   "isSpecial": "NO",
+   "specialName": "The Trail Opening Cinematic",
+   "expectedName": "The Witcher 3: Wild Hunt — The Trail Opening Cinematic"
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt - Killing Monsters Cinematic Trailer",
+   "videoId": "c0i88t0Kacs",
+   "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+   "description": "CD Projekt RED is proud to present The Witcher 3: Wild Hunt \"Killing Monsters\" cinematic trailer to the public for the first time, offering a thrilling glimpse into the morally ambiguous universe...",
+   "externalUrl": "https://www.youtube.com/watch?v=c0i88t0Kacs",
+   "channelTitle": "The Witcher",
+   "publishedDate": "2013-08-14T00:00:00.000Z",
+   "isOpenCritic": false,
+   "isSpecial": "NO",
+   "specialName": "Killing Monsters Cinematic",
+   "expectedName": "The Witcher 3: Wild Hunt — Killing Monsters Cinematic"
+  },
+  {
+   "title": "The Witcher 3: Wild Hunt - Debut Gameplay Trailer",
+   "videoId": "TZ_G6XiHoUA",
+   "channelId": "UCzybXLxv08IApdjdN0mJhEg",
+   "description": "The Witcher 3: Wild Hunt - Debut Gameplay gives you an exclusive sneak peek into the vast and gritty world of Geralt of Rivia, the witcher. Experience a realm where morality is not a simple...",
+   "externalUrl": "https://www.youtube.com/watch?v=TZ_G6XiHoUA",
+   "channelTitle": "The Witcher",
+   "publishedDate": "2013-06-10T00:00:00.000Z",
+   "isOpenCritic": false,
+   "isSpecial": "NO",
+   "specialName": "Gameplay Trailer #1",
+   "expectedName": "The Witcher 3: Wild Hunt — Gameplay Trailer #1"
+  }
+ ],
+ "mastheadScreenshot": {
+  "fullRes": "//c.opencritic.com/images/games/463/masthead_ouxbuMYMnEKjsCDQLd0gnvK62vrkN44R.jpg",
+  "thumbnail": "//c.opencritic.com/images/games/463/masthead_ouxbuMYMnEKjsCDQLd0gnvK62vrkN44R_th.jpg"
+ },
+ "embargoDate": null,
+ "monetizationFeatures": {
+  "summary": ""
+ },
+ "Companies": [
+  {
+   "name": "CD Projekt Red",
+   "type": "DEVELOPER"
+  },
+  {
+   "name": "Warner Bros. Interactive Entertainment",
+   "type": "PUBLISHER"
+  }
+ ],
+ "Platforms": [
+  {
+   "id": 6,
+   "name": "PlayStation 4",
+   "shortName": "PS4",
+   "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+   "releaseDate": "2015-05-19T00:00:00.000Z",
+   "displayRelease": null
+  },
+  {
+   "id": 7,
+   "name": "Xbox One",
+   "shortName": "XB1",
+   "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+   "releaseDate": "2015-05-19T00:00:00.000Z",
+   "displayRelease": null
+  },
+  {
+   "id": 27,
+   "name": "PC",
+   "shortName": "PC",
+   "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+   "releaseDate": "2015-05-19T00:00:00.000Z",
+   "displayRelease": null
+  },
+  {
+   "id": 2,
+   "name": "Xbox Series X/S",
+   "shortName": "XBXS",
+   "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+   "releaseDate": "2020-11-10T00:00:00.000Z"
+  },
+  {
+   "id": 3,
+   "name": "PlayStation 5",
+   "shortName": "PS5",
+   "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+   "releaseDate": "2020-11-12T00:00:00.000Z"
+  },
+  {
+   "id": 32,
+   "name": "Nintendo Switch",
+   "shortName": "Switch",
+   "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+   "releaseDate": "2015-05-19T00:00:00.000Z"
+  }
+ ],
+ "Genres": [
+  {
+   "id": 76,
+   "name": "Adventure"
+  },
+  {
+   "id": 77,
+   "name": "RPG"
+  }
+ ],
+ "Affiliates": [
+  {
+   "externalUrl": "https://af.gog.com/en/game/the_witcher_3_wild_hunt?as=1673677962",
+   "name": "GOG",
+   "basePrice": 49.99,
+   "price": 49.99
+  },
+  {
+   "externalUrl": "http://geni.us/Q1lNMz",
+   "name": "Amazon"
+  },
+  {
+   "externalUrl": "https://us.gamesplanet.com/game/stuff--2672-3?ref=opencritic",
+   "name": "GamesPlanet"
+  },
+  {
+   "externalUrl": "https://www.epicgames.com/store/en-US/product/the-witcher-3-wild-hunt",
+   "name": "Epic Games Store"
+  },
+  {
+   "externalUrl": "http://www.anrdoezrs.net/links/8050398/type/dlg/https://www.greenmangaming.com/games/the-witcher-3-wild-hunt",
+   "name": "Green Man Gaming"
+  },
+  {
+   "externalUrl": "http://www.anrdoezrs.net/links/8050398/type/dlg/https://www.fanatical.com/en/game/the-witcher-3-wild-hunt",
+   "name": "Fanatical"
+  }
+ ],
+ "id": 463,
+ "firstReleaseDate": "2015-05-19T00:00:00.000Z",
+ "createdAt": "2019-09-21T18:43:53.145Z",
+ "updatedAt": "2026-09-19T09:24:06.919Z",
+ "firstReviewDate": "2015-05-11T04:00:00.000Z",
+ "latestReviewDate": "2026-01-08T00:00:00.000Z",
+ "logoScreenshot": {
+  "fullRes": "//c.opencritic.com/images/games/463/logo_Li4N2rwJeNLRV7CyAr2izGUZeqiDUFfI.jpg",
+  "thumbnail": "//c.opencritic.com/images/games/463/logo_Li4N2rwJeNLRV7CyAr2izGUZeqiDUFfI_th.jpg"
+ },
+ "bannerScreenshot": {
+  "fullRes": "//c.opencritic.com/images/games/463/banner.jpg"
+ },
+ "squareScreenshot": {
+  "fullRes": "//c.opencritic.com/images/games/463/MUXlDorhHlieYR6V4dEJ9XkmoHNwlBVmOy90MNickdulpAtZ.jpg",
+  "thumbnail": "//c.opencritic.com/images/games/463/MUXlDorhHlieYR6V4dEJ9XkmoHNwlBVmOy90MNickdulpAtZ_th.jpg"
+ },
+ "verticalLogoScreenshot": {
+  "fullRes": "//c.opencritic.com/images/games/463/sGY3JgNso7p1VGGnMOUExJw3RDkpHG2NY3RgJPQaNOsLhvB0.jpg",
+  "thumbnail": "//c.opencritic.com/images/games/463/sGY3JgNso7p1VGGnMOUExJw3RDkpHG2NY3RgJPQaNOsLhvB0_th.jpg"
+ },
+ "imageMigrationComplete": true,
+ "tenthReviewDate": "2015-05-12T00:00:00.000Z",
+ "criticalReviewDate": "2015-05-12T04:00:00.000Z",
+ "biggestDiscountDollars": 0,
+ "biggestDiscountPercentage": 0,
+ "needsAdminDealReview": true,
+ "tags": [
+  "6699556b534cfd6134a078e0",
+  "6699556b534cfd6134a078e8",
+  "6699556b534cfd6134a078ec",
+  "6699556c534cfd6134a078f8",
+  "6699556d534cfd6134a0791c",
+  "66995570534cfd6134a0796c",
+  "6699557c534cfd6134a07a7c",
+  "66995582534cfd6134a07b10",
+  "6699556a534cfd6134a078d8",
+  "669a9cc4d6345aafa60fae46"
+ ],
+ "url": "https://opencritic.com/game/463/the-witcher-3-wild-hunt"
+}

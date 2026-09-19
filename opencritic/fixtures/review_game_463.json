@@ -1,0 +1,1192 @@
+[
+ {
+  "_id": "69edcbe1f8c306636f95e3b0",
+  "title": "The Witcher 3: Wild Hunt Review",
+  "publishedDate": "2026-01-08T00:00:00.000Z",
+  "externalUrl": "https://www.eternalgamesweb.com/reviews/the-witcher-review-3",
+  "snippet": "The Witcher 3 is considered one of the strongest RPG games in history, and it is characterized by a massive open world rich in details, complex characters, an exciting main story, and deep side missions, with an enjoyable combat and battle system. The game offers long hours and is worth the experience for both new and old players.",
+  "language": "ar-ar",
+  "score": 100,
+  "npScore": 100,
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 85,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Outlet": {
+   "id": 999,
+   "name": "Eternal Games",
+   "isContributor": true,
+   "imageSrc": {
+    "og": "outlet/999/o/yB6AqmeR.jpg",
+    "sm": "outlet/999/MnQ9pg0b.jpg",
+    "lg": "outlet/999/8d73qzzs.jpg"
+   }
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "Authors": [
+   {
+    "id": 11774,
+    "name": "ABDULLAH SAMI",
+    "image": false,
+    "_id": "69edcbe1f8c306636f95e3b2"
+   }
+  ],
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "createdAt": "2026-04-26T08:25:05.961Z",
+  "updatedAt": "2026-04-26T08:25:05.961Z",
+  "__v": 0
+ },
+ {
+  "_id": "698167fdf8c306636fc44b22",
+  "title": "The Witcher 3: Wild Hunt Review",
+  "publishedDate": "2024-12-15T00:00:00.000Z",
+  "externalUrl": "https://www.jetsonplaysgames.com/post/the-witcher-3-wild-hunt-review",
+  "snippet": "Bold and breathtaking, The Witcher 3: Wild Hunt is an exemplar of storytelling and narrative design. With a great blend of serious, tense moments and stretches of levity, each quest will keep you engaged and enthralled.",
+  "language": "en-us",
+  "score": 100,
+  "npScore": 100,
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 80,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Outlet": {
+   "id": 989,
+   "name": "JetsonPlaysGames",
+   "isContributor": true
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "Authors": [
+   {
+    "id": 11658,
+    "name": "Taylor Rioux",
+    "image": true,
+    "imageSrc": {
+     "og": "critic/11658/o/KwNVA43W.jpg",
+     "sm": "critic/11658/GrfH3jEB.jpg",
+     "lg": "critic/11658/iS2ZmWqP.jpg"
+    },
+    "_id": "698167fdf8c306636fc44b24"
+   }
+  ],
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "createdAt": "2026-02-03T03:14:05.719Z",
+  "updatedAt": "2026-02-03T03:14:05.719Z",
+  "__v": 0
+ },
+ {
+  "_id": "63bcd5e207560b861277bab5",
+  "Outlet": {
+   "name": "World Of Geek Stuff",
+   "isContributor": true,
+   "id": 867,
+   "imageSrc": {
+    "og": "outlet/867/o/uQcwBbe3.jpg",
+    "sm": "outlet/867/YBCx6o2l.jpg",
+    "lg": "outlet/867/oEbNosam.jpg"
+   }
+  },
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "63bcd86407560b861277bad6",
+    "id": 9541,
+    "name": "Amanda Blain",
+    "image": true,
+    "imageSrc": {
+     "og": "critic/9541/o/TPAIoRgG.jpg",
+     "sm": "critic/9541/2TxCLMSo.jpg",
+     "lg": "critic/9541/zI4de7kX.jpg"
+    }
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5d866d6993765d677873611e",
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 19,
+   "name": "0 to 5 stars, incl half stars",
+   "scoreDisplay": " / 5 stars",
+   "shortName": "x.5 / 5 stars",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": true,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.worldofgeekstuff.com/the-witcher-3-wild-hunt-complete-edition-next-gen-review/",
+  "title": "The Witcher 3: Wild Hunt Complete Edition (Next-Gen) Review",
+  "publishedDate": "2023-01-09T00:00:00.000Z",
+  "score": 100,
+  "snippet": "Yup. This is still one of the best RPG games ever made. The Witcher 3: Wild Hunt Complete Edition Next Gen Update offers a lengthy story with high-quality voice acting and stunning graphics. For players who are familiar with the Netflix adaptation, there are additional story elements to discover and exclusive armor sets that are inspired by the show. There are new ways to filter the map, new quick sign options, and many more quality-of-life updates. These added features enhance the overall gaming experience. It's a nice touch. The base game, as well as the expansion packs \"Hearts of Stone\" and \"Blood and Wine,\" offer hours upon hours of content that will keep players engaged for a long time.",
+  "npScore": 100,
+  "language": "en-us",
+  "medianAtTimeOfReview": 90,
+  "createdAt": "2023-01-10T03:05:06.881Z",
+  "updatedAt": "2024-10-29T22:08:11.994Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "63b443b407560b86127794b4",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/612/o/00acqDAd.jpg",
+    "sm": "outlet/612/oxpGTTgQ.jpg",
+    "lg": "outlet/612/z6hhgaP4.jpg"
+   },
+   "name": "Jump Dash Roll",
+   "isContributor": false,
+   "id": 612
+  },
+  "magic": 3300,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 25,
+   "name": "0 to 10, whole numbers",
+   "shortName": "x / 10",
+   "scoreDisplay": " / 10",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "base": 10,
+   "options": null,
+   "numDecimals": 0
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.jumpdashroll.com/article/the-witcher-3-wild-hunt-next-gen-update-review",
+  "language": "en-us",
+  "Platforms": [],
+  "Authors": [
+   {
+    "_id": "63b443b407560b86127794b5",
+    "id": 7033,
+    "name": "Derek Johnson",
+    "image": false
+   }
+  ],
+  "alias": "Derek Johnson",
+  "publishedDate": "2023-01-03T00:00:00.000Z",
+  "score": 90,
+  "snippet": "Although The Witcher 3: Wild Hunt Next-Gen Update isn't an especially noteworthy upgrade, the base game is so superb that the few things it does add are more than welcome.",
+  "title": "The Witcher 3: Wild Hunt Next-Gen Update Review - Jump Dash Roll",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 70,
+  "npScore": 100,
+  "createdAt": "2023-01-03T15:03:16.471Z",
+  "updatedAt": "2024-10-29T22:07:25.374Z",
+  "__v": 0
+ },
+ {
+  "_id": "63b3a9b907560b86127792cc",
+  "Outlet": {
+   "name": "Digital Chumps",
+   "isContributor": false,
+   "id": 96,
+   "imageSrc": {
+    "og": "outlet/96/o/mbRbYv2D.jpg",
+    "sm": "outlet/96/2DdzYSmH.jpg",
+    "lg": "outlet/96/6XGPVUON.jpg"
+   }
+  },
+  "magic": 3300,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 30,
+   "name": "No Verdict",
+   "shortName": "No Verdict",
+   "scoreDisplay": " / 100",
+   "isNumeric": false,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": null,
+   "base": null,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://digitalchumps.com/the-witcher-3-wild-hunt-complete-edition-review/",
+  "language": "en-us",
+  "Platforms": [
+   {
+    "_id": "63b3a4f4ec183032f6b289c0",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "Authors": [
+   {
+    "_id": "63b3a9c307560b86127792e7",
+    "id": 784,
+    "name": "Nathaniel Stevens",
+    "image": false
+   }
+  ],
+  "alias": "Nathaniel Stevens",
+  "publishedDate": "2023-01-03T00:00:00.000Z",
+  "title": "The Witcher 3: Wild Hunt – Complete Edition Review",
+  "score": null,
+  "snippet": "Judging The Witcher 3: Wild Hunt – Complete Edition on its entertainment value is easy – it’s perfect. It has an unbelievable story, compelling characters, solid gameplay, and a properly thought-through backend that shows the developers are all-in on delivering an unforgettable experience. On the next-generation upgrade side of this release, it’s just not complete. While the performance mode takes the experience up a notch with visuals and frame rate, the Ray Tracing mode is unplayable and incomplete. It hurts the experience more than it helps it.",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": null,
+  "createdAt": "2023-01-03T04:06:17.191Z",
+  "updatedAt": "2024-10-29T22:05:03.680Z",
+  "__v": 1
+ },
+ {
+  "_id": "63a8762407560b8612776169",
+  "Outlet": {
+   "name": "GameBlast",
+   "isContributor": true,
+   "id": 797,
+   "imageSrc": {
+    "og": "outlet/797/o/DLbztxy6.jpg",
+    "sm": "outlet/797/J9qsJt4Q.jpg",
+    "lg": "outlet/797/rp8C4GKd.jpg"
+   }
+  },
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "63a8884007560b86127761ec",
+    "id": 7686,
+    "name": "Matheus Senna de Oliveira",
+    "image": true,
+    "imageSrc": {
+     "og": "critic/7686/o/ZqeNLwEx.jpg",
+     "sm": "critic/7686/VaVyvGBP.jpg",
+     "lg": "critic/7686/PBSlfK1V.jpg"
+    }
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5fa46833539b2ea1f6aff145",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.gameblast.com.br/2022/12/analise-witcher-3-wild-hunt-complete-geralt-gratis-netflix-rpg.html",
+  "publishedDate": "2022-12-24T00:00:00.000Z",
+  "score": 95,
+  "snippet": "With even more polished visuals, especially in terms of lighting and textures, The Witcher 3: Wild Hunt Complete Edition expands the original experience with new items, a new mission inspired by the Netflix series and several gameplay improvements, not to mention a system for access saves on any device. Whether you're a veteran who can get your free copy of the new edition or a new player, this is a must-have title in your library.",
+  "npScore": 100,
+  "language": "pt-pt",
+  "medianAtTimeOfReview": 80,
+  "createdAt": "2022-12-25T16:11:16.502Z",
+  "updatedAt": "2024-10-29T22:07:58.075Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "63c3437b07560b861277ef7b",
+  "Outlet": {
+   "name": "FingerGuns",
+   "isContributor": true,
+   "id": 543,
+   "imageSrc": {
+    "og": "outlet/543/o/Ccrc7zkN.jpg",
+    "sm": "outlet/543/r9HpoEuA.jpg",
+    "lg": "outlet/543/ojxEbMFS.jpg"
+   }
+  },
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "63c4763207560b861277f464",
+    "id": 5421,
+    "name": "Greg Hicks",
+    "image": false
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5fa46833539b2ea1f6aff145",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 25,
+   "name": "0 to 10, whole numbers",
+   "shortName": "x / 10",
+   "scoreDisplay": " / 10",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "base": 10,
+   "options": null,
+   "numDecimals": 0
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://fingerguns.net/reviews/2022/12/23/the-witcher-3-the-wild-hunt-review-ps5-like-fine-toussaint-wine/",
+  "title": "The Witcher 3: The Wild Hunt Review (PS5) – Like Fine Toussaint Wine",
+  "publishedDate": "2022-12-23T00:00:00.000Z",
+  "score": 90,
+  "snippet": "A welcome update, The Witcher 3 is just as magnificent and engrossing as it was seven years ago. It looks beautiful, but still retains that rusty charm that sometimes creeps into a game so massive. Given that it’s a free upgrade, there’s no better time to get back into the world of Geralt and the Wild Hunt.",
+  "npScore": 100,
+  "language": "en-us",
+  "medianAtTimeOfReview": 70,
+  "createdAt": "2023-01-15T00:06:19.080Z",
+  "updatedAt": "2024-10-29T22:04:08.939Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "63a719ad07560b8612775e89",
+  "Outlet": {
+   "name": "GamesCreed",
+   "isContributor": true,
+   "id": 829,
+   "imageSrc": {
+    "og": "outlet/829/o/Z1ykMPPA.jpg",
+    "sm": "outlet/829/1AbeOsIh.jpg",
+    "lg": "outlet/829/oIkTzPQX.jpg"
+   }
+  },
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "63a71d7307560b8612775ea9",
+    "id": 8795,
+    "name": "Junior Onunkwo",
+    "image": false
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5fa4685b539b2ea1f6aff463",
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 24,
+   "name": "0 to 5, incl decimals",
+   "shortName": "x.x / 5",
+   "scoreDisplay": " / 5.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.gamescreed.com/reviews/the-witcher-3-wild-hunt-complete-edition-xbox-series-x-review/",
+  "title": "The Witcher 3: Wild Hunt – Complete Edition Xbox Series X Review: One of The Best RPGs Ever is Now Astronomically Better",
+  "publishedDate": "2022-12-23T00:00:00.000Z",
+  "score": 96,
+  "snippet": "Albeit, they had eventually implemented significant changes, you could say the damage was already done. But with The Witcher 3: Wild Hunt’s next-gen update, they have done more than enough to get back in many of those fans’ good books and are back on the right track.",
+  "npScore": 100,
+  "language": "en-us",
+  "medianAtTimeOfReview": 80,
+  "createdAt": "2022-12-24T15:24:29.638Z",
+  "updatedAt": "2024-10-29T22:08:04.802Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "63a5f3ba07560b8612775813",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/31/o/JGPQZdxA.jpg",
+    "sm": "outlet/31/tV7JuoX2.jpg",
+    "lg": "outlet/31/vbgXM1hn.jpg"
+   },
+   "name": "Impulsegamer",
+   "isContributor": false,
+   "id": 31
+  },
+  "magic": 3100,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 24,
+   "name": "0 to 5, incl decimals",
+   "shortName": "x.x / 5",
+   "scoreDisplay": " / 5.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.impulsegamer.com/the-witcher-3-wild-hunt-ps5-review-cdprojektred-witchergame-playstationau/",
+  "language": "en-us",
+  "Platforms": [
+   {
+    "_id": "63a599f5ec183032f6b2862f",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "Authors": [
+   {
+    "_id": "63a5f3ba07560b8612775815",
+    "id": 9630,
+    "name": "Andrew Paul",
+    "image": false
+   }
+  ],
+  "alias": "Andrew Paul",
+  "publishedDate": "2022-12-23T00:00:00.000Z",
+  "snippet": "The Witcher 3: Wild Hunt on the PlayStation 5 is indeed a next-gen experience and while it is the same game at its core, CD Projekt Red have done a commendable job at improving the graphics and tweaking the gameplay to make an already excellent game still relevant on these next-gen consoles. Add in all the DLC's released, including some of the best player mods and some links to the Netflix series, you really cannot fault this game at all. So whether you're coming back to the franchise or starting your new journey, the Witcher 3: Wild Hunt on the PlayStation 5 is the must have game of 2022 and dare I say 2023.",
+  "title": "The Witcher 3: Wild Hunt PS5 Review",
+  "score": 100,
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": 100,
+  "createdAt": "2022-12-23T18:30:18.685Z",
+  "updatedAt": "2024-10-29T22:04:46.678Z",
+  "__v": 0
+ },
+ {
+  "_id": "6492fe237eeeebc54b2f22a5",
+  "Outlet": {
+   "name": "Cubed3",
+   "isContributor": false,
+   "id": 140,
+   "imageSrc": {
+    "og": "outlet/140/o/1BOycCl1.jpg",
+    "sm": "outlet/140/IsJ7OEge.jpg",
+    "lg": "outlet/140/JhBOCydI.jpg"
+   }
+  },
+  "magic": 2100,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "6492fed07eeeebc54b2f22c8",
+    "id": 6517,
+    "name": "Luke Hemming",
+    "image": false
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5fa46833539b2ea1f6aff145",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 25,
+   "name": "0 to 10, whole numbers",
+   "shortName": "x / 10",
+   "scoreDisplay": " / 10",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "base": 10,
+   "options": null,
+   "numDecimals": 0
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "title": "The Witcher 3: Wild Hunt - Complete Edition (PlayStation 5) Review",
+  "externalUrl": "http://www.cubed3.com/review/6769/1/the-witcher-3-wild-hunt-complete-edition-playstation-5.html",
+  "publishedDate": "2022-12-22T00:00:00.000Z",
+  "score": 90,
+  "snippet": "As someone who repeatedly had the Witcher series suggested by other reviewers and then digging in the heels and refusing to try it, what was missed was one of the best games created on a modern console. The Witcher 3: Wild Hunt deserves all the plaudits it receives, and in its new next gen update, there really is no better way to experience it. Although lacking in new content, the quality-of-life features and sheer beauty of the whole thing make this well worth a revisit.",
+  "language": "en-us",
+  "medianAtTimeOfReview": 70,
+  "npScore": 100,
+  "createdAt": "2023-06-21T13:41:55.724Z",
+  "updatedAt": "2024-10-29T22:05:20.401Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "63ff697a07560b86127a1c21",
+  "Outlet": {
+   "name": "Gfinity",
+   "isContributor": true,
+   "id": 803,
+   "imageSrc": {
+    "og": "outlet/803/o/RVjw4jtK.jpg",
+    "sm": "outlet/803/RSzMnGW8.jpg",
+    "lg": "outlet/803/MKDzL7yS.jpg"
+   }
+  },
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "63ff6da607560b86127a1d25",
+    "id": 9435,
+    "name": "Mark Warren",
+    "image": false
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5d866d6993765d677873611e",
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.gfinityesports.com/reviews/witcher-3-next-gen-update/",
+  "title": "The Witcher 3 next-gen update review - Mixed mutations for a masterpiece",
+  "publishedDate": "2022-12-21T00:00:00.000Z",
+  "snippet": "The Witcher 3’s next gen update adds a great new quest, some snazzy armours, and litany of interesting tweaks to the game, but, on PC, it’s undermined by a parade of performance issues.",
+  "score": 60,
+  "npScore": 0,
+  "language": "en-us",
+  "medianAtTimeOfReview": 80,
+  "createdAt": "2023-03-01T15:04:26.326Z",
+  "updatedAt": "2024-10-29T22:07:59.541Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "639f89d207560b86127726b4",
+  "Outlet": {
+   "name": "NoobFeed",
+   "isContributor": true,
+   "id": 616,
+   "imageSrc": {
+    "og": "outlet/616/o/A6QVshYX.jpg",
+    "sm": "outlet/616/KsyzaJGq.jpg",
+    "lg": "outlet/616/bshRA00b.jpg"
+   }
+  },
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "639fda2507560b8612772f49",
+    "id": 9247,
+    "name": "Azfar Rayan",
+    "image": true,
+    "imageSrc": {
+     "og": "critic/9247/o/nmqzD6MN.jpg",
+     "sm": "critic/9247/3W7oFUpe.jpg",
+     "lg": "critic/9247/dmkwhRkN.jpg"
+    }
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5fa4685b539b2ea1f6aff463",
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 17,
+   "name": "0 to 100, whole numbers",
+   "shortName": "x / 100",
+   "scoreDisplay": " / 100",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 0,
+   "base": 1,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.noobfeed.com/reviews/1993/the-witcher-3-wild-hunt-complete-edition-xbox-series-x-review",
+  "publishedDate": "2022-12-19T00:00:00.000Z",
+  "score": 99,
+  "title": "The Witcher 3: Wild Hunt - Complete Edition Xbox Series X Review",
+  "snippet": "The Witcher 3: Wild Hunt is unquestionably improved by the aforementioned free update. It's prettier, easier to play, and more enjoyable overall thanks to a wealth of tweaks big and little, and no RPG fan should miss playing it.",
+  "npScore": 100,
+  "language": "en-us",
+  "medianAtTimeOfReview": 80,
+  "createdAt": "2022-12-18T21:44:50.402Z",
+  "updatedAt": "2024-10-29T22:07:00.571Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "639cd6d907560b86127719b1",
+  "Outlet": {
+   "name": "Hardcore Gamer",
+   "isContributor": false,
+   "id": 23,
+   "imageSrc": {
+    "og": "outlet/23/o/Ffv3Z2pP.jpg",
+    "sm": "outlet/23/RlsDhAX7.jpg",
+    "lg": "outlet/23/WC1oWF9Q.jpg"
+   }
+  },
+  "magic": 5210,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "ScoreFormat": {
+   "id": 24,
+   "name": "0 to 5, incl decimals",
+   "shortName": "x.x / 5",
+   "scoreDisplay": " / 5.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "medianAtTimeOfReview": 80,
+  "externalUrl": "https://hardcoregamer.com/?post_type=post&p=435074",
+  "language": "en-us",
+  "Platforms": [
+   {
+    "_id": "639cd937ec183032f6b28219",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "Authors": [
+   {
+    "_id": "639ce47e07560b8612771a17",
+    "id": 1804,
+    "name": "Chris Shive",
+    "image": false
+   }
+  ],
+  "title": "Review: The Witcher 3: Wild Hunt – Complete Edition (PS5)",
+  "publishedDate": "2022-12-16T00:00:00.000Z",
+  "snippet": "The Witcher 3: Wild Hunt – Complete Edition takes a nearly-perfect game and makes it better.",
+  "score": 100,
+  "alias": "Chris Shive",
+  "npScore": 100,
+  "createdAt": "2022-12-16T20:36:41.563Z",
+  "updatedAt": "2024-10-29T22:06:12.489Z",
+  "__v": 1,
+  "isQuoteManual": true
+ },
+ {
+  "_id": "639c6fb507560b8612770fa5",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/297/o/CPRVXoml.jpg",
+    "sm": "outlet/297/ybnmrolE.jpg",
+    "lg": "outlet/297/zyBucuZz.jpg"
+   },
+   "name": "GamingBolt",
+   "isContributor": false,
+   "id": 297
+  },
+  "magic": 3300,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://gamingbolt.com/the-witcher-3-wild-hunt-ps5-review-gaming-royalty",
+  "language": "en-us",
+  "Platforms": [],
+  "Authors": [
+   {
+    "_id": "639c6fb507560b8612770fa6",
+    "id": 1198,
+    "name": "Shubhankar Parijat",
+    "image": false
+   }
+  ],
+  "alias": "Shubhankar Parijat",
+  "publishedDate": "2022-12-16T00:00:00.000Z",
+  "score": 90,
+  "snippet": "The Witcher 3 was a masterpiece then, and it's a masterpiece now. The only difference is that it looks and runs better than it ever has on a console.",
+  "title": "The Witcher 3: Wild Hunt (PS5) Review – Gaming Royalty",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": 100,
+  "createdAt": "2022-12-16T13:16:37.423Z",
+  "updatedAt": "2024-10-29T22:05:48.164Z",
+  "__v": 0
+ },
+ {
+  "_id": "63bf2a2607560b861277d73b",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/60/o/Qugj3KOC.jpg",
+    "sm": "outlet/60/Xpi802fv.jpg",
+    "lg": "outlet/60/DpI9nSAg.jpg"
+   },
+   "name": "Game Rant",
+   "isContributor": false,
+   "id": 60
+  },
+  "magic": 5600,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 19,
+   "name": "0 to 5 stars, incl half stars",
+   "scoreDisplay": " / 5 stars",
+   "shortName": "x.5 / 5 stars",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": true,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "externalUrl": "https://gamerant.com/the-witcher-3-wild-hunt-ps5-xbox-series-review/",
+  "language": "en-us",
+  "Platforms": [
+   {
+    "_id": "63bf0b2ff201fe910b0292ca",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "Authors": [
+   {
+    "_id": "63bf2a2607560b861277d73d",
+    "id": 8262,
+    "name": "Adrian Morales",
+    "image": true,
+    "imageSrc": {
+     "og": "critic/8262/o/plTgbrnl.jpg",
+     "sm": "critic/8262/hJtLpOau.jpg",
+     "lg": "critic/8262/PjiAKDUg.jpg"
+    }
+   }
+  ],
+  "alias": "Adrian Morales",
+  "publishedDate": "2022-12-14T00:00:00.000Z",
+  "snippet": "The Witcher 3: Wild Hunt on next-gen consoles is the best way to discover or re-discover one of the most celebrated RPGs of the last decade.",
+  "score": 90,
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "title": "The Witcher 3: Wild Hunt Next-Gen Update Review",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": 100,
+  "createdAt": "2023-01-11T21:29:10.961Z",
+  "updatedAt": "2026-02-10T21:51:37.868Z",
+  "__v": 0,
+  "hideReviewUrl": false
+ },
+ {
+  "_id": "639a193407560b861276fa7a",
+  "Outlet": {
+   "name": "We Got This Covered",
+   "isContributor": false,
+   "id": 19,
+   "imageSrc": {
+    "og": "outlet/19/o/W8t2TQEn.jpg",
+    "sm": "outlet/19/bvRNTh3z.jpg",
+    "lg": "outlet/19/hmVUbC0E.jpg"
+   }
+  },
+  "magic": 4100,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "Authors": [
+   {
+    "_id": "639f936607560b861277275d",
+    "id": 9624,
+    "name": "David James ",
+    "image": false
+   }
+  ],
+  "Platforms": [
+   {
+    "_id": "5fa46833539b2ea1f6aff145",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "ScoreFormat": {
+   "id": 19,
+   "name": "0 to 5 stars, incl half stars",
+   "scoreDisplay": " / 5 stars",
+   "shortName": "x.5 / 5 stars",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": true,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://wegotthiscovered.com/gaming/review-the-witcher-3-next-gen-update-polishes-an-all-time-classic-to-a-mirror-sheen/",
+  "publishedDate": "2022-12-14T00:00:00.000Z",
+  "score": 100,
+  "snippet": "This free update delivers on all counts, with not only a substantive graphical upgrade but an entirely new quest that's worth the price of admission alone. If you've played before, we still recommend heading back. If you haven't, you're in for one of the best games of all time.",
+  "language": "en-us",
+  "medianAtTimeOfReview": 70,
+  "npScore": 100,
+  "createdAt": "2022-12-14T18:43:00.513Z",
+  "updatedAt": "2025-02-11T16:25:04.740Z",
+  "__v": 2,
+  "isQuoteManual": true,
+  "hideReviewUrl": false
+ },
+ {
+  "_id": "639a0e0007560b861276fa01",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/82/o/i3K8iIA5.jpg",
+    "sm": "outlet/82/2owT7Gcx.jpg",
+    "lg": "outlet/82/vY2jZhrG.jpg"
+   },
+   "name": "CGMagazine",
+   "isContributor": false,
+   "id": 82
+  },
+  "magic": 3300,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.cgmagonline.com/review/game/the-witcher-3-the-wild-hunt-next-gen-update-xbox-series-xs-review/",
+  "language": "en-us",
+  "Platforms": [],
+  "Authors": [
+   {
+    "_id": "639a0e0007560b861276fa02",
+    "id": 8529,
+    "name": "Philip Watson",
+    "image": false
+   }
+  ],
+  "publishedDate": "2022-12-14T00:00:00.000Z",
+  "title": "The Witcher 3: The Wild Hunt Next-Gen Update (Xbox Series X|S) Review",
+  "score": 95,
+  "snippet": "The Witcher 3: Wild Hunt is a must play title for any gamer, and the next gen upgrade is an excellent excuse to jump back into the bleak monster ridden world.",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": 100,
+  "createdAt": "2022-12-14T17:55:12.261Z",
+  "updatedAt": "2024-10-29T22:05:14.227Z",
+  "__v": 0
+ },
+ {
+  "_id": "63995dcb07560b861276ecd4",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/104/o/HjQPbfIf.jpg",
+    "sm": "outlet/104/aH0gVRtE.jpg",
+    "lg": "outlet/104/EsGmg7Ag.jpg"
+   },
+   "name": "Gaming Nexus",
+   "isContributor": false,
+   "id": 104
+  },
+  "magic": 4250,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.gamingnexus.com/Article/10757/The-Witcher-3-Wild-Hunt-Next-Gen/",
+  "language": "en-us",
+  "Platforms": [
+   {
+    "_id": "63995d20ec183032f6b27f52",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "Authors": [
+   {
+    "_id": "63995dcb07560b861276ecd6",
+    "id": 8117,
+    "name": "Elliot Hilderbrand",
+    "image": false
+   }
+  ],
+  "alias": "Elliot Hilderbrand",
+  "publishedDate": "2022-12-14T00:00:00.000Z",
+  "score": 90,
+  "snippet": "The core of The Witcher 3: Wild Hunt remains unchanged, thank god. It's the same game we all fell in love with before. Playing on a PlayStation 5 and being able to play around with the new controls, including the haptic and adaptive triggers made playing as Geralt all the better. The new quick casting system works wonders for me, and if it doesn't for you then you retain the old configuration. The framerate has been given a noticeable overhaul as well. I no longer chugged about when I ran while in a city full of objects. This is the perfect excuse to play The Witcher 3 again. The best part of the update is that it's completely free; you can't afford not to play again.",
+  "title": "The Witcher 3: Wild Hunt Next Gen Review - Gaming Nexus",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": 100,
+  "createdAt": "2022-12-14T05:23:23.169Z",
+  "updatedAt": "2024-10-29T22:06:10.559Z",
+  "__v": 0
+ },
+ {
+  "_id": "6a0eb1dcf8c306636f380301",
+  "title": "Zaklínač 3: Game of the Year Edition – tři velká dobrodružství Geralta z Rivie",
+  "publishedDate": "2022-12-13T00:00:00.000Z",
+  "externalUrl": "https://www.gamingprofessors.cz/zaklinac-3-recenze/",
+  "snippet": "The best game of all time? Probably. It’s massive, high-quality, well-organized, and features a fantastic soundtrack and expansions that build on an already excellent story. I also have to highlight the mini-games, such as Gwent and horseback riding, as well as the side quests, which are well-crafted and make sense. There’s practically nothing to fault in The Witcher 3: Game of the Year Edition (The Witcher 3: GOTY Edition). All the issues the original game, The Witcher 3: Wild Hunt, had have been resolved with the expansions—except for The Witcher 3: Wild Hunt. Today, it’s one great masterpiece in which finding flaws is as hard as finding Ciri. I’m truly glad the game has Czech localization at least in the subtitles, because without them, fans would miss out on a lot. And although it really seems like I’m idolizing The Witcher too much, the opposite is true—try playing it, and you’ll understand for yourself.",
+  "language": "cz-cz",
+  "score": 100,
+  "npScore": 100,
+  "magic": 0,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 75,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Outlet": {
+   "id": 859,
+   "name": "Gaming Professors",
+   "isContributor": true,
+   "imageSrc": {
+    "og": "outlet/859/o/930IJgBB.jpg",
+    "sm": "outlet/859/ElJIFg2g.jpg",
+    "lg": "outlet/859/4XCBKi6z.jpg"
+   }
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "Authors": [
+   {
+    "id": 12151,
+    "name": "Patrik Klicman",
+    "image": false,
+    "_id": "6a0eb1dcf8c306636f380303"
+   }
+  ],
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "createdAt": "2026-05-21T07:18:52.402Z",
+  "updatedAt": "2026-05-21T07:18:52.402Z",
+  "__v": 0
+ },
+ {
+  "_id": "63bf22bb07560b861277d4a3",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/325/o/0u6mzsgg.jpg",
+    "sm": "outlet/325/0FjKl5K8.jpg",
+    "lg": "outlet/325/Xb97yK4i.jpg"
+   },
+   "name": "gameranx",
+   "isContributor": false,
+   "id": 325
+  },
+  "magic": 3000,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 30,
+   "name": "No Verdict",
+   "shortName": "No Verdict",
+   "scoreDisplay": " / 100",
+   "isNumeric": false,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": null,
+   "base": null,
+   "options": null
+  },
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "externalUrl": "https://www.youtube.com/watch?v=hUsFjzY2Mi8",
+  "language": "en-us",
+  "Platforms": [],
+  "Authors": [],
+  "publishedDate": "2022-12-13T00:00:00.000Z",
+  "title": "The Witcher 3 NEXT-GEN - Before You Buy - YouTube",
+  "isQuoteManual": true,
+  "isYoutube": true,
+  "lastRefreshDate": "2023-01-11T20:57:31.562Z",
+  "youtubeVideoId": "hUsFjzY2Mi8",
+  "medianAtTimeOfReview": 80,
+  "npScore": null,
+  "createdAt": "2023-01-11T20:57:31.661Z",
+  "updatedAt": "2024-10-29T22:05:45.341Z",
+  "__v": 0
+ }
+]

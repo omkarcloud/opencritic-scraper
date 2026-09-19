@@ -1,0 +1,17 @@
+[
+ {
+  "_id": "5daba10185a9b68f25d03530",
+  "key": "xbox-game-pass-ultimate",
+  "label": "Xbox Game Pass Ultimate"
+ },
+ {
+  "_id": "5dabb20285a9b68f25d167ad",
+  "key": "xbox-game-pass-xbox",
+  "label": "Xbox Game Pass (Xbox)"
+ },
+ {
+  "_id": "5dabb21285a9b68f25d168ab",
+  "key": "xbox-game-pass-pc",
+  "label": "Xbox Game Pass (PC)"
+ }
+]

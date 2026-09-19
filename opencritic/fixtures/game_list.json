@@ -1,0 +1,1383 @@
+[
+ {
+  "images": {
+   "box": {
+    "og": "game/16683/o/uu7W1oKu.jpg",
+    "sm": "game/16683/Zu3dwumY.jpg"
+   },
+   "banner": {
+    "og": "game/16683/o/emj7CURQ.jpg",
+    "sm": "game/16683/vbOeSNwA.jpg"
+   }
+  },
+  "percentRecommended": 98.58156028368793,
+  "numReviews": 145,
+  "topCriticScore": 94.16883116883118,
+  "tier": "Mighty",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-09-25T00:00:00.000Z"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2025-09-25T00:00:00.000Z"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2025-09-25T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2026-04-15T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2026-04-15T00:00:00.000Z"
+   }
+  ],
+  "Genres": [
+   {
+    "_id": "5d866d6a93765d6778736179",
+    "id": 27,
+    "name": "Action"
+   },
+   {
+    "_id": "5d866d6b93765d67787361a2",
+    "id": 77,
+    "name": "RPG"
+   },
+   {
+    "_id": "5d866d6993765d677873613c",
+    "id": 96,
+    "name": "Roguelike"
+   }
+  ],
+  "name": "Hades II",
+  "id": 16683,
+  "firstReleaseDate": "2025-09-25T00:00:00.000Z",
+  "tags": [
+   {
+    "_id": "6699556a534cfd6134a078dc",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Action",
+    "initialPopularity": 3359,
+    "__v": 0,
+    "tagId": "action",
+    "id": "6699556a534cfd6134a078dc"
+   },
+   {
+    "_id": "66995573534cfd6134a079ac",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Roguelike",
+    "initialPopularity": 444,
+    "__v": 0,
+    "tagId": "roguelike",
+    "id": "66995573534cfd6134a079ac"
+   },
+   {
+    "_id": "66995574534cfd6134a079c0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Hack and Slash",
+    "initialPopularity": 425,
+    "__v": 0,
+    "tagId": "hack-and-slash",
+    "id": "66995574534cfd6134a079c0"
+   }
+  ],
+  "url": "https://opencritic.com/game/16683/hades-ii"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18026/o/FbMySDxX.jpg",
+    "sm": "game/18026/IDXhyfJ8.jpg"
+   },
+   "banner": {
+    "og": "game/18026/o/u2EVcBb2.jpg",
+    "sm": "game/18026/UDaVG3p3.jpg"
+   }
+  },
+  "id": 18026,
+  "name": "Clair Obscur: Expedition 33",
+  "firstReleaseDate": "2025-04-24T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-04-24T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-04-24T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-04-24T00:00:00.000Z"
+   }
+  ],
+  "tags": [],
+  "percentRecommended": 97.58454106280193,
+  "numReviews": 209,
+  "topCriticScore": 92.08571428571429,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18026/clair-obscur-expedition-33"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/undefined/o/BrQcaPDj.jpg",
+    "sm": "game/undefined/jPUvyBSQ.jpg"
+   },
+   "banner": {
+    "og": "game/19582/o/kNtNOnTb.jpg",
+    "sm": "game/19582/5O6lYkGu.jpg"
+   }
+  },
+  "id": 19582,
+  "name": "The Séance of Blake Manor",
+  "firstReleaseDate": "2025-10-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-10-27T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "66995588534cfd6134a07b8c",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Supernatural",
+    "initialPopularity": 116,
+    "__v": 0,
+    "tagId": "supernatural",
+    "id": "66995588534cfd6134a07b8c"
+   },
+   {
+    "_id": "6699557f534cfd6134a07ac0",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Detective",
+    "initialPopularity": 199,
+    "__v": 0,
+    "tagId": "detective",
+    "id": "6699557f534cfd6134a07ac0"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Adventure",
+    "initialPopularity": 3280,
+    "__v": 0,
+    "tagId": "adventure",
+    "id": "6699556b534cfd6134a078e0"
+   },
+   {
+    "_id": "6699556c534cfd6134a0790c",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Puzzle",
+    "initialPopularity": 1151,
+    "__v": 0,
+    "tagId": "puzzle",
+    "id": "6699556c534cfd6134a0790c"
+   },
+   {
+    "_id": "6699556a534cfd6134a078d8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Singleplayer",
+    "initialPopularity": 4158,
+    "__v": 0,
+    "tagId": "singleplayer",
+    "id": "6699556a534cfd6134a078d8"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Story Rich",
+    "initialPopularity": 1934,
+    "__v": 0,
+    "tagId": "story-rich",
+    "id": "6699556b534cfd6134a078e8"
+   }
+  ],
+  "percentRecommended": 95,
+  "numReviews": 20,
+  "topCriticScore": 91.45454545454545,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/19582/the-s-ance-of-blake-manor"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/19049/o/CXF5eug3.jpg",
+    "sm": "game/19049/EfhySvBA.jpg"
+   },
+   "banner": {
+    "og": "game/19049/o/XpEFO6xn.jpg",
+    "sm": "game/19049/qIqu5ZrN.jpg"
+   }
+  },
+  "id": 19049,
+  "name": "and Roger",
+  "firstReleaseDate": "2025-07-23T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2025-07-24T00:00:00.000Z"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2025-07-24T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-07-23T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556b534cfd6134a078e8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Story Rich",
+    "initialPopularity": 1934,
+    "__v": 0,
+    "tagId": "story-rich",
+    "id": "6699556b534cfd6134a078e8"
+   },
+   {
+    "_id": "6699556c534cfd6134a0790c",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Puzzle",
+    "initialPopularity": 1151,
+    "__v": 0,
+    "tagId": "puzzle",
+    "id": "6699556c534cfd6134a0790c"
+   },
+   {
+    "_id": "6699556a534cfd6134a078d8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Singleplayer",
+    "initialPopularity": 4158,
+    "__v": 0,
+    "tagId": "singleplayer",
+    "id": "6699556a534cfd6134a078d8"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Indie",
+    "initialPopularity": 2981,
+    "__v": 0,
+    "tagId": "indie",
+    "id": "6699556b534cfd6134a078e4"
+   }
+  ],
+  "percentRecommended": 94.73684210526315,
+  "numReviews": 19,
+  "topCriticScore": 91.28571428571429,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/19049/and-roger"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/15136/o/Jb5ouFD8.jpg",
+    "sm": "game/15136/ajFPmCb2.jpg"
+   },
+   "banner": {
+    "og": "game/15136/o/lNZ6cYSc.jpg",
+    "sm": "game/15136/iTX8SNU3.jpg"
+   }
+  },
+  "percentRecommended": 96.90265486725663,
+  "numReviews": 232,
+  "topCriticScore": 91.22222222222223,
+  "tier": "Mighty",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2024-02-29T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-01-23T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2024-02-29T00:00:00.000Z"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2024-02-29T00:00:00.000Z"
+   }
+  ],
+  "Genres": [
+   {
+    "_id": "5d866d6a93765d6778736179",
+    "id": 27,
+    "name": "Action"
+   },
+   {
+    "_id": "5d866d6b93765d677873618f",
+    "id": 76,
+    "name": "Adventure"
+   },
+   {
+    "_id": "5d866d6b93765d67787361a2",
+    "id": 77,
+    "name": "RPG"
+   }
+  ],
+  "name": "Final Fantasy VII Rebirth",
+  "id": 15136,
+  "firstReleaseDate": "2024-02-29T00:00:00.000Z",
+  "tags": [
+   {
+    "_id": "66995572534cfd6134a07998",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Action RPG",
+    "initialPopularity": 481,
+    "__v": 0,
+    "tagId": "action-rpg",
+    "id": "66995572534cfd6134a07998"
+   },
+   {
+    "_id": "66995578534cfd6134a07a0c",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "JRPG",
+    "initialPopularity": 345,
+    "__v": 0,
+    "tagId": "jrpg",
+    "description": "",
+    "id": "66995578534cfd6134a07a0c"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Story Rich",
+    "initialPopularity": 1934,
+    "__v": 0,
+    "tagId": "story-rich",
+    "id": "6699556b534cfd6134a078e8"
+   },
+   {
+    "_id": "6699556a534cfd6134a078d8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Singleplayer",
+    "initialPopularity": 4158,
+    "__v": 0,
+    "tagId": "singleplayer",
+    "id": "6699556a534cfd6134a078d8"
+   }
+  ],
+  "url": "https://opencritic.com/game/15136/final-fantasy-vii-rebirth"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/7425/o/kG8RpmNY.jpg",
+    "sm": "game/7425/yRXwHoEL.jpg"
+   },
+   "banner": {
+    "og": "game/7425/o/yaxZSz7J.jpg",
+    "sm": "game/7425/fUU8WKt7.jpg"
+   }
+  },
+  "percentRecommended": 96,
+  "numReviews": 125,
+  "topCriticScore": 91.1076923076923,
+  "tier": "Mighty",
+  "name": "Hollow Knight: Silksong",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2025-09-04T00:00:00.000Z"
+   }
+  ],
+  "Genres": [
+   {
+    "_id": "5d866d6a93765d6778736179",
+    "id": 27,
+    "name": "Action"
+   },
+   {
+    "_id": "5d866d6b93765d67787361b4",
+    "id": 82,
+    "name": "Platformer"
+   }
+  ],
+  "id": 7425,
+  "firstReleaseDate": "2025-09-04T00:00:00.000Z",
+  "tags": [
+   {
+    "_id": "6699556b534cfd6134a078e0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Adventure",
+    "initialPopularity": 3280,
+    "__v": 0,
+    "tagId": "adventure",
+    "id": "6699556b534cfd6134a078e0"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Indie",
+    "initialPopularity": 2981,
+    "__v": 0,
+    "tagId": "indie",
+    "id": "6699556b534cfd6134a078e4"
+   },
+   {
+    "_id": "6699556b534cfd6134a078f0",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "2D",
+    "initialPopularity": 1729,
+    "__v": 0,
+    "tagId": "2d",
+    "id": "6699556b534cfd6134a078f0"
+   },
+   {
+    "_id": "6699556c534cfd6134a07900",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Exploration",
+    "initialPopularity": 1270,
+    "__v": 0,
+    "tagId": "exploration",
+    "id": "6699556c534cfd6134a07900"
+   },
+   {
+    "_id": "6699556c534cfd6134a07904",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Great Soundtrack",
+    "initialPopularity": 1243,
+    "__v": 0,
+    "tagId": "great-soundtrack",
+    "id": "6699556c534cfd6134a07904"
+   },
+   {
+    "_id": "6699556e534cfd6134a07934",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Platformer",
+    "initialPopularity": 947,
+    "__v": 0,
+    "tagId": "platformer",
+    "id": "6699556e534cfd6134a07934"
+   },
+   {
+    "_id": "6699556e534cfd6134a07938",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Difficult",
+    "initialPopularity": 937,
+    "__v": 0,
+    "tagId": "difficult",
+    "id": "6699556e534cfd6134a07938"
+   },
+   {
+    "_id": "66995578534cfd6134a07a1c",
+    "displayOnFilter": false,
+    "isActive": true,
+    "name": "Metroidvania",
+    "initialPopularity": 294,
+    "__v": 0,
+    "tagId": "metroidvania",
+    "id": "66995578534cfd6134a07a1c"
+   },
+   {
+    "_id": "6699557f534cfd6134a07ac4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Souls-like",
+    "initialPopularity": 198,
+    "__v": 0,
+    "tagId": "souls-like",
+    "id": "6699557f534cfd6134a07ac4"
+   },
+   {
+    "_id": "6699556a534cfd6134a078d8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Singleplayer",
+    "initialPopularity": 4158,
+    "__v": 0,
+    "tagId": "singleplayer",
+    "id": "6699556a534cfd6134a078d8"
+   }
+  ],
+  "url": "https://opencritic.com/game/7425/hollow-knight-silksong"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/19693/o/lYGmqr0v.jpg",
+    "sm": "game/19693/vRKHx7aw.jpg"
+   }
+  },
+  "id": 19693,
+  "name": "Sektori",
+  "firstReleaseDate": "2025-11-18T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-11-18T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-11-18T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-11-18T00:00:00.000Z"
+   }
+  ],
+  "tags": [],
+  "percentRecommended": 96.42857142857143,
+  "numReviews": 28,
+  "topCriticScore": 90.76923076923077,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/19693/sektori"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18192/o/N3LM8Kn2.jpg",
+    "sm": "game/18192/bNdwbsxd.jpg"
+   },
+   "banner": {
+    "og": "game/18192/o/ok7JJaeB.jpg",
+    "sm": "game/18192/s5CFS88j.jpg"
+   }
+  },
+  "id": 18192,
+  "name": "Split Fiction",
+  "firstReleaseDate": "2025-03-06T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-03-06T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-03-06T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-03-06T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556b534cfd6134a078e0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Adventure",
+    "initialPopularity": 3280,
+    "__v": 0,
+    "tagId": "adventure",
+    "id": "6699556b534cfd6134a078e0"
+   },
+   {
+    "_id": "6699556a534cfd6134a078dc",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Action",
+    "initialPopularity": 3359,
+    "__v": 0,
+    "tagId": "action",
+    "id": "6699556a534cfd6134a078dc"
+   },
+   {
+    "_id": "6699556e534cfd6134a07928",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Co-op",
+    "initialPopularity": 992,
+    "__v": 0,
+    "tagId": "co-op",
+    "id": "6699556e534cfd6134a07928"
+   }
+  ],
+  "percentRecommended": 97.83783783783784,
+  "numReviews": 187,
+  "topCriticScore": 90.74725274725274,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18192/split-fiction"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/19302/o/iaQgegKo.jpg",
+    "sm": "game/19302/D6ei7TR0.jpg"
+   },
+   "banner": {
+    "og": "game/undefined/o/0iGWcCZb.jpg",
+    "sm": "game/undefined/sDFFSIvo.jpg"
+   }
+  },
+  "id": 19302,
+  "name": "Trails in the Sky 1st Chapter",
+  "firstReleaseDate": "2025-09-19T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2025-09-19T00:00:00.000Z"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2025-09-19T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-09-19T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-09-19T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556a534cfd6134a078dc",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Action",
+    "initialPopularity": 3359,
+    "__v": 0,
+    "tagId": "action",
+    "id": "6699556a534cfd6134a078dc"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Adventure",
+    "initialPopularity": 3280,
+    "__v": 0,
+    "tagId": "adventure",
+    "id": "6699556b534cfd6134a078e0"
+   },
+   {
+    "_id": "6699556c534cfd6134a078f8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "RPG",
+    "initialPopularity": 1503,
+    "__v": 0,
+    "description": "",
+    "tagId": "rpg",
+    "id": "6699556c534cfd6134a078f8"
+   }
+  ],
+  "percentRecommended": 100,
+  "numReviews": 85,
+  "topCriticScore": 90.13157894736842,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/19302/trails-in-the-sky-1st-chapter"
+ },
+ {
+  "images": {
+   "banner": {
+    "og": "game/undefined/o/AAS8ScV6.jpg",
+    "sm": "game/undefined/LxHRPE9p.jpg"
+   }
+  },
+  "id": 19080,
+  "name": "Öoo",
+  "firstReleaseDate": "2025-08-07T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-08-07T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556a534cfd6134a078dc",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Action",
+    "initialPopularity": 3359,
+    "__v": 0,
+    "tagId": "action",
+    "id": "6699556a534cfd6134a078dc"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Adventure",
+    "initialPopularity": 3280,
+    "__v": 0,
+    "tagId": "adventure",
+    "id": "6699556b534cfd6134a078e0"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Indie",
+    "initialPopularity": 2981,
+    "__v": 0,
+    "tagId": "indie",
+    "id": "6699556b534cfd6134a078e4"
+   }
+  ],
+  "percentRecommended": 100,
+  "numReviews": 7,
+  "topCriticScore": 90,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/19080/-oo"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18226/o/n5e68aF0.jpg",
+    "sm": "game/18226/MXOdbNSR.jpg"
+   },
+   "banner": {
+    "og": "game/18226/o/d3karcsr.jpg",
+    "sm": "game/18226/xgSjAWKO.jpg"
+   }
+  },
+  "id": 18226,
+  "name": "Death Stranding 2: On the Beach",
+  "firstReleaseDate": "2025-06-26T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-06-26T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-06-26T00:00:00.000Z"
+   }
+  ],
+  "tags": [],
+  "percentRecommended": 94.89795918367348,
+  "numReviews": 198,
+  "topCriticScore": 89.52777777777777,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18226/death-stranding-2-on-the-beach"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/17483/o/bVURBOF2.jpg",
+    "sm": "game/17483/Mg0PCGP4.jpg"
+   },
+   "banner": {
+    "og": "game/17483/o/EDmHE6BC.jpg",
+    "sm": "game/17483/jBQnLf0K.jpg"
+   }
+  },
+  "tags": [],
+  "percentRecommended": 94.6341463414634,
+  "numReviews": 207,
+  "topCriticScore": 89.39010989010988,
+  "tier": "Mighty",
+  "name": "Monster Hunter Wilds",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-02-27T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-02-27T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-02-27T00:00:00.000Z"
+   }
+  ],
+  "id": 17483,
+  "firstReleaseDate": "2025-02-27T00:00:00.000Z",
+  "Genres": [],
+  "url": "https://opencritic.com/game/17483/monster-hunter-wilds"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18352/o/CmmVOhBn.jpg",
+    "sm": "game/18352/2rkOU2rE.jpg"
+   },
+   "banner": {
+    "og": "game/18352/o/nTxtBMJO.jpg",
+    "sm": "game/18352/3zlsOYhr.jpg"
+   }
+  },
+  "id": 18352,
+  "name": "Blue Prince",
+  "firstReleaseDate": "2025-04-10T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-04-10T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-04-10T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-04-10T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556c534cfd6134a0790c",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Puzzle",
+    "initialPopularity": 1151,
+    "__v": 0,
+    "tagId": "puzzle",
+    "id": "6699556c534cfd6134a0790c"
+   }
+  ],
+  "percentRecommended": 95.83333333333334,
+  "numReviews": 121,
+  "topCriticScore": 89.2542372881356,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18352/blue-prince"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/17486/o/qVSuGQwO.jpg",
+    "sm": "game/17486/hwCyWe6h.jpg"
+   },
+   "banner": {
+    "og": "game/17486/o/lrpR5ukY.jpg",
+    "sm": "game/17486/5oVfdQ0u.jpg"
+   }
+  },
+  "tags": [],
+  "percentRecommended": 95.37572254335261,
+  "numReviews": 174,
+  "topCriticScore": 89.01162790697674,
+  "tier": "Mighty",
+  "name": "Kingdom Come: Deliverance II",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-02-04T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-02-04T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-02-04T00:00:00.000Z"
+   }
+  ],
+  "id": 17486,
+  "firstReleaseDate": "2025-02-04T00:00:00.000Z",
+  "Genres": [],
+  "url": "https://opencritic.com/game/17486/kingdom-come-deliverance-ii"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18083/o/QD7rrJ1f.jpg",
+    "sm": "game/18083/69cd5RMC.jpg"
+   },
+   "banner": {
+    "og": "game/18083/o/g9AmZntA.jpg",
+    "sm": "game/18083/vLzgw9nw.jpg"
+   }
+  },
+  "id": 18083,
+  "name": "Keep Driving",
+  "firstReleaseDate": "2025-02-06T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-02-06T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556b534cfd6134a078e0",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Adventure",
+    "initialPopularity": 3280,
+    "__v": 0,
+    "tagId": "adventure",
+    "id": "6699556b534cfd6134a078e0"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Indie",
+    "initialPopularity": 2981,
+    "__v": 0,
+    "tagId": "indie",
+    "id": "6699556b534cfd6134a078e4"
+   },
+   {
+    "_id": "6699556c534cfd6134a078f8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "RPG",
+    "initialPopularity": 1503,
+    "__v": 0,
+    "description": "",
+    "tagId": "rpg",
+    "id": "6699556c534cfd6134a078f8"
+   },
+   {
+    "_id": "6699556d534cfd6134a07914",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Simulation",
+    "initialPopularity": 1119,
+    "__v": 0,
+    "tagId": "simulation",
+    "id": "6699556d534cfd6134a07914"
+   }
+  ],
+  "percentRecommended": 90.47619047619048,
+  "numReviews": 22,
+  "topCriticScore": 88.88888888888889,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18083/keep-driving"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18695/o/IKlkfj9e.jpg",
+    "sm": "game/18695/Y7xcy9cO.jpg"
+   }
+  },
+  "id": 18695,
+  "name": "Deltarune Chapters 3 & 4",
+  "firstReleaseDate": "2025-06-05T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-06-05T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556c534cfd6134a078f8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "RPG",
+    "initialPopularity": 1503,
+    "__v": 0,
+    "description": "",
+    "tagId": "rpg",
+    "id": "6699556c534cfd6134a078f8"
+   }
+  ],
+  "percentRecommended": 100,
+  "numReviews": 15,
+  "topCriticScore": 88.88888888888889,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18695/deltarune-chapters-3-4"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/undefined/o/1dIcpFWg.jpg",
+    "sm": "game/undefined/eGqdftgr.jpg"
+   },
+   "banner": {
+    "og": "game/undefined/o/SbScFrMA.jpg",
+    "sm": "game/undefined/lbX2Hyty.jpg"
+   }
+  },
+  "id": 19848,
+  "name": "Rhythm Doctor",
+  "firstReleaseDate": "2025-12-06T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-12-06T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-12-12T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556a534cfd6134a078dc",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Action",
+    "initialPopularity": 3359,
+    "__v": 0,
+    "tagId": "action",
+    "id": "6699556a534cfd6134a078dc"
+   },
+   {
+    "_id": "6699556b534cfd6134a078e4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Indie",
+    "initialPopularity": 2981,
+    "__v": 0,
+    "tagId": "indie",
+    "id": "6699556b534cfd6134a078e4"
+   },
+   {
+    "_id": "6699556c534cfd6134a078fc",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Casual",
+    "initialPopularity": 1417,
+    "__v": 0,
+    "description": "",
+    "tagId": "casual",
+    "id": "6699556c534cfd6134a078fc"
+   },
+   {
+    "_id": "6699556c534cfd6134a07908",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Strategy",
+    "initialPopularity": 1176,
+    "__v": 0,
+    "tagId": "strategy",
+    "id": "6699556c534cfd6134a07908"
+   }
+  ],
+  "percentRecommended": 100,
+  "numReviews": 6,
+  "topCriticScore": 88.83333333333333,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/19848/rhythm-doctor"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18105/o/Zqguzkwl.jpg",
+    "sm": "game/18105/br13q1W5.jpg"
+   },
+   "banner": {
+    "og": "game/18105/o/BaIDToZb.jpg",
+    "sm": "game/18105/VyrwGkV7.jpg"
+   }
+  },
+  "id": 18105,
+  "name": "Shujinkou",
+  "firstReleaseDate": "2025-02-13T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-02-13T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-02-13T00:00:00.000Z"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "releaseDate": "2025-02-13T00:00:00.000Z"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2025-10-02T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556c534cfd6134a078f8",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "RPG",
+    "initialPopularity": 1503,
+    "__v": 0,
+    "description": "",
+    "tagId": "rpg",
+    "id": "6699556c534cfd6134a078f8"
+   }
+  ],
+  "percentRecommended": 93.75,
+  "numReviews": 16,
+  "topCriticScore": 88.57142857142857,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18105/shujinkou"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18270/o/VpIoyc9N.jpg",
+    "sm": "game/18270/GTTtsgUV.jpg"
+   },
+   "banner": {
+    "og": "game/18270/o/lSHQw1lA.jpg",
+    "sm": "game/18270/Di4w796u.jpg"
+   }
+  },
+  "id": 18270,
+  "name": "Pipistrello and the Cursed Yoyo",
+  "firstReleaseDate": "2025-05-28T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2025-05-28T00:00:00.000Z"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-05-28T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-05-28T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-05-28T00:00:00.000Z"
+   }
+  ],
+  "tags": [],
+  "percentRecommended": 96.36363636363636,
+  "numReviews": 55,
+  "topCriticScore": 88.45833333333333,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18270/pipistrello-and-the-cursed-yoyo"
+ },
+ {
+  "images": {
+   "box": {
+    "og": "game/18503/o/16ei43ia.jpg",
+    "sm": "game/18503/ZowBWJKr.jpg"
+   },
+   "banner": {
+    "og": "game/undefined/o/IAgjbg1N.jpg",
+    "sm": "game/undefined/pYLHGJrq.jpg"
+   }
+  },
+  "id": 18503,
+  "name": "Monster Train 2",
+  "firstReleaseDate": "2025-05-21T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-05-21T00:00:00.000Z"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "releaseDate": "2025-05-21T00:00:00.000Z"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2025-05-21T00:00:00.000Z"
+   }
+  ],
+  "tags": [
+   {
+    "_id": "6699556b534cfd6134a078e4",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Indie",
+    "initialPopularity": 2981,
+    "__v": 0,
+    "tagId": "indie",
+    "id": "6699556b534cfd6134a078e4"
+   },
+   {
+    "_id": "6699556c534cfd6134a07908",
+    "displayOnFilter": true,
+    "isActive": true,
+    "name": "Strategy",
+    "initialPopularity": 1176,
+    "__v": 0,
+    "tagId": "strategy",
+    "id": "6699556c534cfd6134a07908"
+   }
+  ],
+  "percentRecommended": 94.44444444444444,
+  "numReviews": 54,
+  "topCriticScore": 88.22413793103448,
+  "tier": "Mighty",
+  "Genres": [],
+  "url": "https://opencritic.com/game/18503/monster-train-2"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "id": 56,
+  "name": "IGN",
+  "dist": 0,
+  "relation": "outlet"
+ },
+ {
+  "id": 898,
+  "name": "IGN India",
+  "dist": 0.5555556,
+  "relation": "outlet"
+ },
+ {
+  "id": 477,
+  "name": "IGN Italy",
+  "dist": 0.5555556,
+  "relation": "outlet"
+ },
+ {
+  "id": 809,
+  "name": "IGN Korea",
+  "dist": 0.6,
+  "relation": "outlet"
+ },
+ {
+  "id": 471,
+  "name": "IGN Spain",
+  "dist": 0.6,
+  "relation": "outlet"
+ },
+ {
+  "id": 978,
+  "name": "IGN Portugal",
+  "dist": 0.6923077,
+  "relation": "outlet"
+ },
+ {
+  "id": 921,
+  "name": "IGN Deutschland",
+  "dist": 0.75,
+  "relation": "outlet"
+ },
+ {
+  "id": 553,
+  "name": "IGN Middle East",
+  "dist": 0.75,
+  "relation": "outlet"
+ },
+ {
+  "id": 9317,
+  "name": "HellSign",
+  "dist": 0.8181818,
+  "relation": "game"
+ },
+ {
+  "id": 3953,
+  "name": "iO",
+  "dist": 0.8333333,
+  "relation": "game"
+ }
+]

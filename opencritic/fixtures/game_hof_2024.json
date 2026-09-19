@@ -1,0 +1,618 @@
+[
+ {
+  "name": "Astro Bot",
+  "id": 17118,
+  "firstReleaseDate": "2024-09-06T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/17118/o/KAreMcbv.jpg",
+    "sm": "game/17118/kjMeShze.jpg"
+   },
+   "banner": {
+    "og": "game/17118/o/vMKzurvE.jpg",
+    "sm": "game/17118/NCJiqI4Z.jpg"
+   }
+  },
+  "topCriticScore": 94,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2024-09-06T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "tags": [
+   "6699556e534cfd6134a07934",
+   "66995570534cfd6134a0795c",
+   "6699556b534cfd6134a078e0",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Metaphor: ReFantazio",
+  "id": 17289,
+  "firstReleaseDate": "2024-10-11T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/17289/o/6o3pqqcZ.jpg",
+    "sm": "game/17289/jBsEK6PA.jpg"
+   },
+   "banner": {
+    "og": "game/17289/o/qDuN8D3V.jpg",
+    "sm": "game/17289/WPso9js8.jpg"
+   }
+  },
+  "topCriticScore": 93,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-10-11T00:00:00.000Z",
+    "displayRelease": "10/11/2024",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2024-10-11T00:00:00.000Z",
+    "displayRelease": "10/11/2024",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2024-10-11T00:00:00.000Z",
+    "displayRelease": "10/11/2024",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2024-10-11T00:00:00.000Z",
+    "displayRelease": "10/11/2024",
+    "_id": "5d866d6893765d6778736111"
+   }
+  ],
+  "tags": [
+   "66995578534cfd6134a07a0c",
+   "6699556a534cfd6134a078d8",
+   "6699556b534cfd6134a078e0"
+  ]
+ },
+ {
+  "name": "Tsukihime -A piece of blue glass moon-",
+  "id": 16918,
+  "firstReleaseDate": "2024-06-27T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/16918/o/YZR2vAiR.jpg",
+    "sm": "game/16918/N2krn84m.jpg"
+   },
+   "banner": {
+    "og": "game/16918/o/2bSzWTjX.jpg",
+    "sm": "game/16918/ro5ZRDrJ.jpg"
+   }
+  },
+  "topCriticScore": 92,
+  "Platforms": [
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2024-06-27T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736111"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2024-06-27T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   }
+  ],
+  "tags": [
+   "66995570534cfd6134a07958",
+   "6699556b534cfd6134a078e0",
+   "66995576534cfd6134a079e4"
+  ]
+ },
+ {
+  "name": "Balatro",
+  "id": 16300,
+  "firstReleaseDate": "2024-02-20T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/16300/o/G7F2TGxX.jpg",
+    "sm": "game/16300/MjhOYlnM.jpg"
+   },
+   "banner": {
+    "og": "game/undefined/o/SQabiNCo.jpg",
+    "sm": "game/undefined/uBbUmgTM.jpg"
+   }
+  },
+  "topCriticScore": 92,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-02-20T00:00:00.000Z",
+    "displayRelease": "February 20, 2024",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2024-02-20T00:00:00.000Z",
+    "displayRelease": "February 20, 2024",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2024-02-20T00:00:00.000Z",
+    "displayRelease": "February 20, 2024",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2024-02-20T00:00:00.000Z",
+    "displayRelease": "February 20, 2024",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2024-02-20T00:00:00.000Z",
+    "displayRelease": "February 20, 2024",
+    "_id": "5d866d6893765d6778736114"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2024-02-20T00:00:00.000Z",
+    "displayRelease": "February 20, 2024",
+    "_id": "5d866d6893765d6778736111"
+   }
+  ],
+  "tags": [
+   "6699556c534cfd6134a07908",
+   "66995570534cfd6134a0796c",
+   "66995573534cfd6134a079ac",
+   "66995575534cfd6134a079cc",
+   "66995578534cfd6134a07a10",
+   "66995586534cfd6134a07b70",
+   "6699558b534cfd6134a07bd8",
+   "6699558d534cfd6134a07c14",
+   "66995599534cfd6134a07d24",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Final Fantasy VII Rebirth",
+  "id": 15136,
+  "firstReleaseDate": "2024-02-29T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/15136/o/Jb5ouFD8.jpg",
+    "sm": "game/15136/ajFPmCb2.jpg"
+   },
+   "banner": {
+    "og": "game/15136/o/lNZ6cYSc.jpg",
+    "sm": "game/15136/iTX8SNU3.jpg"
+   }
+  },
+  "topCriticScore": 91,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2024-02-29T00:00:00.000Z",
+    "displayRelease": "2024-02-29",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2025-01-23T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-02-29T00:00:00.000Z",
+    "_id": "69fb88d15d660c3b626d5268"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2024-02-29T00:00:00.000Z",
+    "_id": "69fb88d15d660c3b626d5269"
+   }
+  ],
+  "tags": [
+   "66995572534cfd6134a07998",
+   "66995578534cfd6134a07a0c",
+   "6699556b534cfd6134a078e8",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "Satisfactory",
+  "id": 17273,
+  "firstReleaseDate": "2024-09-10T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/17273/o/byJmjyLJ.jpg",
+    "sm": "game/17273/yVclWX5e.jpg"
+   },
+   "banner": {
+    "og": "game/17273/o/WWueKpjF.jpg",
+    "sm": "game/17273/QDd6EUYk.jpg"
+   }
+  },
+  "topCriticScore": 91,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2024-09-11T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2024-09-10T00:00:00.000Z",
+    "_id": "690cb43912589122c56a0360"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-09-10T00:00:00.000Z",
+    "_id": "690cb43912589122c56a0361"
+   }
+  ],
+  "tags": [
+   "6699556c534cfd6134a07908",
+   "6699556d534cfd6134a07914",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "name": "UFO 50",
+  "id": 17307,
+  "firstReleaseDate": "2024-09-18T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/17307/o/zalS4ZXv.jpg",
+    "sm": "game/17307/RAz4e4zW.jpg"
+   },
+   "banner": {
+    "og": "game/17307/o/8H39huaH.jpg",
+    "sm": "game/17307/tfYMtUjx.jpg"
+   }
+  },
+  "topCriticScore": 90,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2024-09-18T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2024-09-18T00:00:00.000Z",
+    "_id": "6894b4ae12589122c5844d51"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a078f8",
+   "66995573534cfd6134a079ac",
+   "6699556e534cfd6134a07934",
+   "66995570534cfd6134a07964"
+  ]
+ },
+ {
+  "name": "Tekken 8",
+  "id": 15734,
+  "firstReleaseDate": "2024-01-25T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/15734/o/lyqq6YEx.jpg",
+    "sm": "game/15734/VCkOarU0.jpg"
+   },
+   "banner": {
+    "og": "game/15734/o/HwKBuYw8.jpg",
+    "sm": "game/15734/4Sx3Oox2.jpg"
+   }
+  },
+  "topCriticScore": 90,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2024-01-25T00:00:00.000Z",
+    "displayRelease": "2024-01-25",
+    "_id": "653bc8b436e6b35fe0581738"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2024-01-25T00:00:00.000Z",
+    "displayRelease": "2024-01-25",
+    "_id": "653bc8b436e6b35fe0581739"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-01-25T00:00:00.000Z",
+    "displayRelease": "2024-01-25",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078f4",
+   "6699556f534cfd6134a07948",
+   "66995571534cfd6134a07978",
+   "66995573534cfd6134a079a4",
+   "6699557d534cfd6134a07a88",
+   "66995580534cfd6134a07ae0",
+   "6699558d534cfd6134a07c00",
+   "66995597534cfd6134a07cf0",
+   "6699556a534cfd6134a078d8"
+  ]
+ },
+ {
+  "name": "The Crimson Diamond",
+  "id": 17169,
+  "firstReleaseDate": "2024-08-15T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "banner": {
+    "og": "game/17169/o/YUYShplg.jpg",
+    "sm": "game/17169/Kbc5tiES.jpg"
+   }
+  },
+  "topCriticScore": 90,
+  "Platforms": [
+   {
+    "_id": "5d866d6993765d677873611e",
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2024-08-15T00:00:00.000Z"
+   }
+  ],
+  "tags": []
+ },
+ {
+  "name": "1000xRESIST",
+  "id": 16723,
+  "firstReleaseDate": "2024-05-09T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/16723/o/gc3cisrN.jpg",
+    "sm": "game/16723/IuOZChsb.jpg"
+   },
+   "banner": {
+    "og": "game/16723/o/aA0oSbTO.jpg",
+    "sm": "game/16723/rmrxgtub.jpg"
+   }
+  },
+  "topCriticScore": 90,
+  "Platforms": [
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2024-05-09T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2024-05-09T00:00:00.000Z",
+    "_id": "6646a5884b42ec5c00f8f309"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2024-05-09T00:00:00.000Z",
+    "_id": "690dd80512589122c56ccc2f"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-05-09T00:00:00.000Z",
+    "_id": "690dd80512589122c56ccc30"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2024-05-09T00:00:00.000Z",
+    "_id": "6a88681b5d660c3b62812025"
+   }
+  ],
+  "tags": [
+   "6699556e534cfd6134a07930",
+   "6699556b534cfd6134a078e0"
+  ]
+ },
+ {
+  "name": "Caves of Qud",
+  "id": 17907,
+  "firstReleaseDate": "2024-12-05T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/undefined/o/NkM6VWTG.jpg",
+    "sm": "game/undefined/oSlyYyIC.jpg"
+   },
+   "banner": {
+    "og": "game/undefined/o/WojG6IYu.jpg",
+    "sm": "game/undefined/drhkKlA3.jpg"
+   }
+  },
+  "topCriticScore": 90,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2024-12-05T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a078f8",
+   "6699556c534cfd6134a07908",
+   "6699556b534cfd6134a078e4"
+  ]
+ },
+ {
+  "name": "Like A Dragon: Infinite Wealth",
+  "id": 15906,
+  "firstReleaseDate": "2024-01-26T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/15906/o/ZM7a2GrE.jpg",
+    "sm": "game/15906/CseB9yEE.jpg"
+   },
+   "banner": {
+    "og": "game/15906/o/c4Cz2toH.jpg",
+    "sm": "game/15906/rFTQram7.jpg"
+   }
+  },
+  "topCriticScore": 90,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2024-01-26T00:00:00.000Z",
+    "displayRelease": "January 26, 2024",
+    "_id": "656738d936e6b35fe0a77881"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "releaseDate": "2024-01-26T00:00:00.000Z",
+    "displayRelease": "January 26, 2024",
+    "_id": "656738d936e6b35fe0a77882"
+   },
+   {
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps4.png",
+    "releaseDate": "2024-01-26T00:00:00.000Z",
+    "displayRelease": "January 26, 2024",
+    "_id": "5d866d6893765d6778736111"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2024-01-26T00:00:00.000Z",
+    "displayRelease": "January 26, 2024",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2024-01-26T00:00:00.000Z",
+    "displayRelease": "January 26, 2024",
+    "_id": "5d866d6893765d6778736114"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078e8",
+   "6699556d534cfd6134a07918",
+   "66995570534cfd6134a07968",
+   "66995572534cfd6134a07998",
+   "66995576534cfd6134a079e0",
+   "66995578534cfd6134a07a0c",
+   "66995579534cfd6134a07a24",
+   "6699557b534cfd6134a07a60"
+  ]
+ }
+]

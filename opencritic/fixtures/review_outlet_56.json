@@ -1,0 +1,1193 @@
+[
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20766,
+   "name": "Control Resonant"
+  },
+  "_id": "6aad8c9ff8c306636fca586d",
+  "title": "Control Resonant Review",
+  "publishedDate": "2026-09-18T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/control-resonant-review",
+  "snippet": "Even when combat's sharp edge eventually dulls, Control Resonant is a great addition to the Remedyverse. While its story follows a more standard framework, its gravitational pull is in the inventive world built around it and the humanization that grounds the paranatural intrigue.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Michael Higham",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 3617,
+    "name": "Michael Higham",
+    "image": false,
+    "_id": "6aad8c9ff8c306636fca586f"
+   }
+  ],
+  "createdAt": "2026-09-18T19:10:23.380Z",
+  "updatedAt": "2026-09-18T19:10:23.380Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21329,
+   "name": "HOT WHEELS Infinite Rush"
+  },
+  "_id": "6aad91c4f8c306636fcc9c14",
+  "title": "Hot Wheels Infinite Rush Review",
+  "publishedDate": "2026-09-17T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/hot-wheels-infinite-rush-review",
+  "snippet": "With unmemorable tracks and maps that completely lack the sense of scale we get in the life-sized, real-world environments of the Unleashed games, Hot Wheels Infinite Rush has sadly shed a ton of the series' special charm.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Luke Reilly",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 197,
+    "name": "Luke Reilly",
+    "image": false,
+    "_id": "6aad91c4f8c306636fcc9c16"
+   }
+  ],
+  "createdAt": "2026-09-18T19:32:20.761Z",
+  "updatedAt": "2026-09-18T19:32:20.761Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20819,
+   "name": "Fire Emblem: Fortune's Weave"
+  },
+  "_id": "6aaae884f8c306636fbc31dd",
+  "title": "Fire Emblem: Fortune's Weave Review",
+  "publishedDate": "2026-09-16T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/fire-emblem-fortunes-weave-review",
+  "snippet": "Fire Emblem: Fortune's Weave provides an excellent pairing of combat strategy and management, with compelling stories spread across each of its four heroes that come together to form one phenomenal RPG.",
+  "language": "en-us",
+  "score": 100,
+  "npScore": 100,
+  "alias": "Brendan Graeber",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "_id": "6840786a8c30b944556734e8"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 212,
+    "name": "Brendan Graeber",
+    "image": false,
+    "_id": "6aaae884f8c306636fbc31df"
+   }
+  ],
+  "createdAt": "2026-09-16T19:05:40.375Z",
+  "updatedAt": "2026-09-16T19:05:40.375Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21335,
+   "name": "Trails in the Sky 2nd Chapter"
+  },
+  "_id": "6aaaeb7df8c306636fbd8e4b",
+  "title": "Trails In The Sky 2nd Chapter Review",
+  "publishedDate": "2026-09-16T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/trails-in-the-sky-2nd-chapter-review",
+  "snippet": "Trails in the Sky 2nd Chapter captures everything that made the original so endearing while giving it an impressive makeover that enhances its elegant storytelling and charismatic cast.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "George Yang",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 7294,
+    "name": "George Yang",
+    "image": false,
+    "_id": "6aaaeb7df8c306636fbd8e4d"
+   }
+  ],
+  "createdAt": "2026-09-16T19:18:21.013Z",
+  "updatedAt": "2026-09-16T19:18:21.013Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 17842,
+   "name": "Marvel's Wolverine"
+  },
+  "_id": "6aa2fe25f8c306636fa102a7",
+  "title": "Marvel's Wolverine Review",
+  "publishedDate": "2026-09-10T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/marvels-wolverine-review",
+  "snippet": "Marvel's Wolverine's slick and satisfying combat wears thin well before its conclusion, so much so that even its strong character work can't quite save it from being anything more than okay.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Simon Cardy",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [],
+  "Authors": [
+   {
+    "id": 5521,
+    "name": "Simon Cardy",
+    "image": false,
+    "_id": "6aa2fe25f8c306636fa102a8"
+   }
+  ],
+  "createdAt": "2026-09-10T18:59:49.383Z",
+  "updatedAt": "2026-09-10T18:59:49.383Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21142,
+   "name": "Aliens: Fireteam Elite 2"
+  },
+  "_id": "6aa336a1f8c306636fa1ded0",
+  "title": "Aliens: Fireteam Elite 2 Review",
+  "publishedDate": "2026-09-10T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/aliens-fireteam-elite-2-review",
+  "snippet": "Fireteam Elite 2 doesn’t reinvent the wheel, but blasting Xenos and synths is a good time with friends, and there is a lot of blasting to be done.",
+  "language": "en-us",
+  "score": 70,
+  "npScore": 100,
+  "alias": "Will Borger",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 1205,
+    "name": "Will Borger",
+    "image": false,
+    "_id": "6aa336a1f8c306636fa1ded2"
+   }
+  ],
+  "createdAt": "2026-09-10T23:00:49.518Z",
+  "updatedAt": "2026-09-10T23:00:49.518Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 12081,
+   "name": "Valheim"
+  },
+  "_id": "6aa1c68df8c306636f971f34",
+  "title": "Valheim Review",
+  "publishedDate": "2026-09-08T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/valheim-review",
+  "snippet": "Valheim is the oath of the ultimate survival crafting adventure fulfilled, with a gorgeous art style, deadly dungeons, charming homesteading mechanics, and a breathtaking scope.",
+  "language": "en-us",
+  "score": 100,
+  "npScore": 100,
+  "alias": "Len Hafer",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [],
+  "Authors": [
+   {
+    "id": 10339,
+    "name": "Len Hafer",
+    "image": false,
+    "_id": "6aa1c68df8c306636f971f35"
+   }
+  ],
+  "createdAt": "2026-09-09T20:50:21.801Z",
+  "updatedAt": "2026-09-09T20:50:21.801Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21308,
+   "name": "NHL 27"
+  },
+  "_id": "6a9b510bf8c306636f827134",
+  "title": "NHL 27 Review",
+  "publishedDate": "2026-09-03T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/ea-sports-nhl-27-review",
+  "snippet": "The handful of changes in NHL 27 are mostly welcome – nothing is worse than last year, but very little is better either.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Marc Deschamps",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 677,
+    "name": "Marc Deschamps",
+    "image": false,
+    "_id": "6a9b510bf8c306636f827136"
+   }
+  ],
+  "createdAt": "2026-09-04T23:15:23.206Z",
+  "updatedAt": "2026-09-04T23:15:23.206Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21036,
+   "name": "NBA 2K27"
+  },
+  "_id": "6a987b83f8c306636f701dca",
+  "title": "NBA 2K27 Review",
+  "publishedDate": "2026-09-02T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/nba-2k27-review",
+  "snippet": "NBA 2K27 is like every story of wasted potential in the league: full of what ifs and if onlys, with poorly developed talent in the form of disappointing features and modes.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Nico Vergara",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 9472,
+    "name": "Nico Vergara",
+    "image": false,
+    "_id": "6a987b83f8c306636f701dcc"
+   }
+  ],
+  "createdAt": "2026-09-02T19:39:47.190Z",
+  "updatedAt": "2026-09-02T19:39:47.190Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21141,
+   "name": "Orbitals"
+  },
+  "_id": "6a987d52f8c306636f71ad86",
+  "title": "Orbitals Review",
+  "publishedDate": "2026-09-01T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/orbitals-review",
+  "snippet": "While Orbitals loses some momentum toward the end, it's a strong co-op adventure that nails the feeling of a playable ‘90s anime.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Jesse Vitelli",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "_id": "6840786a8c30b944556734e8"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/3256/o/O4sHSfeL.jpg",
+     "sm": "critic/3256/K6AtCCLS.jpg",
+     "lg": "critic/3256/tlYOOiUj.jpg"
+    },
+    "id": 3256,
+    "name": "Jesse Vitelli",
+    "image": true,
+    "_id": "6a987d52f8c306636f71ad88"
+   }
+  ],
+  "createdAt": "2026-09-02T19:47:30.981Z",
+  "updatedAt": "2026-09-02T19:47:30.981Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20499,
+   "name": "The Blood of Dawnwalker"
+  },
+  "_id": "6a95c97df8c306636f625e5c",
+  "title": "The Blood of Dawnwalker Review",
+  "publishedDate": "2026-08-31T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/the-blood-of-dawnwalker-review",
+  "snippet": "The Blood of Dawnwalker is an impressive, bloody cocktail of interesting ideas and well-written characters, making it one of this year’s best open-world RPGs.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6a95c97df8c306636f625e5e"
+   }
+  ],
+  "createdAt": "2026-08-31T18:35:41.652Z",
+  "updatedAt": "2026-08-31T18:35:41.652Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20764,
+   "name": "Onimusha: Way of the Sword"
+  },
+  "_id": "6a95c9f6f8c306636f630c6e",
+  "title": "Onimusha: Way of the Sword Review",
+  "publishedDate": "2026-08-31T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/onimusha-way-of-the-sword-review",
+  "snippet": "Onimusha: Way of the Sword is an incredible action game with an excellent story to match.",
+  "language": "en-us",
+  "score": 100,
+  "npScore": 100,
+  "alias": "Will Borger",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 1205,
+    "name": "Will Borger",
+    "image": false,
+    "_id": "6a95c9f6f8c306636f630c70"
+   }
+  ],
+  "createdAt": "2026-08-31T18:37:42.353Z",
+  "updatedAt": "2026-08-31T18:37:42.353Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20534,
+   "name": "Gallipoli"
+  },
+  "_id": "6a91f8c1f8c306636f534a37",
+  "title": "Gallipoli Review",
+  "publishedDate": "2026-08-28T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/gallipoli-review",
+  "snippet": "Gallipoli is the WW1 series at its best, managing capturing a feeling of realism and fun simultaneously.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Seth G. Macy",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 233,
+    "name": "Seth G. Macy",
+    "image": false,
+    "_id": "6a91f8c1f8c306636f534a39"
+   }
+  ],
+  "createdAt": "2026-08-28T21:08:17.496Z",
+  "updatedAt": "2026-08-28T21:08:17.496Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20803,
+   "name": "Resonance: A Plague Tale Legacy"
+  },
+  "_id": "6a8f5ec5f8c306636f436c96",
+  "title": "Resonance: A Plague Tale Legacy Review",
+  "publishedDate": "2026-08-26T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/resonance-a-plague-tale-legacy-review",
+  "snippet": "Resonance: A Plague Tale Legacy is a prequel spinoff that takes a lot of interesting chances with the series, but only some of its experiments pay off.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6a8f5ec5f8c306636f436c98"
+   }
+  ],
+  "createdAt": "2026-08-26T21:46:45.797Z",
+  "updatedAt": "2026-08-26T21:46:45.797Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20795,
+   "name": "Star Wars Zero Company"
+  },
+  "_id": "6a8f646bf8c306636f45261d",
+  "title": "Star Wars Zero Company Review",
+  "publishedDate": "2026-08-26T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/star-wars-zero-company-review",
+  "snippet": "Star Wars Zero Company is an excellent tactical game that does a fantastic job of slathering on the same cinematic look and feel we saw in Respawn's Star Wars Jedi games, incorporating strong characters and a storyline that's refreshingly centered on non-Force users and a non-traditional villain.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Dan Stapleton",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/201/o/czQkYrFl.jpg",
+     "sm": "critic/201/2PGGx0aV.jpg",
+     "lg": "critic/201/1Rg5JvGs.jpg"
+    },
+    "id": 201,
+    "name": "Dan Stapleton",
+    "image": true,
+    "_id": "6a8f646bf8c306636f45261f"
+   }
+  ],
+  "createdAt": "2026-08-26T22:10:51.962Z",
+  "updatedAt": "2026-08-26T22:10:51.962Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20806,
+   "name": "The Sinking City 2"
+  },
+  "_id": "6a8cb122f8c306636f3546bd",
+  "title": "The Sinking City 2 Review",
+  "publishedDate": "2026-08-22T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/the-sinking-city-2-review",
+  "snippet": "While a lot of the basic mechanics and moment-to-moment survival horror of The Sinking City 2 feel inescapably like off-brand Resident Evil, it's a praiseworthy imitation of its main inspirations wrapped in the Cthulhu mythos.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Len Hafer",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 10339,
+    "name": "Len Hafer",
+    "image": false,
+    "_id": "6a8cb122f8c306636f3546bf"
+   }
+  ],
+  "createdAt": "2026-08-24T21:01:22.473Z",
+  "updatedAt": "2026-08-24T21:01:22.473Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20988,
+   "name": "Mortal Shell II"
+  },
+  "_id": "6a836fa4f8c306636f0ea5d2",
+  "title": "Mortal Shell 2 Review",
+  "publishedDate": "2026-08-17T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/mortal-shell-2-review",
+  "snippet": "Mortal Shell 2’s expansion into a large scale action-RPG is mostly successful, and all of its new ideas are great ones.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Jarrett Green",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 5288,
+    "name": "Jarrett Green",
+    "image": false,
+    "_id": "6a836fa4f8c306636f0ea5d4"
+   }
+  ],
+  "createdAt": "2026-08-17T20:31:32.290Z",
+  "updatedAt": "2026-08-17T20:31:32.290Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20883,
+   "name": "Madden NFL 27"
+  },
+  "_id": "6a7f977ff8c306636ffe58c9",
+  "title": "Madden NFL 27 Review",
+  "publishedDate": "2026-08-14T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/madden-nfl-27-review",
+  "snippet": "Madden NFL 27 sports another year of great on-field action, including an improved catching mechanic that works really well once you get the timing down.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Jason Fanelli",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 325,
+    "name": "Jason Fanelli",
+    "image": false,
+    "_id": "6a7f977ff8c306636ffe58cb"
+   }
+  ],
+  "createdAt": "2026-08-14T22:32:31.908Z",
+  "updatedAt": "2026-08-14T22:32:31.908Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 21165,
+   "name": "Wild Blue Skies"
+  },
+  "_id": "6a7f99c9f8c306636f00041c",
+  "title": "Wild Blue Skies Review",
+  "publishedDate": "2026-08-13T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/wild-blue-skies-review",
+  "snippet": "Wild Blue Skies is a decent rail shooter when it finds the courage to be itself, but too often it’s simply Star Fox 64 But Worse – worse flying, worse story, worse difficulty tuning.",
+  "language": "en-us",
+  "score": 50,
+  "npScore": 0,
+  "alias": "Will Borger",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "id": 1205,
+    "name": "Will Borger",
+    "image": false,
+    "_id": "6a7f99c9f8c306636f00041e"
+   }
+  ],
+  "createdAt": "2026-08-14T22:42:17.300Z",
+  "updatedAt": "2026-08-14T22:42:17.300Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20101,
+   "name": "Marvel Tokon: Fighting Souls"
+  },
+  "_id": "6a7ce645f8c306636ff2fe47",
+  "title": "Marvel Tokon: Fighting Souls Review",
+  "publishedDate": "2026-08-11T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/marvel-tokon-fighting-souls-review",
+  "snippet": "It’s rare when a fighting game manages to tick virtually every box, from excellent fighting mechanics to fantastic teaching tools to a worthwhile story mode and beyond, but Marvel Tokon: Fighting Souls comes about as close as a game has gotten since Street Fighter 6.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Mitchell Saltzman",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/621/o/24bNfs14.jpg",
+     "sm": "critic/621/s4JZc2tL.jpg",
+     "lg": "critic/621/ZWsfgGLb.jpg"
+    },
+    "id": 621,
+    "name": "Mitchell Saltzman",
+    "image": true,
+    "_id": "6a7ce645f8c306636ff2fe49"
+   }
+  ],
+  "createdAt": "2026-08-12T21:31:49.843Z",
+  "updatedAt": "2026-08-12T21:31:49.843Z",
+  "__v": 0
+ }
+]

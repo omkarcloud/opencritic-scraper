@@ -1,0 +1,514 @@
+[
+ {
+  "_id": "63bf2a2607560b861277d73b",
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/60/o/Qugj3KOC.jpg",
+    "sm": "outlet/60/Xpi802fv.jpg",
+    "lg": "outlet/60/DpI9nSAg.jpg"
+   },
+   "name": "Game Rant",
+   "isContributor": false,
+   "id": 60
+  },
+  "magic": 5600,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "ScoreFormat": {
+   "id": 19,
+   "name": "0 to 5 stars, incl half stars",
+   "scoreDisplay": " / 5 stars",
+   "shortName": "x.5 / 5 stars",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": true,
+   "numDecimals": 2,
+   "base": 20,
+   "options": null
+  },
+  "externalUrl": "https://gamerant.com/the-witcher-3-wild-hunt-ps5-xbox-series-review/",
+  "language": "en-us",
+  "Platforms": [
+   {
+    "_id": "63bf0b2ff201fe910b0292ca",
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5"
+   }
+  ],
+  "Authors": [
+   {
+    "_id": "63bf2a2607560b861277d73d",
+    "id": 8262,
+    "name": "Adrian Morales",
+    "image": true,
+    "imageSrc": {
+     "og": "critic/8262/o/plTgbrnl.jpg",
+     "sm": "critic/8262/hJtLpOau.jpg",
+     "lg": "critic/8262/PjiAKDUg.jpg"
+    }
+   }
+  ],
+  "alias": "Adrian Morales",
+  "publishedDate": "2022-12-14T00:00:00.000Z",
+  "snippet": "The Witcher 3: Wild Hunt on next-gen consoles is the best way to discover or re-discover one of the most celebrated RPGs of the last decade.",
+  "score": 90,
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "title": "The Witcher 3: Wild Hunt Next-Gen Update Review",
+  "isQuoteManual": true,
+  "medianAtTimeOfReview": 80,
+  "npScore": 100,
+  "createdAt": "2023-01-11T21:29:10.961Z",
+  "updatedAt": "2026-02-10T21:51:37.868Z",
+  "__v": 0,
+  "hideReviewUrl": false,
+  "magicSortField": 5600
+ },
+ {
+  "_id": "5d866f6b93765d6778740bb9",
+  "magic": 5600,
+  "isChosen": false,
+  "title": "The Witcher 3: Wild Hunt review",
+  "publishedDate": "2015-05-17T00:00:00.000Z",
+  "externalUrl": "http://www.eurogamer.net/articles/2015-05-18-the-witcher-3-wild-hunt-review",
+  "snippet": "It will last you months, yet not waste your time. Above all, it has a vivid, enduring personality, something that is exceedingly rare among its breed of mega-budget open-world epics (and that will probably be rarer still once Hideo Kojima and Konami part ways later this year). For my money, it's the greatest role-playing game in years.",
+  "language": "en-us",
+  "score": 100,
+  "npScore": 70,
+  "isQuoteManual": null,
+  "Authors": [
+   {
+    "_id": "5d866ded93765d6778737265",
+    "image": false,
+    "name": "Oli Welsh",
+    "id": 751
+   }
+  ],
+  "ScoreFormat": {
+   "id": 31,
+   "name": "Essential, Recommended, No Rec, Avoid",
+   "shortName": "Essential <--> Avoid",
+   "scoreDisplay": null,
+   "isNumeric": false,
+   "isSelect": true,
+   "isStars": false,
+   "numDecimals": null,
+   "base": null,
+   "options": [
+    {
+     "_id": "5e27084fc25afe0e75c301bb",
+     "val": 100,
+     "label": "Essential"
+    },
+    {
+     "_id": "5e27084fc25afe0e75c301ba",
+     "val": 80,
+     "label": "Recommended"
+    },
+    {
+     "_id": "5e27084fc25afe0e75c301b9",
+     "val": 75,
+     "label": "No Recommendation / Blank"
+    },
+    {
+     "_id": "5e27084fc25afe0e75c301b8",
+     "val": 0,
+     "label": "Avoid"
+    }
+   ]
+  },
+  "Platforms": [
+   {
+    "_id": "5e27084fc25afe0e75c301b7",
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4"
+   }
+  ],
+  "alias": "Oli Welsh",
+  "game": {
+   "name": "The Witcher 3: Wild Hunt",
+   "id": 463
+  },
+  "Outlet": {
+   "name": "Eurogamer",
+   "isContributor": false,
+   "id": 114,
+   "imageSrc": {
+    "og": "outlet/114/o/ZotSh1ir.jpg",
+    "sm": "outlet/114/U5o0V4A8.jpg",
+    "lg": "outlet/114/mICJYF7b.jpg"
+   }
+  },
+  "createdAt": "2019-09-21T18:43:55.603Z",
+  "updatedAt": "2024-10-29T22:05:54.777Z",
+  "__v": 0,
+  "magicSortField": 5600
+ },
+ {
+  "_id": "682cc114f8c306636f636888",
+  "title": "The Witcher 3: Wild Hunt review",
+  "publishedDate": "2015-05-21T00:00:00.000Z",
+  "externalUrl": "https://www.pcgamer.com/the-witcher-3-review/",
+  "snippet": "A big, beautiful, sprawling action RPG full of rich stories, and suffused with an oppressive darkness.",
+  "language": "en-us",
+  "score": 92,
+  "npScore": 100,
+  "magic": 5600,
+  "alias": "Shaun Prescott",
+  "isQuoteManual": true,
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "682c8ff8294e09591a6b2105"
+   }
+  ],
+  "Outlet": {
+   "id": 162,
+   "name": "PC Gamer",
+   "isContributor": false,
+   "imageSrc": {
+    "og": "outlet/162/o/FpKaL1Hj.jpg",
+    "sm": "outlet/162/Tzt3P7so.jpg",
+    "lg": "outlet/162/LQgtWlmu.jpg"
+   }
+  },
+  "ScoreFormat": {
+   "id": 17,
+   "name": "0 to 100, whole numbers",
+   "isNumeric": true,
+   "shortName": "x / 100",
+   "scoreDisplay": " / 100",
+   "isSelect": false,
+   "base": 1,
+   "isStars": false,
+   "numDecimals": 0,
+   "options": null
+  },
+  "Authors": [
+   {
+    "id": 732,
+    "name": "Shaun Prescott",
+    "image": false,
+    "_id": "682cc114f8c306636f63688a"
+   }
+  ],
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "createdAt": "2025-05-20T17:51:16.881Z",
+  "updatedAt": "2025-05-20T17:51:16.881Z",
+  "__v": 0,
+  "magicSortField": 5600
+ },
+ {
+  "_id": "5d866f6c93765d6778740bdc",
+  "magic": 5600,
+  "isChosen": true,
+  "title": null,
+  "publishedDate": "2015-05-12T04:00:00.000Z",
+  "externalUrl": "http://www.ign.com/articles/2015/05/12/the-witcher-3-the-wild-hunt-review",
+  "snippet": "Massive in size, and meticulously detailed, The Witcher 3 ends Geralt's story on a high note.",
+  "language": "en-us",
+  "score": 93,
+  "npScore": 100,
+  "isQuoteManual": null,
+  "Authors": [
+   {
+    "_id": "5d866f6c93765d6778740bdd",
+    "id": 196,
+    "name": "Vince Ingenito",
+    "image": false
+   }
+  ],
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "Platforms": [
+   {
+    "_id": "5d866f6c93765d6778740be0",
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4"
+   },
+   {
+    "_id": "5d866f6c93765d6778740bdf",
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1"
+   },
+   {
+    "_id": "5d866f6c93765d6778740bde",
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC"
+   }
+  ],
+  "alias": "Vince Ingenito",
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "Outlet": {
+   "name": "IGN",
+   "isContributor": false,
+   "id": 56,
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   }
+  },
+  "createdAt": "2019-09-21T18:43:56.011Z",
+  "updatedAt": "2025-09-25T16:32:54.142Z",
+  "__v": 0,
+  "hideReviewUrl": false,
+  "magicSortField": 5600
+ },
+ {
+  "_id": "5d866f6a93765d6778740b65",
+  "magic": 5600,
+  "isChosen": false,
+  "title": "Witcher 3 Review: The Devil’s in the Details – Fextralife",
+  "publishedDate": "2015-06-06T04:00:00.000Z",
+  "externalUrl": "http://fextralife.com/witcher-3-review-the-devils-in-the-details/",
+  "snippet": "It incorporates so many different elements from so many games that it stands alone as it its own unique sub-genre. CDPR really created a masterpiece with this game, and while the combat can be a bit lacking at times and the controls are just frankly frustrating, they aren't enough of a blemish in the slightest to keep me from recommending this game to anyone.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "isQuoteManual": true,
+  "Authors": [],
+  "ScoreFormat": {
+   "id": 25,
+   "name": "0 to 10, whole numbers",
+   "shortName": "x / 10",
+   "scoreDisplay": " / 10",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "base": 10,
+   "options": null,
+   "numDecimals": 0
+  },
+  "Platforms": [],
+  "alias": "Castielle",
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "Outlet": {
+   "name": "Fextralife",
+   "isContributor": false,
+   "id": 501,
+   "imageSrc": {
+    "og": "outlet/501/o/X1wZuvWe.jpg",
+    "sm": "outlet/501/v1Y40jnJ.jpg",
+    "lg": "outlet/501/BN5eVqgo.jpg"
+   }
+  },
+  "createdAt": "2019-09-21T18:43:54.095Z",
+  "updatedAt": "2025-02-07T19:44:45.880Z",
+  "__v": 0,
+  "magicSortField": 5600
+ },
+ {
+  "_id": "5d866f6b93765d6778740bcb",
+  "magic": 5600,
+  "isChosen": false,
+  "title": null,
+  "publishedDate": "2015-05-29T04:00:00.000Z",
+  "externalUrl": "http://gamerant.com/witcher-3-wild-hunt-reviews/",
+  "snippet": "'The Witcher 3: Wild Hunt' is far from perfect, but despite its flaws, Geralt's final adventure is 2015's strongest candidate for Game of the Year so far.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "isQuoteManual": null,
+  "Authors": [
+   {
+    "_id": "5d866f6b93765d6778740bcc",
+    "id": 264,
+    "name": "Christopher Gates",
+    "image": false
+   }
+  ],
+  "ScoreFormat": {
+   "id": 19,
+   "name": "0 to 5 stars, incl half stars",
+   "scoreDisplay": " / 5 stars",
+   "shortName": "x.5 / 5 stars",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": true,
+   "numDecimals": 1,
+   "base": 20,
+   "options": null
+  },
+  "Platforms": [
+   {
+    "_id": "5d866f6b93765d6778740bcd",
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4"
+   }
+  ],
+  "alias": "Christopher Gates",
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "Outlet": {
+   "name": "Game Rant",
+   "isContributor": false,
+   "id": 60,
+   "imageSrc": {
+    "og": "outlet/60/o/Qugj3KOC.jpg",
+    "sm": "outlet/60/Xpi802fv.jpg",
+    "lg": "outlet/60/DpI9nSAg.jpg"
+   }
+  },
+  "createdAt": "2019-09-21T18:43:55.987Z",
+  "updatedAt": "2026-02-10T21:51:37.868Z",
+  "__v": 0,
+  "hideReviewUrl": false,
+  "magicSortField": 5600
+ },
+ {
+  "_id": "5d866f6c93765d6778740bfd",
+  "magic": 5550,
+  "isChosen": false,
+  "title": null,
+  "publishedDate": "2015-05-12T04:00:00.000Z",
+  "externalUrl": "http://www.gamesradar.com/witcher-3-wild-hunt-review/",
+  "snippet": "Sloppy combat and ongoing optimisation can't quite spoil this dark fantasy adventure, set in a stunning world of blood and black magic.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "isQuoteManual": null,
+  "Authors": [
+   {
+    "_id": "5d866f6c93765d6778740bfe",
+    "id": 705,
+    "name": "Tom Senior",
+    "image": false
+   }
+  ],
+  "ScoreFormat": {
+   "id": 19,
+   "name": "0 to 5 stars, incl half stars",
+   "scoreDisplay": " / 5 stars",
+   "shortName": "x.5 / 5 stars",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": true,
+   "numDecimals": 1,
+   "base": 20,
+   "options": null
+  },
+  "Platforms": [
+   {
+    "_id": "5d866f6c93765d6778740bff",
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4"
+   }
+  ],
+  "alias": "Tom Senior",
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "Outlet": {
+   "name": "GamesRadar+",
+   "isContributor": false,
+   "id": 91,
+   "imageSrc": {
+    "og": "outlet/91/o/Ox8p9mPd.jpg",
+    "sm": "outlet/91/qqIbhWtu.jpg",
+    "lg": "outlet/91/ALrwgt76.jpg"
+   }
+  },
+  "createdAt": "2019-09-21T18:43:56.385Z",
+  "updatedAt": "2024-10-29T22:05:36.198Z",
+  "__v": 0,
+  "magicSortField": 5550
+ },
+ {
+  "_id": "5d866f6c93765d6778740c0f",
+  "magic": 5520,
+  "isChosen": true,
+  "title": null,
+  "publishedDate": "2015-05-12T04:00:00.000Z",
+  "externalUrl": "http://www.gameinformer.com/games/the_witcher_3_wild_hunt/b/playstation4/archive/2015/05/12/the-witcher-3-wild-hunt-review-game-informer.aspx",
+  "snippet": "With superb storytelling, challenging combat, exciting choices, and unpredictable consequences, The Witcher 3: Wild Hunt is a must-play RPG",
+  "language": "en-us",
+  "score": 98,
+  "npScore": 100,
+  "isQuoteManual": null,
+  "Authors": [
+   {
+    "_id": "5d866f6c93765d6778740c10",
+    "id": 1028,
+    "name": "Kimberley Wallace",
+    "image": false
+   }
+  ],
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "Platforms": [
+   {
+    "_id": "5d866f6c93765d6778740c11",
+    "id": 6,
+    "name": "PlayStation 4",
+    "shortName": "PS4"
+   }
+  ],
+  "alias": "Kimberley Wallace",
+  "game": {
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt"
+  },
+  "Outlet": {
+   "name": "Game Informer",
+   "isContributor": false,
+   "id": 35,
+   "imageSrc": {
+    "og": "outlet/35/o/9FCDG7wC.jpg",
+    "sm": "outlet/35/eaPNPgDC.jpg",
+    "lg": "outlet/35/c3KiPiCS.jpg"
+   }
+  },
+  "createdAt": "2019-09-21T18:43:56.413Z",
+  "updatedAt": "2025-03-25T19:29:48.360Z",
+  "__v": 0,
+  "hideReviewUrl": false,
+  "magicSortField": 5520
+ }
+]

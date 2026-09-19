@@ -1,0 +1,100 @@
+[
+ {
+  "id": 2,
+  "name": "Xbox Series X/S",
+  "shortName": "XBXS",
+  "order": 32,
+  "imageSrcV2": "platforms/xbxs.png"
+ },
+ {
+  "id": 3,
+  "name": "PlayStation 5",
+  "shortName": "PS5",
+  "order": 31,
+  "imageSrcV2": "platforms/ps5.png"
+ },
+ {
+  "name": "Nintendo Switch 2",
+  "shortName": "Switch 2",
+  "order": 26,
+  "imageSrcV2": "platforms/switch2.jpg",
+  "id": 39
+ },
+ {
+  "id": 32,
+  "name": "Nintendo Switch",
+  "shortName": "Switch",
+  "order": 25,
+  "imageSrcV2": "platforms/switch.png"
+ },
+ {
+  "id": 27,
+  "name": "PC",
+  "shortName": "PC",
+  "order": 24,
+  "imageSrcV2": "platforms/pc.png"
+ },
+ {
+  "id": 38,
+  "name": "Google Stadia",
+  "shortName": "Stadia",
+  "order": 23,
+  "imageSrcV2": "platforms/stadia.png"
+ },
+ {
+  "id": 7,
+  "name": "Xbox One",
+  "shortName": "XB1",
+  "order": 21,
+  "imageSrcV2": "platforms/xb1.png"
+ },
+ {
+  "id": 6,
+  "name": "PlayStation 4",
+  "shortName": "PS4",
+  "order": 20,
+  "imageSrcV2": "platforms/ps4.png"
+ },
+ {
+  "id": 29,
+  "name": "Meta Quest",
+  "shortName": "Quest",
+  "order": 14,
+  "imageSrcV2": "platforms/oculus.png"
+ },
+ {
+  "id": 31,
+  "name": "PlayStation VR",
+  "shortName": "PSVR",
+  "order": 13,
+  "imageSrcV2": "platforms/psvr.png"
+ },
+ {
+  "id": 30,
+  "name": "HTC Vive",
+  "shortName": "Vive",
+  "order": 10,
+  "imageSrcV2": "platforms/vive.png"
+ },
+ {
+  "id": 26,
+  "name": "Wii U",
+  "shortName": "Wii-U",
+  "order": 0,
+  "imageSrcV2": "platforms/wiiu.png"
+ },
+ {
+  "id": 36,
+  "name": "Nintendo 3DS",
+  "shortName": "3DS",
+  "order": -1,
+  "imageSrcV2": "platforms/3ds.png"
+ },
+ {
+  "id": 33,
+  "name": "PlayStation Vita",
+  "shortName": "Vita",
+  "order": -2,
+  "imageSrcV2": "platforms/vita.png"
+ }
+]

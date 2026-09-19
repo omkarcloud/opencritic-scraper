@@ -1,0 +1,365 @@
+[
+ {
+  "_id": "66995576534cfd6134a079e4",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Visual Novel",
+  "initialPopularity": 377,
+  "__v": 0,
+  "description": "",
+  "tagId": "visual-novel"
+ },
+ {
+  "_id": "6699557b534cfd6134a07a64",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "VR",
+  "initialPopularity": 256,
+  "__v": 0,
+  "tagId": "vr"
+ },
+ {
+  "_id": "66995575534cfd6134a079cc",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Turn-Based",
+  "initialPopularity": 414,
+  "__v": 0,
+  "tagId": "turn-based"
+ },
+ {
+  "_id": "66995572534cfd6134a0799c",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Survival",
+  "initialPopularity": 474,
+  "__v": 0,
+  "tagId": "survival"
+ },
+ {
+  "_id": "6699556c534cfd6134a07908",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Strategy",
+  "initialPopularity": 1176,
+  "__v": 0,
+  "tagId": "strategy"
+ },
+ {
+  "_id": "6699556b534cfd6134a078e8",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Story Rich",
+  "initialPopularity": 1934,
+  "__v": 0,
+  "tagId": "story-rich"
+ },
+ {
+  "_id": "66995579534cfd6134a07a2c",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Stealth",
+  "initialPopularity": 283,
+  "__v": 0,
+  "description": "",
+  "tagId": "stealth"
+ },
+ {
+  "_id": "66995577534cfd6134a079fc",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Sports",
+  "initialPopularity": 363,
+  "__v": 0,
+  "tagId": "sports"
+ },
+ {
+  "_id": "6699557f534cfd6134a07ac4",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Souls-like",
+  "initialPopularity": 198,
+  "__v": 0,
+  "tagId": "souls-like"
+ },
+ {
+  "_id": "6699556a534cfd6134a078d8",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Singleplayer",
+  "initialPopularity": 4158,
+  "__v": 0,
+  "tagId": "singleplayer"
+ },
+ {
+  "_id": "6699556d534cfd6134a07914",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Simulation",
+  "initialPopularity": 1119,
+  "__v": 0,
+  "tagId": "simulation"
+ },
+ {
+  "_id": "66995571534cfd6134a07984",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Side Scroller",
+  "initialPopularity": 528,
+  "__v": 0,
+  "tagId": "side-scroller"
+ },
+ {
+  "_id": "66995570534cfd6134a07964",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Shooter",
+  "initialPopularity": 717,
+  "__v": 0,
+  "tagId": "shooter"
+ },
+ {
+  "_id": "6699556e534cfd6134a07930",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Sci-fi",
+  "initialPopularity": 950,
+  "__v": 0,
+  "description": "",
+  "tagId": "sci-fi"
+ },
+ {
+  "_id": "66995573534cfd6134a079ac",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Roguelike",
+  "initialPopularity": 444,
+  "__v": 0,
+  "tagId": "roguelike"
+ },
+ {
+  "_id": "6699556f534cfd6134a07950",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Retro",
+  "initialPopularity": 790,
+  "__v": 0,
+  "tagId": "retro"
+ },
+ {
+  "_id": "6699557a534cfd6134a07a44",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Racing",
+  "initialPopularity": 267,
+  "__v": 0,
+  "tagId": "racing"
+ },
+ {
+  "_id": "6699556c534cfd6134a078f8",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "RPG",
+  "initialPopularity": 1503,
+  "__v": 0,
+  "description": "",
+  "tagId": "rpg"
+ },
+ {
+  "_id": "6699556c534cfd6134a0790c",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Puzzle",
+  "initialPopularity": 1151,
+  "__v": 0,
+  "tagId": "puzzle"
+ },
+ {
+  "_id": "6699556e534cfd6134a07934",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Platformer",
+  "initialPopularity": 947,
+  "__v": 0,
+  "tagId": "platformer"
+ },
+ {
+  "_id": "669a9cc4d6345aafa60fae46",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Open World",
+  "initialPopularity": 4213,
+  "tagId": "open-world"
+ },
+ {
+  "_id": "6699556b534cfd6134a078f4",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Multiplayer",
+  "initialPopularity": 1503,
+  "__v": 0,
+  "tagId": "multiplayer",
+  "description": ""
+ },
+ {
+  "_id": "66995598534cfd6134a07d00",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "MMO",
+  "initialPopularity": 44,
+  "__v": 0,
+  "tagId": "mmo",
+  "description": ""
+ },
+ {
+  "_id": "66995578534cfd6134a07a0c",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "JRPG",
+  "initialPopularity": 345,
+  "__v": 0,
+  "tagId": "jrpg",
+  "description": ""
+ },
+ {
+  "_id": "6699556b534cfd6134a078e4",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Indie",
+  "initialPopularity": 2981,
+  "__v": 0,
+  "tagId": "indie"
+ },
+ {
+  "_id": "66995570534cfd6134a07960",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Horror",
+  "initialPopularity": 751,
+  "__v": 0,
+  "description": "",
+  "tagId": "horror"
+ },
+ {
+  "_id": "66995574534cfd6134a079c0",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Hack and Slash",
+  "initialPopularity": 425,
+  "__v": 0,
+  "tagId": "hack-and-slash"
+ },
+ {
+  "_id": "6699557d534cfd6134a07a88",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Fighting",
+  "initialPopularity": 230,
+  "__v": 0,
+  "description": "",
+  "tagId": "fighting"
+ },
+ {
+  "_id": "6699556d534cfd6134a0791c",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Fantasy",
+  "initialPopularity": 1044,
+  "__v": 0,
+  "tagId": "fantasy"
+ },
+ {
+  "_id": "66995570534cfd6134a0795c",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Family Friendly",
+  "initialPopularity": 753,
+  "__v": 0,
+  "description": "",
+  "tagId": "family-friendly"
+ },
+ {
+  "_id": "66995570534cfd6134a07968",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Comedy",
+  "initialPopularity": 683,
+  "__v": 0,
+  "tagId": "comedy"
+ },
+ {
+  "_id": "6699556e534cfd6134a07928",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Co-op",
+  "initialPopularity": 992,
+  "__v": 0,
+  "tagId": "co-op"
+ },
+ {
+  "_id": "6699556c534cfd6134a078fc",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Casual",
+  "initialPopularity": 1417,
+  "__v": 0,
+  "description": "",
+  "tagId": "casual"
+ },
+ {
+  "_id": "66995586534cfd6134a07b70",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Card Game",
+  "initialPopularity": 127,
+  "__v": 0,
+  "description": "",
+  "tagId": "card-game"
+ },
+ {
+  "_id": "6699557e534cfd6134a07aa8",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Beat 'em up",
+  "initialPopularity": 222,
+  "__v": 0,
+  "tagId": "beat-em-up"
+ },
+ {
+  "_id": "6699556f534cfd6134a07948",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Arcade",
+  "initialPopularity": 808,
+  "__v": 0,
+  "tagId": "arcade",
+  "description": ""
+ },
+ {
+  "_id": "66995570534cfd6134a07958",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Anime",
+  "initialPopularity": 759,
+  "__v": 0,
+  "tagId": "anime"
+ },
+ {
+  "_id": "6699556b534cfd6134a078e0",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Adventure",
+  "initialPopularity": 3280,
+  "__v": 0,
+  "tagId": "adventure"
+ },
+ {
+  "_id": "6699556a534cfd6134a078dc",
+  "displayOnFilter": true,
+  "isActive": true,
+  "name": "Action",
+  "initialPopularity": 3359,
+  "__v": 0,
+  "tagId": "action"
+ }
+]

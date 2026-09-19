@@ -1,0 +1,1904 @@
+[
+ {
+  "id": 20766,
+  "name": "Control Resonant",
+  "images": {
+   "box": {
+    "og": "game/20766/o/b5Q5GDqd.jpg",
+    "sm": "game/20766/Rsubor5B.jpg"
+   },
+   "banner": {
+    "og": "game/20766/o/Ju7mWj3O.jpg",
+    "sm": "game/20766/cSVhxtBQ.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-24T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-24T00:00:00.000Z",
+    "_id": "6a20acb75d660c3b62b4def0"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-24T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-24T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 84.25581395348837,
+  "tier": "Mighty"
+ },
+ {
+  "id": 17842,
+  "name": "Marvel's Wolverine",
+  "images": {
+   "box": {
+    "og": "game/17842/o/VTOWcLML.jpg",
+    "sm": "game/17842/lhgW2QA2.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-15T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-15T00:00:00.000Z",
+    "_id": "67588f6bfc2b4b4edca2cb8d"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 78.6140350877193,
+  "tier": "Strong"
+ },
+ {
+  "id": 20499,
+  "name": "The Blood of Dawnwalker",
+  "images": {
+   "box": {
+    "og": "game/20499/o/hgaUbZE3.jpg",
+    "sm": "game/20499/guigcM98.jpg"
+   },
+   "banner": {
+    "og": "game/20499/o/xosh2ZAO.jpg",
+    "sm": "game/20499/LvA3HJke.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-03T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 84.52542372881356,
+  "tier": "Mighty"
+ },
+ {
+  "id": 20764,
+  "name": "Onimusha: Way of the Sword",
+  "images": {
+   "box": {
+    "og": "game/20764/o/fU4Dhliq.jpg",
+    "sm": "game/20764/puX8hY6z.jpg"
+   },
+   "banner": {
+    "og": "game/20764/o/VhNBOgR9.jpg",
+    "sm": "game/20764/J1onoJSw.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-04T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-04T00:00:00.000Z",
+    "_id": "6a20ac455d660c3b62b4dd98"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-04T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-04T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-04T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556a534cfd6134a078dc"
+  ],
+  "topCriticScore": 86,
+  "tier": "Mighty"
+ },
+ {
+  "id": 21329,
+  "name": "HOT WHEELS Infinite Rush",
+  "images": {
+   "box": {
+    "og": "game/21329/o/sZiHO7uw.jpg",
+    "sm": "game/21329/INDseT11.jpg"
+   },
+   "banner": {
+    "og": "game/21329/o/MaS6TNbP.jpg",
+    "sm": "game/21329/XccmOWno.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-10T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "669a9cc4d6345aafa60fae46",
+   "6699557a534cfd6134a07a44"
+  ],
+  "topCriticScore": 73.06451612903226,
+  "tier": "Fair"
+ },
+ {
+  "id": 20795,
+  "name": "Star Wars Zero Company",
+  "images": {
+   "box": {
+    "og": "game/20795/o/es7nM8J1.jpg",
+    "sm": "game/20795/tyrUY9BB.jpg"
+   },
+   "banner": {
+    "og": "game/20795/o/HqpqF5Rs.jpg",
+    "sm": "game/20795/9jVjtQRL.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6a2715365d660c3b62bf53b7"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 84.71875,
+  "tier": "Mighty"
+ },
+ {
+  "id": 21335,
+  "name": "Trails in the Sky 2nd Chapter",
+  "images": {
+   "box": {
+    "og": "game/21335/o/Q8ZgT3Yx.jpg",
+    "sm": "game/21335/GytUajlT.jpg"
+   },
+   "banner": {
+    "og": "game/21335/o/eaeQTSdK.jpg",
+    "sm": "game/21335/loB0lRbA.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-17T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a078f8",
+   "6699556a534cfd6134a078dc"
+  ],
+  "topCriticScore": 91.52380952380952,
+  "tier": "Mighty"
+ },
+ {
+  "id": 20819,
+  "name": "Fire Emblem: Fortune's Weave",
+  "images": {
+   "box": {
+    "og": "game/20819/o/s5lAVMW5.jpg",
+    "sm": "game/20819/nJY1CtSv.jpg"
+   },
+   "banner": {
+    "og": "game/20819/o/YeQuUU3n.jpg",
+    "sm": "game/20819/jOsN8Lpe.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-17T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "6a289df85d660c3b62c237db"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 89.33333333333333,
+  "tier": "Mighty"
+ },
+ {
+  "id": 20803,
+  "name": "Resonance: A Plague Tale Legacy",
+  "images": {
+   "box": {
+    "og": "game/20803/o/DzlRysl4.jpg",
+    "sm": "game/20803/WJpN0W1v.jpg"
+   },
+   "banner": {
+    "og": "game/20803/o/DMAfQQ1X.jpg",
+    "sm": "game/20803/B3cxmnpG.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6a2716b05d660c3b62bf57d6"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 81.30666666666667,
+  "tier": "Strong"
+ },
+ {
+  "id": 21141,
+  "name": "Orbitals",
+  "images": {
+   "box": {
+    "og": "game/21141/o/CSUg9dJP.jpg",
+    "sm": "game/21141/ASiRHrMO.jpg"
+   },
+   "banner": {
+    "og": "game/21141/o/V42PKr72.jpg",
+    "sm": "game/21141/RvCAVKXL.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-03T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "6a7a1a245d660c3b6264d28e"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 82.19565217391305,
+  "tier": "Strong"
+ },
+ {
+  "id": 21036,
+  "name": "NBA 2K27",
+  "images": {
+   "box": {
+    "og": "game/21036/o/n0GRCPdj.jpg",
+    "sm": "game/21036/MuKmH6eY.jpg"
+   },
+   "banner": {
+    "og": "game/21036/o/f5swKOVQ.jpg",
+    "sm": "game/21036/qBtx3R1S.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-03T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-04T00:00:00.000Z",
+    "_id": "6a62789f5d660c3b623ab993"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "6a62789f5d660c3b623ab994"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 76.43478260869566,
+  "tier": "Strong"
+ },
+ {
+  "id": 20107,
+  "name": "Metal Gear Solid: Master Collection Vol. 2",
+  "images": {
+   "box": {
+    "og": "game/20107/o/IvN1Qy0E.jpg",
+    "sm": "game/20107/f8JPhgok.jpg"
+   },
+   "banner": {
+    "og": "game/20107/o/hB7f7n7b.jpg",
+    "sm": "game/20107/rO2EMtdR.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "698f45c25d660c3b629a8580"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6aa470efc162b23983c868a8"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 83.97058823529412,
+  "tier": "Mighty"
+ },
+ {
+  "id": 21354,
+  "name": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",
+  "images": {
+   "box": {
+    "og": "game/21354/o/F9NPxJO3.jpg",
+    "sm": "game/21354/Cldj2mQN.jpg"
+   },
+   "banner": {
+    "og": "game/21354/o/8Vsd8kaL.jpg",
+    "sm": "game/21354/k5ZaIBAX.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-09T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699557c534cfd6134a07a6c",
+   "66995573534cfd6134a079ac",
+   "66995578534cfd6134a07a0c"
+  ],
+  "topCriticScore": 70,
+  "tier": "Fair"
+ },
+ {
+  "id": 20783,
+  "name": "Captain Tsubasa 2: World Fighters",
+  "images": {
+   "box": {
+    "og": "game/20783/o/Tiqg0FyP.jpg",
+    "sm": "game/20783/DLZZiz2P.jpg"
+   },
+   "banner": {
+    "og": "game/20783/o/kYpmL0Kn.jpg",
+    "sm": "game/20783/6K8jwBNq.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6a2388ba5d660c3b62b9c04f"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 73.54545454545455,
+  "tier": "Fair"
+ },
+ {
+  "id": 20779,
+  "name": "Elden Ring: Tarnished Edition",
+  "images": {
+   "box": {
+    "og": "game/20779/o/95xqdGls.jpg",
+    "sm": "game/20779/8PvG2plq.jpg"
+   },
+   "banner": {
+    "og": "game/20779/o/v8skKC1y.jpg",
+    "sm": "game/20779/v9xNaonS.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-28T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-08-28T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 88.88888888888889,
+  "tier": "Mighty"
+ },
+ {
+  "id": 20417,
+  "name": "Another Eden Begins",
+  "images": {
+   "box": {
+    "og": "game/20417/o/iYTvMeuP.jpg",
+    "sm": "game/20417/VO0EC4z4.jpg"
+   },
+   "banner": {
+    "og": "game/20417/o/Rtuib2Gj.jpg",
+    "sm": "game/20417/lCAeIuUJ.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-16T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "69dfa1db5d660c3b623bec0e"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 74.9,
+  "tier": "Strong"
+ },
+ {
+  "id": 18178,
+  "name": "Dune: Awakening",
+  "images": {
+   "box": {
+    "og": "game/18178/o/agSAStW0.jpg",
+    "sm": "game/18178/UIS0jA9F.jpg"
+   }
+  },
+  "firstReleaseDate": "2025-06-10T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2025-06-10T00:00:00.000Z",
+    "_id": "67bf3545bbabda28b336d31e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2025-06-10T00:00:00.000Z",
+    "_id": "67bf3581bbabda28b336d3d5"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2025-06-10T00:00:00.000Z",
+    "_id": "67bf3581bbabda28b336d3d6"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "6699556b534cfd6134a078f4"
+  ],
+  "topCriticScore": 80.1219512195122,
+  "tier": "Strong"
+ },
+ {
+  "id": 20988,
+  "name": "Mortal Shell II",
+  "images": {
+   "box": {
+    "og": "game/20988/o/771QVMcH.jpg",
+    "sm": "game/20988/ay5iod9E.jpg"
+   },
+   "banner": {
+    "og": "game/20988/o/aAXgkBX2.jpg",
+    "sm": "game/20988/btuyuAAR.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-20T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-20T00:00:00.000Z",
+    "_id": "6a57b5db5d660c3b6224d49f"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 83.28070175438596,
+  "tier": "Strong"
+ },
+ {
+  "id": 21283,
+  "name": "The Walking Dead: Streets of Survival",
+  "images": {
+   "box": {
+    "og": "game/21283/o/BEGQalxn.jpg",
+    "sm": "game/21283/a8CNIWlk.jpg"
+   },
+   "banner": {
+    "og": "game/21283/o/F7WjrUl2.jpg",
+    "sm": "game/21283/tg51dQaX.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-18T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-18T00:00:00.000Z",
+    "_id": "6a91f66e5d660c3b629345c1"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-18T00:00:00.000Z",
+    "_id": "6a91f66e5d660c3b629345c2"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": -1,
+  "tier": ""
+ },
+ {
+  "id": 20806,
+  "name": "The Sinking City 2",
+  "images": {
+   "box": {
+    "og": "game/20806/o/OgCwsJdd.jpg",
+    "sm": "game/20806/9RqEhAgq.jpg"
+   },
+   "banner": {
+    "og": "game/20806/o/BSSnlo8k.jpg",
+    "sm": "game/20806/CTATiIVd.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-18T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-18T00:00:00.000Z",
+    "_id": "6a2717215d660c3b62bf594b"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 79.81395348837209,
+  "tier": "Strong"
+ },
+ {
+  "id": 21142,
+  "name": "Aliens: Fireteam Elite 2",
+  "images": {
+   "box": {
+    "og": "game/21142/o/cRzXVQXd.jpg",
+    "sm": "game/21142/9bRrkXMu.jpg"
+   },
+   "banner": {
+    "og": "game/21142/o/gozD35GH.jpg",
+    "sm": "game/21142/YoqP2KuU.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-25T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-25T00:00:00.000Z",
+    "_id": "6a7a1a3e5d660c3b6264d306"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 64.33333333333333,
+  "tier": "Weak"
+ },
+ {
+  "id": 19234,
+  "name": "Moonlighter 2: The Endless Vault",
+  "images": {
+   "box": {
+    "og": "game/19234/o/zOCAaRYD.jpg",
+    "sm": "game/19234/XvezYAep.jpg"
+   },
+   "banner": {
+    "og": "game/19234/o/nQrpNgWx.jpg",
+    "sm": "game/19234/66a6V0EQ.jpg"
+   }
+  },
+  "firstReleaseDate": "2025-10-23T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2025-10-23T00:00:00.000Z",
+    "_id": "68bef64412589122c5d0dd30"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2025-10-23T00:00:00.000Z",
+    "_id": "68bef64412589122c5d0dd31"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2025-10-23T00:00:00.000Z",
+    "_id": "68bef64412589122c5d0dd32"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-02T00:00:00.000Z",
+    "_id": "6aad89aec162b23983da5334"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 83.22222222222223,
+  "tier": "Strong"
+ },
+ {
+  "id": 21259,
+  "name": "SPRAWL zero",
+  "images": {
+   "box": {
+    "og": "game/21259/o/PU5ZuAsj.jpg",
+    "sm": "game/21259/OcNEf19v.jpg"
+   },
+   "banner": {
+    "og": "game/21259/o/1BKKC59d.jpg",
+    "sm": "game/21259/YJFhRJT5.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-08T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "6a8f577d5d660c3b628e476b"
+   }
+  ],
+  "tags": [
+   "66995570534cfd6134a07964",
+   "6699556e534cfd6134a07930",
+   "6699556f534cfd6134a07950"
+  ],
+  "topCriticScore": 79.875,
+  "tier": "Strong"
+ },
+ {
+  "id": 21299,
+  "name": "The Alighieri Circle: Dante's Bloodline",
+  "images": {
+   "box": {
+    "og": "game/undefined/o/1RZtd6vb.jpg",
+    "sm": "game/undefined/QDRgdd09.jpg"
+   },
+   "banner": {
+    "og": "game/21299/o/HUQXpp8C.jpg",
+    "sm": "game/21299/jy8HX2BE.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-10T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078d8",
+   "6699556b534cfd6134a078e4",
+   "6699556d534cfd6134a0791c",
+   "66995570534cfd6134a07960",
+   "6699556b534cfd6134a078e8",
+   "6699556c534cfd6134a0790c",
+   "6699556b534cfd6134a078e0"
+  ],
+  "topCriticScore": 65,
+  "tier": "Weak"
+ },
+ {
+  "topCriticScore": 89,
+  "tier": "Mighty",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "675407f4b9545173a9538a1a"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "675407f4b9545173a9538a1b"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "6aad854dc162b23983da4708"
+   }
+  ],
+  "name": "Valheim",
+  "id": 12081,
+  "firstReleaseDate": "2026-09-09T00:00:00.000Z",
+  "images": {
+   "box": {
+    "og": "game/12081/o/KjsvEbiW.jpg",
+    "sm": "game/12081/MDAs1SVh.jpg"
+   },
+   "banner": {
+    "og": "game/12081/o/kwrIA3Vc.jpg",
+    "sm": "game/12081/Qev0J4hW.jpg"
+   }
+  },
+  "tags": [
+   "6699556b534cfd6134a078f4",
+   "6699556c534cfd6134a07900",
+   "6699556e534cfd6134a07928",
+   "66995572534cfd6134a07994",
+   "66995572534cfd6134a0799c",
+   "66995578534cfd6134a07a18",
+   "66995579534cfd6134a07a38",
+   "66995580534cfd6134a07acc",
+   "66995593534cfd6134a07c98",
+   "669a9cc4d6345aafa60fae46"
+  ]
+ },
+ {
+  "id": 21284,
+  "name": "Graveyard Keeper 2",
+  "images": {
+   "box": {
+    "og": "game/21284/o/2ZkxR8fW.jpg",
+    "sm": "game/21284/cWIHwAKr.jpg"
+   },
+   "banner": {
+    "og": "game/21284/o/zLsDd19Z.jpg",
+    "sm": "game/21284/w7u2KoM6.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-22T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-22T00:00:00.000Z",
+    "_id": "6a91f68c5d660c3b62934633"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": -1,
+  "tier": ""
+ },
+ {
+  "id": 21291,
+  "name": "Sniper Dan",
+  "images": {
+   "box": {
+    "og": "game/21291/o/OXcRYNsx.jpg",
+    "sm": "game/21291/Q0pRbPW1.jpg"
+   },
+   "banner": {
+    "og": "game/21291/o/yE8JDmvC.jpg",
+    "sm": "game/21291/sFuHMJBH.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-17T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "releaseDate": "2026-09-17T00:00:00.000Z",
+    "_id": "6a95c5495d660c3b629a0e71"
+   }
+  ],
+  "tags": [
+   "6699556c534cfd6134a0790c",
+   "6699556c534cfd6134a078fc"
+  ],
+  "topCriticScore": 65,
+  "tier": "Weak"
+ },
+ {
+  "id": 21303,
+  "name": "Marsupilami 2: Salsa Palombia",
+  "images": {
+   "box": {
+    "og": "game/21303/o/JgUpeuag.jpg",
+    "sm": "game/21303/RS6JWATq.jpg"
+   },
+   "banner": {
+    "og": "game/21303/o/uW9OOLNL.jpg",
+    "sm": "game/21303/Eu6JxpPW.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-03T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "6a9879865d660c3b629efaa6"
+   }
+  ],
+  "tags": [
+   "6699556e534cfd6134a07934"
+  ],
+  "topCriticScore": 81,
+  "tier": "Strong"
+ },
+ {
+  "id": 20101,
+  "name": "Marvel Tokon: Fighting Souls",
+  "images": {
+   "box": {
+    "og": "game/20101/o/brXNUtEd.jpg",
+    "sm": "game/20101/98dekKIU.jpg"
+   },
+   "banner": {
+    "og": "game/20101/o/O4BjhkWN.jpg",
+    "sm": "game/20101/MgImf7FU.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-06T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-08-06T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-08-06T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 85.578125,
+  "tier": "Mighty"
+ },
+ {
+  "id": 20919,
+  "name": "Duskfade",
+  "images": {
+   "box": {
+    "og": "game/20919/o/O4W4gdCM.jpg",
+    "sm": "game/20919/PHraEK1j.jpg"
+   },
+   "banner": {
+    "og": "game/20919/o/yRiS9amX.jpg",
+    "sm": "game/20919/C4BepQCR.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-13T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-08-13T00:00:00.000Z",
+    "_id": "6a42e5625d660c3b62fb6028"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-13T00:00:00.000Z",
+    "_id": "6a42e5625d660c3b62fb6029"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 78.84848484848484,
+  "tier": "Strong"
+ },
+ {
+  "id": 19374,
+  "name": "Halloween",
+  "images": {
+   "box": {
+    "og": "game/19374/o/Ak4xzy5b.jpg",
+    "sm": "game/19374/1Ub1I9Th.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-08T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "68d5402012589122c5fa353d"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "68d5402012589122c5fa353e"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "68d5402012589122c5fa353f"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 63.57142857142857,
+  "tier": "Weak"
+ },
+ {
+  "id": 21252,
+  "name": "Serious Sam: Shatterverse",
+  "images": {
+   "box": {
+    "og": "game/21252/o/mZ1cyyRZ.jpg",
+    "sm": "game/21252/tj6a8JHl.jpg"
+   },
+   "banner": {
+    "og": "game/21252/o/sgrcWQbH.jpg",
+    "sm": "game/21252/RLCIGNj2.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-31T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-31T00:00:00.000Z",
+    "_id": "6a8cae6e5d660c3b62894ea5"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 65,
+  "tier": "Weak"
+ },
+ {
+  "id": 20920,
+  "name": "Lou's Lagoon",
+  "images": {
+   "box": {
+    "og": "game/20920/o/n7egtdSj.jpg",
+    "sm": "game/20920/oVF1Mh9w.jpg"
+   },
+   "banner": {
+    "og": "game/20920/o/UIHKtMmE.jpg",
+    "sm": "game/20920/cHRX9p0j.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6a42e58e5d660c3b62fb60a1"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 70.75,
+  "tier": "Fair"
+ },
+ {
+  "id": 21221,
+  "name": "Crimson Moon",
+  "images": {
+   "box": {
+    "og": "game/21221/o/lPSsefzI.jpg",
+    "sm": "game/21221/0CzPtX8h.jpg"
+   },
+   "banner": {
+    "og": "game/21221/o/F9OwYVRt.jpg",
+    "sm": "game/21221/GNmUXmBH.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-01T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-01T00:00:00.000Z",
+    "_id": "6a8620625d660c3b627cf142"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 75.25,
+  "tier": "Strong"
+ },
+ {
+  "id": 21349,
+  "name": "Woodo",
+  "images": {
+   "box": {
+    "og": "game/21349/o/3Ba9Q2m4.jpg",
+    "sm": "game/21349/0N1fv7N0.jpg"
+   },
+   "banner": {
+    "og": "game/21349/o/ng4Y2rGI.jpg",
+    "sm": "game/21349/WadIIRd0.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-16T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 7,
+    "name": "Xbox One",
+    "shortName": "XB1",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xb1.png",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "5d866d6893765d6778736114"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   }
+  ],
+  "tags": [
+   "6699556c534cfd6134a078fc",
+   "66995570534cfd6134a0795c",
+   "6699556b534cfd6134a078e4",
+   "6699556a534cfd6134a078d8",
+   "6699556d534cfd6134a07910"
+  ],
+  "topCriticScore": 83,
+  "tier": "Strong"
+ },
+ {
+  "id": 21352,
+  "name": "BrokenLore: DON'T LIE",
+  "images": {
+   "box": {
+    "og": "game/21352/o/difHtdpv.jpg",
+    "sm": "game/21352/H96F9iyO.jpg"
+   },
+   "banner": {
+    "og": "game/21352/o/vH0KUON4.jpg",
+    "sm": "game/21352/5FCfiAOb.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-09T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078d8",
+   "6699556b534cfd6134a078e8",
+   "66995570534cfd6134a07960"
+  ],
+  "topCriticScore": -1,
+  "tier": ""
+ },
+ {
+  "id": 21309,
+  "name": "Bus Simulator 27",
+  "images": {
+   "box": {
+    "og": "game/21309/o/9A0YdT5r.jpg",
+    "sm": "game/21309/vVpaw2ct.jpg"
+   },
+   "banner": {
+    "og": "game/21309/o/ed9PgtL4.jpg",
+    "sm": "game/21309/ZCX7Rj0A.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-08T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-08T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [
+   "6699556d534cfd6134a07914"
+  ],
+  "topCriticScore": 62.857142857142854,
+  "tier": "Weak"
+ },
+ {
+  "id": 21379,
+  "name": "BLACKWOOD",
+  "images": {
+   "box": {
+    "og": "game/21379/o/JHHLcDHI.jpg",
+    "sm": "game/21379/qjDSTAIX.jpg"
+   },
+   "banner": {
+    "og": "game/21379/o/KU8HzJ4g.jpg",
+    "sm": "game/21379/ZxOHcAyO.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-16T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-16T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "66995570534cfd6134a07964",
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0"
+  ],
+  "topCriticScore": -1,
+  "tier": ""
+ },
+ {
+  "id": 21343,
+  "name": "Barbarian Saga: The Beastmaster",
+  "images": {
+   "box": {
+    "og": "game/21343/o/sV0JbHR3.jpg",
+    "sm": "game/21343/J5eFin3T.jpg"
+   },
+   "banner": {
+    "og": "game/21343/o/9NHWT3E0.jpg",
+    "sm": "game/21343/p9kQp0qg.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-09T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-09-09T00:00:00.000Z",
+    "_id": "6aa1c39ec162b23983c30335"
+   }
+  ],
+  "tags": [
+   "6699556e534cfd6134a07934",
+   "6699556a534cfd6134a078dc",
+   "6699556a534cfd6134a078d8",
+   "6699556b534cfd6134a078e4"
+  ],
+  "topCriticScore": -1,
+  "tier": ""
+ },
+ {
+  "id": 21311,
+  "name": "BioEden",
+  "images": {
+   "box": {
+    "og": "game/21311/o/xX9RRZmR.jpg",
+    "sm": "game/21311/NRYgZjbD.jpg"
+   },
+   "banner": {
+    "og": "game/21311/o/H5l63CQj.jpg",
+    "sm": "game/21311/ees5qxDH.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-03T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-03T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078d8",
+   "6699556d534cfd6134a07914"
+  ],
+  "topCriticScore": -1,
+  "tier": ""
+ },
+ {
+  "id": 21161,
+  "name": "The Lord of the Rings: War in the North - Legacy Edition",
+  "images": {
+   "box": {
+    "og": "game/21161/o/Iye7Q6xl.jpg",
+    "sm": "game/21161/goJT9OCV.jpg"
+   },
+   "banner": {
+    "og": "game/21161/o/5NWzK8Hv.jpg",
+    "sm": "game/21161/m5ot05Jt.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-11T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-11T00:00:00.000Z",
+    "_id": "6a7ce3e65d660c3b6269f935"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 69.13333333333334,
+  "tier": "Fair"
+ },
+ {
+  "id": 20883,
+  "name": "Madden NFL 27",
+  "images": {
+   "box": {
+    "og": "game/20883/o/0IZBR90N.jpg",
+    "sm": "game/20883/200jDF7i.jpg"
+   },
+   "banner": {
+    "og": "game/20883/o/Icv4DFoR.jpg",
+    "sm": "game/20883/VFUjUOEm.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-13T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-13T00:00:00.000Z",
+    "_id": "6a3b02455d660c3b62ecb426"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 76,
+  "tier": "Strong"
+ },
+ {
+  "id": 20917,
+  "name": "Brigandine Abyss",
+  "images": {
+   "box": {
+    "og": "game/20917/o/mNVqQJbg.jpg",
+    "sm": "game/20917/Ug87Zo6C.jpg"
+   },
+   "banner": {
+    "og": "game/20917/o/H9yiEJYj.jpg",
+    "sm": "game/20917/jDyKOXCB.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-26T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-26T00:00:00.000Z",
+    "_id": "6a42e5165d660c3b62fb5f7d"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 73.78571428571429,
+  "tier": "Fair"
+ },
+ {
+  "id": 21234,
+  "name": "Welcome to Elderfield",
+  "images": {
+   "box": {
+    "og": "game/21234/o/OiwMeCRi.jpg",
+    "sm": "game/21234/9JmsmnNp.jpg"
+   },
+   "banner": {
+    "og": "game/21234/o/WXFZz9no.jpg",
+    "sm": "game/21234/uvEfDu7w.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-10T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-09-10T00:00:00.000Z",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "tags": [
+   "6699556b534cfd6134a078e0",
+   "6699556c534cfd6134a078fc",
+   "6699556d534cfd6134a07914",
+   "6699556b534cfd6134a078e4",
+   "6699556c534cfd6134a078f8",
+   "6699556c534cfd6134a07908"
+  ],
+  "topCriticScore": 79.33333333333333,
+  "tier": "Strong"
+ },
+ {
+  "id": 21267,
+  "name": "Aniimo",
+  "images": {
+   "box": {
+    "og": "game/21267/o/5854dluo.jpg",
+    "sm": "game/21267/jIpm8OnM.jpg"
+   },
+   "banner": {
+    "og": "game/21267/o/IPsPFbgn.jpg",
+    "sm": "game/21267/IIAsWvwO.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-09-15T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-15T00:00:00.000Z",
+    "_id": "6a8f58e75d660c3b628e4b65"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 79.5,
+  "tier": "Strong"
+ },
+ {
+  "id": 21264,
+  "name": "Aggelos 2",
+  "images": {
+   "box": {
+    "og": "game/21264/o/yQt5B26U.jpg",
+    "sm": "game/21264/AWJxs2Fo.jpg"
+   },
+   "banner": {
+    "og": "game/21264/o/KMOBpcSf.jpg",
+    "sm": "game/21264/OH4VJELJ.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-27T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-27T00:00:00.000Z",
+    "_id": "6a8f58635d660c3b628e4a57"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078d8",
+   "6699556b534cfd6134a078e4",
+   "6699556b534cfd6134a078e0",
+   "6699556f534cfd6134a07950",
+   "6699556a534cfd6134a078dc"
+  ],
+  "topCriticScore": 73.75,
+  "tier": "Fair"
+ },
+ {
+  "id": 20099,
+  "name": "Beast of Reincarnation",
+  "images": {
+   "box": {
+    "og": "game/20099/o/xLJSgjno.jpg",
+    "sm": "game/20099/IXmmEeAn.jpg"
+   },
+   "banner": {
+    "og": "game/20099/o/jHQM6Sef.jpg",
+    "sm": "game/20099/BO3Ng5X2.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-08-03T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-08-03T00:00:00.000Z",
+    "_id": "698f44d55d660c3b629a831a"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 72.50666666666666,
+  "tier": "Fair"
+ },
+ {
+  "id": 21058,
+  "name": "Kusan: City of Wolves",
+  "images": {
+   "box": {
+    "og": "game/21058/o/NlNF8UQb.jpg",
+    "sm": "game/21058/QJ4ETOvo.jpg"
+   },
+   "banner": {
+    "og": "game/21058/o/4cT8LlG3.jpg",
+    "sm": "game/21058/CVFwN9sK.jpg"
+   }
+  },
+  "firstReleaseDate": "2026-07-30T00:00:00.000Z",
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-07-30T00:00:00.000Z",
+    "displayRelease": "July 30, 2026",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-07-30T00:00:00.000Z",
+    "displayRelease": "July 30, 2026",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-07-30T00:00:00.000Z",
+    "displayRelease": "July 30, 2026",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 32,
+    "name": "Nintendo Switch",
+    "shortName": "Switch",
+    "imageSrc": "https://c.opencritic.com/images/platforms/switch.png",
+    "releaseDate": "2026-07-30T00:00:00.000Z",
+    "displayRelease": "July 30, 2026",
+    "_id": "5d866d6a93765d677873615b"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-07-30T00:00:00.000Z",
+    "_id": "6a6a49cd5d660c3b6248d0f3"
+   }
+  ],
+  "tags": [],
+  "topCriticScore": 78.77777777777777,
+  "tier": "Strong"
+ }
+]

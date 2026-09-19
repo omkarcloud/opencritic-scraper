@@ -1,0 +1,122 @@
+[
+ {
+  "id": 91,
+  "name": "Art",
+  "__v": 0
+ },
+ {
+  "id": 92,
+  "name": "Interactive Story",
+  "__v": 0
+ },
+ {
+  "id": 94,
+  "name": "Arcade",
+  "__v": 0
+ },
+ {
+  "id": 6,
+  "name": "Fighting",
+  "__v": 0
+ },
+ {
+  "id": 95,
+  "name": "Horror",
+  "__v": 0
+ },
+ {
+  "id": 96,
+  "name": "Roguelike",
+  "__v": 0
+ },
+ {
+  "id": 97,
+  "name": "Puzzle",
+  "__v": 0
+ },
+ {
+  "id": 98,
+  "name": "Music",
+  "__v": 0
+ },
+ {
+  "id": 99,
+  "name": "MMO",
+  "__v": 0
+ },
+ {
+  "id": 100,
+  "name": "Survival",
+  "__v": 0
+ },
+ {
+  "id": 101,
+  "name": "Creation",
+  "__v": 0
+ },
+ {
+  "id": 27,
+  "name": "Action",
+  "__v": 0
+ },
+ {
+  "id": 75,
+  "name": "Simulation",
+  "__v": 0
+ },
+ {
+  "id": 76,
+  "name": "Adventure",
+  "__v": 0
+ },
+ {
+  "id": 77,
+  "name": "RPG",
+  "__v": 0
+ },
+ {
+  "id": 79,
+  "name": "First-Person Shooter",
+  "__v": 0
+ },
+ {
+  "id": 82,
+  "name": "Platformer",
+  "__v": 0
+ },
+ {
+  "id": 84,
+  "name": "Racing",
+  "__v": 0
+ },
+ {
+  "id": 85,
+  "name": "Real-Time Strategy",
+  "__v": 0
+ },
+ {
+  "id": 86,
+  "name": "Sports",
+  "__v": 0
+ },
+ {
+  "id": 87,
+  "name": "Strategy",
+  "__v": 0
+ },
+ {
+  "id": 88,
+  "name": "Third-Person Shooter",
+  "__v": 0
+ },
+ {
+  "id": 89,
+  "name": "Turn-Based Strategy",
+  "__v": 0
+ },
+ {
+  "id": 90,
+  "name": "Vehicle Combat",
+  "__v": 0
+ }
+]

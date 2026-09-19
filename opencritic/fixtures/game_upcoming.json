@@ -1,0 +1,276 @@
+[
+ {
+  "name": "Silent Hill: Townfall",
+  "id": 20763,
+  "firstReleaseDate": "2026-09-23T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/20763/o/hxhc72A6.jpg",
+    "sm": "game/20763/OIBaz70O.jpg"
+   },
+   "banner": {
+    "og": "game/20763/o/2vrTP7p7.jpg",
+    "sm": "game/20763/VLkEC4rC.jpg"
+   }
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-23T00:00:00.000Z",
+    "_id": "6a20ac245d660c3b62b4dd23"
+   }
+  ],
+  "tags": []
+ },
+ {
+  "name": "Control Resonant",
+  "id": 20766,
+  "firstReleaseDate": "2026-09-24T00:00:00.000Z",
+  "tier": "Mighty",
+  "images": {
+   "box": {
+    "og": "game/20766/o/b5Q5GDqd.jpg",
+    "sm": "game/20766/Rsubor5B.jpg"
+   },
+   "banner": {
+    "og": "game/20766/o/Ju7mWj3O.jpg",
+    "sm": "game/20766/cSVhxtBQ.jpg"
+   }
+  },
+  "topCriticScore": 84,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-09-24T00:00:00.000Z",
+    "_id": "6a20acb75d660c3b62b4def0"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-09-24T00:00:00.000Z",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-09-24T00:00:00.000Z",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "tags": []
+ },
+ {
+  "name": "Call of Duty: Modern Warfare 4",
+  "id": 20690,
+  "firstReleaseDate": "2026-10-22T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/20690/o/PSQMJgSk.jpg",
+    "sm": "game/20690/xZWgUH2i.jpg"
+   },
+   "banner": {
+    "og": "game/20690/o/yqmSAqbB.jpg",
+    "sm": "game/20690/8dPemwJy.jpg"
+   }
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-10-23T00:00:00.000Z",
+    "_id": "6a18684c5d660c3b62a528ea"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-10-22T00:00:00.000Z",
+    "_id": "6a18684c5d660c3b62a528eb"
+   }
+  ],
+  "tags": []
+ },
+ {
+  "name": "Final Fantasy Resonance",
+  "id": 20820,
+  "firstReleaseDate": "2026-10-22T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/20820/o/me86tCQt.jpg",
+    "sm": "game/20820/cQ5s3yDi.jpg"
+   },
+   "banner": {
+    "og": "game/20820/o/OSfOZo68.jpg",
+    "sm": "game/20820/hwjjCR4L.jpg"
+   }
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "releaseDate": "2026-10-22T00:00:00.000Z",
+    "_id": "6a289e355d660c3b62c23943"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2026-10-22T00:00:00.000Z",
+    "_id": "6a289e355d660c3b62c23944"
+   }
+  ],
+  "tags": []
+ },
+ {
+  "name": "Phantom Blade Zero",
+  "id": 19914,
+  "firstReleaseDate": "2026-10-29T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/19914/o/DOarFM6t.jpg",
+    "sm": "game/19914/bfeZNd26.jpg"
+   },
+   "banner": {}
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "imageSrc": "https://c.opencritic.com/images/platforms/pc.png",
+    "releaseDate": "2026-10-29T00:00:00.000Z",
+    "_id": "695bd91d5d660c3b6230ff0f"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-10-29T00:00:00.000Z",
+    "_id": "695bd91d5d660c3b6230ff10"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc"
+  ]
+ },
+ {
+  "name": "The Legend of Zelda: Ocarina of Time",
+  "id": 21344,
+  "firstReleaseDate": "2026-11-05T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/21344/o/kbJ4xQ1X.jpg",
+    "sm": "game/21344/CThYWE1C.jpg"
+   },
+   "banner": {
+    "og": "game/21344/o/EG7ppfiu.jpg",
+    "sm": "game/21344/lFFfN0rs.jpg"
+   }
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "imageSrc": "https://img.opencritic.com/platforms/switch2.jpg",
+    "releaseDate": "2026-11-05T00:00:00.000Z",
+    "_id": "6840786a8c30b944556734e8"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0"
+  ]
+ },
+ {
+  "name": "Grand Theft Auto VI",
+  "id": 15398,
+  "firstReleaseDate": "2026-11-19T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/15398/o/pCgpCQGW.jpg",
+    "sm": "game/15398/dxNaH6pr.jpg"
+   },
+   "banner": {
+    "og": "game/15398/o/ISROsyoP.jpg",
+    "sm": "game/15398/vaQql0bd.jpg"
+   }
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "imageSrc": "https://c.opencritic.com/images/platforms/ps5.png",
+    "releaseDate": "2026-11-19T00:00:00.000Z",
+    "displayRelease": "2026-11-19",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "imageSrc": "https://c.opencritic.com/images/platforms/xbxs.png",
+    "releaseDate": "2026-11-19T00:00:00.000Z",
+    "displayRelease": "2026-11-19",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "tags": [
+   "6699556a534cfd6134a078dc",
+   "6699556b534cfd6134a078e0",
+   "66995570534cfd6134a07964",
+   "66995571534cfd6134a07970"
+  ]
+ },
+ {
+  "name": "Tomb Raider: Legacy of Atlantis",
+  "id": 20765,
+  "firstReleaseDate": "2027-02-12T00:00:00.000Z",
+  "tier": "",
+  "images": {
+   "box": {
+    "og": "game/20765/o/peagcCGF.jpg",
+    "sm": "game/20765/urJWEjrM.jpg"
+   },
+   "banner": {
+    "og": "game/20765/o/bUkKkmOz.jpg",
+    "sm": "game/20765/xJe0mJZl.jpg"
+   }
+  },
+  "topCriticScore": -1,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "releaseDate": "2027-02-12T00:00:00.000Z",
+    "_id": "6a20ac955d660c3b62b4de57"
+   }
+  ],
+  "tags": []
+ }
+]

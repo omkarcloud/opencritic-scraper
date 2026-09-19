@@ -1,0 +1,37 @@
+{
+ "imageSrc": {
+  "og": "outlet/56/o/fyeAmHFh.jpg",
+  "sm": "outlet/56/edZfuPwc.jpg",
+  "lg": "outlet/56/98gLlM2l.jpg"
+ },
+ "ScoreFormat": {
+  "id": 18,
+  "name": "0 to 10 incl decimals",
+  "shortName": "x.x / 10.0",
+  "scoreDisplay": " / 10.0",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 1,
+  "base": 10,
+  "options": null
+ },
+ "isAggregated": false,
+ "language": "en-us",
+ "usesFixedCutoff": true,
+ "percentRecommended": 58.59221392056626,
+ "numReviews": 2548,
+ "medianScore": 78,
+ "averageScore": 74.33071175776642,
+ "name": "IGN",
+ "externalUrl": "http://www.ign.com/",
+ "isContributor": false,
+ "domain": "ign.com",
+ "recommendedCutoff": 70,
+ "id": 56,
+ "magic": 5600,
+ "__v": 0,
+ "isAggregatedByOpenCritic": true,
+ "updatedAt": "2026-09-18T19:32:21.114Z",
+ "hidePublicationUrls": false
+}

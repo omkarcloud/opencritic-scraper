@@ -1,0 +1,1326 @@
+[
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20499,
+   "name": "The Blood of Dawnwalker"
+  },
+  "_id": "6a95c97df8c306636f625e5c",
+  "title": "The Blood of Dawnwalker Review",
+  "publishedDate": "2026-08-31T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/the-blood-of-dawnwalker-review",
+  "snippet": "The Blood of Dawnwalker is an impressive, bloody cocktail of interesting ideas and well-written characters, making it one of this year’s best open-world RPGs.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6a95c97df8c306636f625e5e"
+   }
+  ],
+  "createdAt": "2026-08-31T18:35:41.652Z",
+  "updatedAt": "2026-08-31T18:35:41.652Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20803,
+   "name": "Resonance: A Plague Tale Legacy"
+  },
+  "_id": "6a8f5ec5f8c306636f436c96",
+  "title": "Resonance: A Plague Tale Legacy Review",
+  "publishedDate": "2026-08-26T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/resonance-a-plague-tale-legacy-review",
+  "snippet": "Resonance: A Plague Tale Legacy is a prequel spinoff that takes a lot of interesting chances with the series, but only some of its experiments pay off.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6a8f5ec5f8c306636f436c98"
+   }
+  ],
+  "createdAt": "2026-08-26T21:46:45.797Z",
+  "updatedAt": "2026-08-26T21:46:45.797Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20099,
+   "name": "Beast of Reincarnation"
+  },
+  "_id": "6a721640f8c306636fd24b47",
+  "title": "Beast of Reincarnation Review",
+  "publishedDate": "2026-08-04T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/beast-of-reincarnation-review",
+  "snippet": "Beast of Reincarnation is an action RPG that has some great ideas blossoming here and there, but they can be hard to spot among the weeds.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6a721640f8c306636fd24b49"
+   }
+  ],
+  "createdAt": "2026-08-04T16:41:36.504Z",
+  "updatedAt": "2026-08-04T16:41:36.504Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20496,
+   "name": "Teenage Mutant Ninja Turtles: Empire City"
+  },
+  "_id": "69f52827f8c306636fb74e84",
+  "title": "Teenage Mutant Ninja Turtles: Empire City Review",
+  "publishedDate": "2026-04-30T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/teenage-mutant-ninja-turtles-empire-city-review",
+  "snippet": "Teenage Mutant Ninja Turtles: Empire City is a buggy, repetitive, and incredibly barebones adventure that mostly fails to capitalize on its extremely awesome premise.",
+  "language": "en-us",
+  "score": 50,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "69f52827f8c306636fb74e86"
+   }
+  ],
+  "createdAt": "2026-05-01T22:24:39.216Z",
+  "updatedAt": "2026-05-01T22:24:39.216Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20420,
+   "name": "Diablo IV: Lord of Hatred"
+  },
+  "_id": "69e7a1fbf8c306636f7df710",
+  "title": "Diablo 4: Lord of Hatred Review",
+  "publishedDate": "2026-04-21T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/diablo-4-lord-of-hatred-review",
+  "snippet": "Lord of Hatred gives Diablo 4 an extremely satisfying conclusion, excellent changes to build crafting, and an endgame that could potentially go the distance.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "69e7a1fbf8c306636f7df711"
+   }
+  ],
+  "createdAt": "2026-04-21T16:12:43.557Z",
+  "updatedAt": "2026-04-21T16:12:43.557Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 20182,
+   "name": "Marathon"
+  },
+  "_id": "69ca82f8f8c306636fee299e",
+  "title": "Marathon Review",
+  "publishedDate": "2026-03-30T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/marathon-review",
+  "snippet": "Marathon is a ruthless and unforgiving extraction shooter that’s worth every ounce of hell it puts you through.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "69ca82f8f8c306636fee29a0"
+   }
+  ],
+  "createdAt": "2026-03-30T14:04:40.301Z",
+  "updatedAt": "2026-03-30T14:04:40.301Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19373,
+   "name": "Crimson Desert"
+  },
+  "_id": "69c14cfaf8c306636fca9858",
+  "title": "Crimson Desert Review",
+  "publishedDate": "2026-03-20T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/crimson-desert-review",
+  "snippet": "Crimson Desert is an extremely ambitious open-world adventure, and that ambition is what makes it both incredibly cool and gobsmackingly infuriating in almost equal measure.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "69c14cfaf8c306636fca9859"
+   }
+  ],
+  "createdAt": "2026-03-23T14:23:54.145Z",
+  "updatedAt": "2026-03-23T14:23:54.145Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19824,
+   "name": "Styx: Blades of Greed"
+  },
+  "_id": "699c7f61f8c306636f365a98",
+  "title": "Styx: Blades of Greed Review",
+  "publishedDate": "2026-02-20T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/styx-blades-of-greed-review",
+  "snippet": "Styx: Blades of Greed is a sequel that mostly delivers the same stealth gameplay as its predecessors, with all the good and the bad you might expect from that.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "699c7f61f8c306636f365a9a"
+   }
+  ],
+  "createdAt": "2026-02-23T16:25:05.528Z",
+  "updatedAt": "2026-02-23T16:25:05.528Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "name": "IGN",
+   "isContributor": false,
+   "id": 56
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 19191,
+   "name": "High on Life 2"
+  },
+  "_id": "698e2e48f8c306636f00a34c",
+  "title": "High On Life 2 Review",
+  "publishedDate": "2026-02-12T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/high-on-life-2-review",
+  "snippet": "High On Life 2 is a fun sequel that expands on the original’s best ideas, but an underwhelming story and even sloppier gunplay means it also takes a step backward in plenty of areas.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "698e2e4af8c306636f00e160"
+   }
+  ],
+  "createdAt": "2026-02-12T19:47:20.200Z",
+  "updatedAt": "2026-02-12T19:47:22.306Z",
+  "__v": 2
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19859,
+   "name": "Highguard"
+  },
+  "_id": "698f4338f8c306636f0964c5",
+  "title": "Highguard Review",
+  "publishedDate": "2026-02-12T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/highguard-review",
+  "snippet": "Highguard’s compelling gunplay makes its unique raid mode quite memorable, even if the version we have right now feels a bit like a rough draft.",
+  "language": "en-us",
+  "score": 70,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   },
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "698f4338f8c306636f0964c8"
+   }
+  ],
+  "createdAt": "2026-02-13T15:28:56.752Z",
+  "updatedAt": "2026-02-13T15:28:56.752Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19875,
+   "name": "Destiny 2: Renegades"
+  },
+  "_id": "6942d7c6f8c306636f3b6e49",
+  "title": "Destiny 2: Renegades Review",
+  "publishedDate": "2025-12-15T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/destiny-2-renegades-review",
+  "snippet": "Destiny 2: Renegades is a Star Wars-flavored expansion that’s cringey and light on content, but what’s there works surprisingly well.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6942d7c6f8c306636f3b6e4d"
+   }
+  ],
+  "createdAt": "2025-12-17T16:18:14.527Z",
+  "updatedAt": "2025-12-17T16:18:14.527Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isNumeric": true,
+   "isSelect": false,
+   "isStars": false,
+   "numDecimals": 1,
+   "base": 10,
+   "options": null
+  },
+  "game": {
+   "id": 19771,
+   "name": "Escape from Tarkov"
+  },
+  "_id": "692f7095f8c306636ffa3a40",
+  "title": "Escape From Tarkov Review",
+  "publishedDate": "2025-12-02T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/escape-from-tarkov-review",
+  "snippet": "As the hardcore pioneer of the extraction shooter, Escape from Tarkov is still quite compelling, but it's also saddled with issues that range from technical problems to pay-to-win monetization.",
+  "language": "en-us",
+  "score": 60,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "698e31f0f8c306636f02582d"
+   }
+  ],
+  "createdAt": "2025-12-02T23:04:53.333Z",
+  "updatedAt": "2026-02-12T20:02:56.355Z",
+  "__v": 1
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19023,
+   "name": "ARC Raiders"
+  },
+  "_id": "69142354f8c306636f6646bf",
+  "title": "ARC Raiders Review",
+  "publishedDate": "2025-11-12T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/arc-raiders-review",
+  "snippet": "ARC Raiders raises the bar for extraction shooters pretty much across the board, with an incredibly gripping progression grind, tense fights against NPCs and other players that make for memorable matches, and loot that feels completely worth all the work and stress it takes to obtain it. The fact that it manages to also run well and look amazing all the while is just downright impressive, even if a few bugs here and there lead to the rare rage quit. For years I’d been wondering when someone would take the awesome promise of this genre to the next level, and ARC Raiders is without question what I’ve been waiting for.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "69142354f8c306636f6646c0"
+   }
+  ],
+  "createdAt": "2025-11-12T06:04:04.042Z",
+  "updatedAt": "2025-11-12T06:04:04.042Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 18723,
+   "name": "The Outer Worlds 2"
+  },
+  "_id": "68fa7337f8c306636ff5e4bc",
+  "title": "The Outer Worlds 2 Review",
+  "publishedDate": "2025-10-23T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/the-outer-worlds-2-review",
+  "snippet": "Once you get past a weak first act, The Outer Worlds 2 sharpens Obsidian’s RPG formula with smarter writing and better combat.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "68fa7337f8c306636ff5e4bf"
+   }
+  ],
+  "createdAt": "2025-10-23T18:25:59.767Z",
+  "updatedAt": "2025-10-23T18:25:59.767Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19330,
+   "name": "Yooka-Replaylee"
+  },
+  "_id": "68e677ecf8c306636f77dd1c",
+  "title": "Yooka-Replaylee Review",
+  "publishedDate": "2025-10-08T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/yooka-replaylee-review",
+  "snippet": "Yooka-Replaylee works a little better in this remixed iteration, but introduces all sorts of new wonkiness along the way.",
+  "language": "en-us",
+  "score": 50,
+  "npScore": 0,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   },
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 39,
+    "name": "Nintendo Switch 2",
+    "shortName": "Switch 2",
+    "_id": "6840786a8c30b944556734e8"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "68e677ecf8c306636f77dd21"
+   }
+  ],
+  "createdAt": "2025-10-08T14:40:44.063Z",
+  "updatedAt": "2025-10-08T14:40:44.063Z",
+  "__v": 0
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 19357,
+   "name": "Baby Steps"
+  },
+  "_id": "68d2cefdf8c306636f109dcf",
+  "title": "Baby Steps Review",
+  "publishedDate": "2025-09-23T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/baby-steps-review",
+  "snippet": "Baby Steps is an infuriating ordeal of intentionally awkward physics that’s brutal, unbelievably stupid, and downright awesome.",
+  "language": "en-us",
+  "score": 90,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 3,
+    "name": "PlayStation 5",
+    "shortName": "PS5",
+    "_id": "5fa46833539b2ea1f6aff145"
+   },
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "68d2cefdf8c306636f109dd2"
+   }
+  ],
+  "createdAt": "2025-09-23T16:46:53.090Z",
+  "updatedAt": "2025-09-25T16:32:54.142Z",
+  "__v": 0,
+  "hideReviewUrl": false
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 18724,
+   "name": "Dying Light: The Beast"
+  },
+  "_id": "68cc2df9f8c306636ff09889",
+  "title": "Dying Light: The Beast Review",
+  "publishedDate": "2025-09-18T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/dying-light-the-beast-review",
+  "snippet": "Dying Light: The Beast is a goofy, bloody sequel with a monstrous twist, but doesn’t do much else to mix things up.",
+  "language": "en-us",
+  "score": 70,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "68cc2df9f8c306636ff0988b"
+   }
+  ],
+  "createdAt": "2025-09-18T16:06:17.421Z",
+  "updatedAt": "2025-09-25T16:32:54.142Z",
+  "__v": 0,
+  "hideReviewUrl": false
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 18111,
+   "name": "Borderlands 4"
+  },
+  "_id": "68c2e414f8c306636fc2100c",
+  "title": "Borderlands 4 Review",
+  "publishedDate": "2025-09-11T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/borderlands-4-review",
+  "snippet": "Borderlands 4 gives the series the massive kick in the pants it has needed, with a fantastic open world and greatly improved combat, even bugs and invisible walls can sometimes throw off that groove.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "68c2e414f8c306636fc2100e"
+   }
+  ],
+  "createdAt": "2025-09-11T15:00:36.947Z",
+  "updatedAt": "2025-09-25T16:32:54.142Z",
+  "__v": 0,
+  "hideReviewUrl": false
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 18998,
+   "name": "Grounded 2"
+  },
+  "_id": "6888ea47f8c306636fdcd63d",
+  "title": "Grounded 2 Early Access Review",
+  "publishedDate": "2025-07-29T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/grounded-2-early-access-review",
+  "snippet": "Grounded 2’s early access debut is a stellar starting point, despite a rocky technical performance.",
+  "language": "en-us",
+  "score": 80,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 27,
+    "name": "PC",
+    "shortName": "PC",
+    "_id": "5d866d6993765d677873611e"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "6888ea47f8c306636fdcd63f"
+   }
+  ],
+  "createdAt": "2025-07-29T15:35:35.384Z",
+  "updatedAt": "2025-09-25T16:32:54.142Z",
+  "__v": 0,
+  "hideReviewUrl": false
+ },
+ {
+  "Outlet": {
+   "imageSrc": {
+    "og": "outlet/56/o/fyeAmHFh.jpg",
+    "sm": "outlet/56/edZfuPwc.jpg",
+    "lg": "outlet/56/98gLlM2l.jpg"
+   },
+   "id": 56,
+   "name": "IGN",
+   "isContributor": false
+  },
+  "ScoreFormat": {
+   "id": 18,
+   "name": "0 to 10 incl decimals",
+   "isNumeric": true,
+   "shortName": "x.x / 10.0",
+   "scoreDisplay": " / 10.0",
+   "isSelect": false,
+   "base": 10,
+   "isStars": false,
+   "numDecimals": 1,
+   "options": null
+  },
+  "game": {
+   "id": 18999,
+   "name": "Wildgate"
+  },
+  "_id": "688a3016f8c306636fe4cccd",
+  "title": "Wildgate Review",
+  "publishedDate": "2025-07-29T00:00:00.000Z",
+  "externalUrl": "https://www.ign.com/articles/wildgate-review",
+  "snippet": "Wildgate’s 4-player mayhem makes for a wild ride, but it currently feels like a proof of concept for something really great.",
+  "language": "en-us",
+  "score": 70,
+  "npScore": 100,
+  "alias": "Travis Northup",
+  "isChosen": false,
+  "overrideRecommendation": false,
+  "medianAtTimeOfReview": 78,
+  "Platforms": [
+   {
+    "id": 2,
+    "name": "Xbox Series X/S",
+    "shortName": "XBXS",
+    "_id": "5fa4685b539b2ea1f6aff463"
+   }
+  ],
+  "Authors": [
+   {
+    "imageSrc": {
+     "og": "critic/481/o/fd9OFBD2.jpg",
+     "sm": "critic/481/V9xFdCCQ.jpg",
+     "lg": "critic/481/CayQVcgn.jpg"
+    },
+    "id": 481,
+    "name": "Travis Northup",
+    "image": true,
+    "_id": "688a3016f8c306636fe4cccf"
+   }
+  ],
+  "createdAt": "2025-07-30T14:45:42.668Z",
+  "updatedAt": "2025-09-25T16:32:54.142Z",
+  "__v": 0,
+  "hideReviewUrl": false
+ }
+]

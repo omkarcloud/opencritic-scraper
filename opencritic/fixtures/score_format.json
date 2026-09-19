@@ -1,0 +1,438 @@
+[
+ {
+  "id": 17,
+  "name": "0 to 100, whole numbers",
+  "shortName": "x / 100",
+  "scoreDisplay": " / 100",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 0,
+  "base": 1,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 18,
+  "name": "0 to 10 incl decimals",
+  "shortName": "x.x / 10.0",
+  "scoreDisplay": " / 10.0",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 1,
+  "base": 10,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 19,
+  "name": "0 to 5 stars, incl half stars",
+  "scoreDisplay": " / 5 stars",
+  "shortName": "x.5 / 5 stars",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": true,
+  "numDecimals": 2,
+  "base": 20,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 20,
+  "name": "Percentage",
+  "shortName": "x%",
+  "scoreDisplay": "%",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 0,
+  "base": 1,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 21,
+  "name": "0 to 5, whole numbers",
+  "shortName": "x / 5",
+  "scoreDisplay": " / 5",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 0,
+  "base": 20,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 22,
+  "name": "0 to 5 stars, whole stars",
+  "shortName": "x / 5 stars",
+  "scoreDisplay": " / 5 stars",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": true,
+  "numDecimals": 0,
+  "base": 20,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 23,
+  "name": "0 to 10 stars, whole stars",
+  "shortName": "x / 10 stars",
+  "scoreDisplay": " / 10 stars",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": true,
+  "numDecimals": 0,
+  "base": 10,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 24,
+  "name": "0 to 5, incl decimals",
+  "shortName": "x.x / 5",
+  "scoreDisplay": " / 5.0",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 2,
+  "base": 20,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 25,
+  "name": "0 to 10, whole numbers",
+  "shortName": "x / 10",
+  "scoreDisplay": " / 10",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "base": 10,
+  "options": null,
+  "__v": 0,
+  "numDecimals": 0
+ },
+ {
+  "id": 26,
+  "name": "0 to 20, whole numbers",
+  "shortName": "x / 20",
+  "scoreDisplay": " / 20",
+  "isNumeric": true,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": 0,
+  "base": 5,
+  "options": null,
+  "__v": 0
+ },
+ {
+  "id": 28,
+  "name": "Yes, Not Yet, No",
+  "shortName": "Yes/No/Not Yet",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6a93765d6778736164",
+    "val": 100,
+    "label": "Yes"
+   },
+   {
+    "_id": "5d866d6a93765d6778736163",
+    "val": 40,
+    "label": "Not Yet"
+   },
+   {
+    "_id": "5d866d6a93765d6778736162",
+    "val": 0,
+    "label": "No"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 29,
+  "name": "Letter Grading",
+  "shortName": "Letter Grading",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6a93765d6778736173",
+    "val": 100,
+    "label": "A"
+   },
+   {
+    "_id": "5d866d6a93765d6778736172",
+    "val": 91,
+    "label": "A-"
+   },
+   {
+    "_id": "5d866d6a93765d6778736171",
+    "val": 83,
+    "label": "B+"
+   },
+   {
+    "_id": "5d866d6a93765d6778736170",
+    "val": 75,
+    "label": "B"
+   },
+   {
+    "_id": "5d866d6a93765d677873616f",
+    "val": 67,
+    "label": "B-"
+   },
+   {
+    "_id": "5d866d6a93765d677873616e",
+    "val": 58,
+    "label": "C+"
+   },
+   {
+    "_id": "5d866d6a93765d677873616d",
+    "val": 50,
+    "label": "C"
+   },
+   {
+    "_id": "5d866d6a93765d677873616c",
+    "val": 42,
+    "label": "C-"
+   },
+   {
+    "_id": "5d866d6a93765d677873616b",
+    "val": 33,
+    "label": "D+"
+   },
+   {
+    "_id": "5d866d6a93765d677873616a",
+    "val": 25,
+    "label": "D"
+   },
+   {
+    "_id": "5d866d6a93765d6778736169",
+    "val": 16,
+    "label": "D-"
+   },
+   {
+    "_id": "5d866d6a93765d6778736168",
+    "val": 0,
+    "label": "F"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 31,
+  "name": "Essential, Recommended, No Rec, Avoid",
+  "shortName": "Essential <--> Avoid",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6a93765d677873617e",
+    "val": 100,
+    "label": "Essential"
+   },
+   {
+    "_id": "5d866d6a93765d677873617d",
+    "val": 80,
+    "label": "Recommended"
+   },
+   {
+    "_id": "5d866d6a93765d677873617c",
+    "val": 75,
+    "label": "No Recommendation / Blank"
+   },
+   {
+    "_id": "5d866d6a93765d677873617b",
+    "val": 0,
+    "label": "Avoid"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 32,
+  "name": "Buy, Wait for Sale, Rent, Never Touch",
+  "shortName": "Buy/Wait/Rent/Avoid",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6a93765d6778736189",
+    "val": 100,
+    "label": "Buy"
+   },
+   {
+    "_id": "5d866d6a93765d6778736188",
+    "val": 75,
+    "label": "Wait for Sale"
+   },
+   {
+    "_id": "5d866d6a93765d6778736187",
+    "val": 50,
+    "label": "Rent"
+   },
+   {
+    "_id": "5d866d6a93765d6778736186",
+    "val": 0,
+    "label": "Never Touch"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 33,
+  "name": "Buy, Wait, Don't Buy",
+  "shortName": "Buy/Wait/Don't Buy",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6b93765d6778736193",
+    "val": 100,
+    "label": "Buy"
+   },
+   {
+    "_id": "5d866d6b93765d6778736192",
+    "val": 70,
+    "label": "Wait"
+   },
+   {
+    "_id": "5d866d6b93765d6778736191",
+    "val": 0,
+    "label": "Don't Buy"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 34,
+  "name": "Loved, Liked, Meh, Hated, etc.",
+  "shortName": "Loved < Liked < Hated",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6b93765d67787361a1",
+    "val": 95,
+    "label": "Mind-blown"
+   },
+   {
+    "_id": "5d866d6b93765d67787361a0",
+    "val": 100,
+    "label": "Loved"
+   },
+   {
+    "_id": "5d866d6b93765d677873619f",
+    "val": 80,
+    "label": "Liked-a-lot"
+   },
+   {
+    "_id": "5d866d6b93765d677873619e",
+    "val": 75,
+    "label": "Liked"
+   },
+   {
+    "_id": "5d866d6b93765d677873619d",
+    "val": 65,
+    "label": "Mixed"
+   },
+   {
+    "_id": "5d866d6b93765d677873619c",
+    "val": 60,
+    "label": "Meh"
+   },
+   {
+    "_id": "5d866d6b93765d677873619b",
+    "val": 40,
+    "label": "Disliked"
+   },
+   {
+    "_id": "5d866d6b93765d677873619a",
+    "val": 0,
+    "label": "Hated"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 35,
+  "name": "Masterpiece, Worth your time, ???, Caution, Avoid",
+  "shortName": "Masterpiece/Worth/???/Caution/Avoid",
+  "scoreDisplay": null,
+  "isNumeric": false,
+  "isSelect": true,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": [
+   {
+    "_id": "5d866d6b93765d67787361ad",
+    "val": 100,
+    "label": "Masterpiece"
+   },
+   {
+    "_id": "5d866d6b93765d67787361ac",
+    "val": 80,
+    "label": "Worth your time"
+   },
+   {
+    "_id": "5d866d6b93765d67787361ab",
+    "val": 60,
+    "label": "Ehhh"
+   },
+   {
+    "_id": "5d866d6b93765d67787361aa",
+    "val": 50,
+    "label": "Caution"
+   },
+   {
+    "_id": "5d866d6b93765d67787361a9",
+    "val": 10,
+    "label": "Avoid"
+   }
+  ],
+  "__v": 0
+ },
+ {
+  "id": 30,
+  "name": "No Verdict",
+  "shortName": "No Verdict",
+  "scoreDisplay": " / 100",
+  "isNumeric": false,
+  "isSelect": false,
+  "isStars": false,
+  "numDecimals": null,
+  "base": null,
+  "options": null,
+  "__v": 0
+ }
+]

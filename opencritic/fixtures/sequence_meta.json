@@ -1,0 +1,1824 @@
+{
+ "metrics": {
+  "mighty": 96,
+  "strong": 189,
+  "fair": 87,
+  "weak": 26,
+  "notRated": 27,
+  "notOnOpenCritic": 109,
+  "recent": 0,
+  "numGames": 538
+ },
+ "key": "xbox-game-pass-ultimate",
+ "categories": [
+  "Xbox Game Pass"
+ ],
+ "data": [
+  {
+   "_id": "5daba512c73e8e6351c09a5d",
+   "id": 831,
+   "name": "#IDARB"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a5c",
+   "id": 4462,
+   "name": "Absolver"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a5b",
+   "id": 1607,
+   "name": "Abzu"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a5a",
+   "id": 5451,
+   "name": "Age of Empires: Definitive Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a59",
+   "id": 4510,
+   "name": "Agents of Mayhem"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a58",
+   "id": 195,
+   "name": "Alien: Isolation"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a57",
+   "id": 7336,
+   "name": "APE OUT "
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a56",
+   "id": 5822,
+   "name": "Apocalipsis"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a55",
+   "id": 4657,
+   "name": "Ark: Survival Evolved"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a54",
+   "id": 6979,
+   "name": "Ashen"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a53",
+   "id": 5184,
+   "name": "Ashes Cricket"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a52",
+   "id": 7268,
+   "name": "Astroneer"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a51",
+   "id": 6515,
+   "name": "Bad North"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a50",
+   "id": 5916,
+   "name": "The Banner Saga 3"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a4f",
+   "id": 2882,
+   "name": "Batman: Return to Arkham"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a4e",
+   "id": 1383,
+   "name": "Batman: Arkham Knight"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a4d",
+   "id": 4905,
+   "name": "Battle Chasers: Nightwar"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a4c",
+   "id": 2628,
+   "name": "Battlefleet Gothic: Armada"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a4b",
+   "id": 7021,
+   "name": "BELOW"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a4a",
+   "id": 2236,
+   "name": "Black Desert Online"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a49",
+   "id": 8147,
+   "name": "Blair Witch"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a48",
+   "id": 7928,
+   "name": "Blazing Chrome"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a47",
+   "id": 7710,
+   "name": "Bloodstained: Ritual of the Night"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a46",
+   "id": 5067,
+   "name": "Bomber Crew"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a45",
+   "id": 7023,
+   "name": "Book of Demons"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a44",
+   "id": 942,
+   "name": "Borderlands: The Pre-Sequel"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a43",
+   "id": 77,
+   "name": "Borderlands: The Handsome Collection"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a42",
+   "id": 5332,
+   "name": "Bridge Constructor Portal"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a41",
+   "id": 1680,
+   "name": "Broforce"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a40",
+   "id": 1867,
+   "name": "Brothers: A Tale of Two Sons"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a3f",
+   "id": 1260,
+   "name": "Cities: Skylines"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a3e",
+   "id": 3258,
+   "name": "Clustertruck"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a3d",
+   "id": 176,
+   "name": "Costume Quest 2"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a3c",
+   "id": 1515,
+   "name": "Crackdown 3"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a3b",
+   "id": 8215,
+   "name": "Creature in the Well"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a3a",
+   "id": 6635,
+   "name": "CrossCode"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a39",
+   "id": 1739,
+   "name": "Darksiders II: Deathinitive Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a38",
+   "id": 3460,
+   "name": "Darksiders: Warmastered Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a37",
+   "id": 4295,
+   "name": "de Blob - 2017 Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a36",
+   "id": 2844,
+   "name": "Dead by Daylight"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a35",
+   "id": 6386,
+   "name": "Dead Cells"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a34",
+   "id": 2840,
+   "name": "Dead Rising 4"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a33",
+   "id": 7743,
+   "name": "Descenders"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a32",
+   "id": 1812,
+   "name": "Deus Ex: Mankind Divided"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a31",
+   "id": 6629,
+   "name": "Devil May Cry 5"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a30",
+   "id": 6084,
+   "name": "Die for Valhalla!"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a2f",
+   "id": 3871,
+   "name": "DiRT 4"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a2e",
+   "id": 7087,
+   "name": "Dirt Rally 2.0"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a2d",
+   "id": 2843,
+   "name": "Dishonored 2"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a2c",
+   "id": 5127,
+   "name": "Disneyland Adventures"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a2b",
+   "id": 1572,
+   "name": "Doom"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a2a",
+   "id": 1966,
+   "name": "Downwell"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a29",
+   "id": 1678,
+   "name": "Enter the Gungeon"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a28",
+   "id": 4380,
+   "name": "Everspace"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a27",
+   "id": 6211,
+   "name": "F1 2018"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a26",
+   "id": 1508,
+   "name": "Fallout 4"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a25",
+   "id": 3008,
+   "name": "Farming Simulator 17"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a24",
+   "id": 8366,
+   "name": "Felix the Reaper"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a23",
+   "id": 276,
+   "name": "Fez"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a22",
+   "id": 6805,
+   "name": "Football Manager 2019 "
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a21",
+   "id": 5927,
+   "name": "For the King"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a20",
+   "id": 1573,
+   "name": "Forza Horizon 4"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a1f",
+   "id": 5414,
+   "name": "Full Metal Furies"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a1e",
+   "id": 7402,
+   "name": "Gears 5"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a1d",
+   "id": 1502,
+   "name": "Gears of War: Ultimate Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a1c",
+   "id": 335,
+   "name": "Goat Simulator"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a1b",
+   "id": 3454,
+   "name": "GoNNER"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a1a",
+   "id": 6512,
+   "name": "Guacamelee! 2"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a19",
+   "id": 241,
+   "name": "Guacamelee! Super Turbo Championship Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a18",
+   "id": 1513,
+   "name": "Halo 5: Guardians"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a17",
+   "id": 2841,
+   "name": "Halo Wars 2"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a16",
+   "id": 4973,
+   "name": "Halo Wars 2: Complete Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a15",
+   "id": 3746,
+   "name": "Halo Wars: Definitive Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a14",
+   "id": 838,
+   "name": "Halo: The Master Chief Collection"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a13",
+   "id": 1437,
+   "name": "Hatoful Boyfriend"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a12",
+   "id": 3035,
+   "name": "Headlander"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a11",
+   "id": 4516,
+   "name": "Hellblade: Senua's Sacrifice"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a10",
+   "id": 4664,
+   "name": "Hello Neighbor"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a0f",
+   "id": 4002,
+   "name": "Hollow Knight"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a0e",
+   "id": 6664,
+   "name": "Hollow Knight: Voidheart Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a0c",
+   "id": 2906,
+   "name": "Human: Fall Flat"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a0b",
+   "id": 7627,
+   "name": "Imperator: Rome"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a0a",
+   "id": 5606,
+   "name": "Into The Breach"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a09",
+   "id": 7160,
+   "name": "JUMP FORCE"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a08",
+   "id": 1528,
+   "name": "Just Cause 3"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a07",
+   "id": 6220,
+   "name": "Just Cause 4"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a06",
+   "id": 843,
+   "name": "Killer Instinct"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a05",
+   "id": 1561,
+   "name": "Kingdom Come: Deliverance"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a04",
+   "id": 7022,
+   "name": "Kingdom Two Crowns"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a03",
+   "id": 4629,
+   "name": "Kingsway"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a02",
+   "id": 166,
+   "name": "LEGO Batman 3: Beyond Gotham"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a01",
+   "id": 4129,
+   "name": "LEGO City: Undercover"
+  },
+  {
+   "_id": "5daba512c73e8e6351c09a00",
+   "id": 3646,
+   "name": "Lego Worlds"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099ff",
+   "id": 4843,
+   "name": "Lichtspeer: Double Speer Edition"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099fe",
+   "id": 1995,
+   "name": "Life is Strange - Season One"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099fd",
+   "id": 5331,
+   "name": "Life is Strange: Before the Storm"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099fc",
+   "id": 6648,
+   "name": "Life is Strange 2 - The Complete Season"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099fb",
+   "id": 4499,
+   "name": "Marvel Vs. Capcom: Infinite"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099fa",
+   "id": 1450,
+   "name": "Max: The Curse of Brotherhood"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f9",
+   "id": 4459,
+   "name": "Mega Man Legacy Collection 2"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f8",
+   "id": 1887,
+   "name": "Metal Gear Solid V: The Phantom Pain"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f7",
+   "id": 5410,
+   "name": "Metal Gear Survive"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f6",
+   "id": 957,
+   "name": "Metro: 2033 Redux"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f5",
+   "id": 6847,
+   "name": "Metro Exodus"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f4",
+   "id": 956,
+   "name": "Metro: Last Light Redux"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f3",
+   "id": 201,
+   "name": "Middle-earth: Shadow of Mordor"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f2",
+   "id": 4213,
+   "name": "Middle-earth: Shadow of War"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f1",
+   "id": 2583,
+   "name": "Momodora: Reverie Under the Moonlight"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099f0",
+   "id": 4903,
+   "name": "Monster Hunter World"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099ef",
+   "id": 6087,
+   "name": "Moonlighter"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099ee",
+   "id": 43,
+   "name": "Mortal Kombat X"
+  },
+  {
+   "_id": "5daba512c73e8e6351c099ed",
+   "id": 5094,
+   "name": "Spintires: MudRunner"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09acf",
+   "id": 6953,
+   "name": "Mutant Year Zero: Road to Eden"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ace",
+   "id": 4419,
+   "name": "MXGP3 - The Official Motocross Videogame"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09acd",
+   "id": 7174,
+   "name": "My Time at Portia"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09acc",
+   "id": 2661,
+   "name": "Neon Chrome"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09acb",
+   "id": 7988,
+   "name": "Night Call"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aca",
+   "id": 4363,
+   "name": "Old Man’s Journey"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac9",
+   "id": 7507,
+   "name": "Operencia: The Stolen Sun"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac8",
+   "id": 5287,
+   "name": "Opus Magnum"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac7",
+   "id": 1658,
+   "name": "Ori and the Blind Forest: Definitive Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac6",
+   "id": 3575,
+   "name": "Orwell - Keeping an Eye on You"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac5",
+   "id": 7815,
+   "name": "Outer Wilds"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac4",
+   "id": 2142,
+   "name": "Oxenfree"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac3",
+   "id": 8092,
+   "name": "Pandemic: The Board Game"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac2",
+   "id": 356,
+   "name": "Payday 2: Crimewave Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac1",
+   "id": 4829,
+   "name": "PlayerUnknown's Battlegrounds"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ac0",
+   "id": 2144,
+   "name": "Pony Island"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09abf",
+   "id": 3589,
+   "name": "Prey"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09abe",
+   "id": 6387,
+   "name": "Pro Evolution Soccer 2019"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09abd",
+   "id": 7348,
+   "name": "Pumped BMX Pro"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09abc",
+   "id": 1519,
+   "name": "Quantum Break"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09abb",
+   "id": 1843,
+   "name": "Rare Replay"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aba",
+   "id": 1651,
+   "name": "ReCore"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab9",
+   "id": 3227,
+   "name": "Resident Evil 4 HD (Console Edition)"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab8",
+   "id": 2941,
+   "name": "Resident Evil 5 Remaster"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab7",
+   "id": 4780,
+   "name": "Resident Evil: Revelations (HD Console Edition)"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab6",
+   "id": 4151,
+   "name": "RiME"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab5",
+   "id": 3036,
+   "name": "Riptide GP: Renegade"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab4",
+   "id": 3772,
+   "name": "Rise & Shine"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab3",
+   "id": 1517,
+   "name": "Rise of the Tomb Raider"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab2",
+   "id": 7904,
+   "name": "Riverbond"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab1",
+   "id": 1055,
+   "name": "Rocket League"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09ab0",
+   "id": 4762,
+   "name": "Ruiner"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aaf",
+   "id": 5104,
+   "name": "Rush: A Disney-Pixar Adventure"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aae",
+   "id": 1402,
+   "name": "Ryse: Son of Rome"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aad",
+   "id": 129,
+   "name": "Saints Row IV: Re-Elected"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aac",
+   "id": 2373,
+   "name": "Samorost 3"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aab",
+   "id": 5531,
+   "name": "Samurai Shodown II"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aaa",
+   "id": 483,
+   "name": "ScreamRide"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa9",
+   "id": 5412,
+   "name": "Sea of Thieves"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa8",
+   "id": 6015,
+   "name": "Shadow of the Tomb Raider"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa7",
+   "id": 3310,
+   "name": "Shadow Tactics: Blades of the Shogun"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa6",
+   "id": 1630,
+   "name": "Shadow Warrior 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa5",
+   "id": 6505,
+   "name": "Shenmue 1 & 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa4",
+   "id": 7670,
+   "name": "Silence: The Whispered World 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa3",
+   "id": 7207,
+   "name": "Slay The Spire"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa2",
+   "id": 6168,
+   "name": "Smoke and Sacrifice"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa1",
+   "id": 4113,
+   "name": "Snake Pass"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09aa0",
+   "id": 3497,
+   "name": "Sniper Elite 4"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a9f",
+   "id": 6702,
+   "name": "Space Hulk: Tactics"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a9e",
+   "id": 5803,
+   "name": "State of Decay 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a9d",
+   "id": 7910,
+   "name": "State of Decay 2: Heartland"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a9c",
+   "id": 334,
+   "name": "State of Decay: Year One Survival Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a9b",
+   "id": 51,
+   "name": "Stealth Inc 2: A Game of Clones"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a9a",
+   "id": 4823,
+   "name": "SteamWorld Dig 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a99",
+   "id": 1713,
+   "name": "Stellaris"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a98",
+   "id": 7332,
+   "name": "Stellaris: Console Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a97",
+   "id": 6212,
+   "name": "Strange Brigade"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a96",
+   "id": 840,
+   "name": "Sunset Overdrive"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a95",
+   "id": 5032,
+   "name": "Super Lucky's Tale"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a94",
+   "id": 2248,
+   "name": "SUPERHOT"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a93",
+   "id": 8088,
+   "name": "Supermarket Shriek"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a92",
+   "id": 5735,
+   "name": "Surviving Mars"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a91",
+   "id": 1716,
+   "name": "Tacoma"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a90",
+   "id": 148,
+   "name": "Terraria"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a8f",
+   "id": 543,
+   "name": "The Banner Saga"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a8e",
+   "id": 1631,
+   "name": "The Banner Saga 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a8d",
+   "id": 8271,
+   "name": "The Bard's Tale IV: Director's Cut"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a8c",
+   "id": 8073,
+   "name": "The Bard's Tale Trilogy"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a8b",
+   "id": 607,
+   "name": "The Book of Unwritten Tales 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a8a",
+   "id": 2212,
+   "name": "The Elder Scrolls Online"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a89",
+   "id": 72,
+   "name": "The Escapists"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a88",
+   "id": 2247,
+   "name": "The Flame in the Flood"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a87",
+   "id": 6580,
+   "name": "The Gardens Between"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a86",
+   "id": 4417,
+   "name": "The Golf Club 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a85",
+   "id": 1953,
+   "name": "The Jackbox Party Pack 2"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a84",
+   "id": 2663,
+   "name": "The Last Door: Season 2 - Collector's Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a83",
+   "id": 6521,
+   "name": "The Messenger"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a82",
+   "id": 7413,
+   "name": "The Outer Worlds"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a81",
+   "id": 7293,
+   "name": "The Stillness of The Wind"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a80",
+   "id": 1662,
+   "name": "The Surge"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a7f",
+   "id": 3034,
+   "name": "The Turing Test"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a7e",
+   "id": 3715,
+   "name": "The Walking Dead:  A New Frontier - The Complete Third Season"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a7d",
+   "id": 2625,
+   "name": "The Walking Dead: Michonne - Season One"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a7c",
+   "id": 186,
+   "name": "The Walking Dead: Season Two - A Telltale Games Series"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a7b",
+   "id": 3974,
+   "name": "theHunter: Call of the Wild"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a7a",
+   "id": 6384,
+   "name": "Thief of Thieves: Season One"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a79",
+   "id": 4127,
+   "name": "Thimbleweed Park"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a78",
+   "id": 3413,
+   "name": "Thumper"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a77",
+   "id": 6637,
+   "name": "Timespinner"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a76",
+   "id": 3359,
+   "name": "Titan Quest: Anniversary Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a75",
+   "id": 291,
+   "name": "Tomb Raider: Definitive Edition"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a74",
+   "id": 3728,
+   "name": "Torment: Tides of Numenera"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a73",
+   "id": 3571,
+   "name": "Tyranny"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a72",
+   "id": 6439,
+   "name": "Unavowed"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a71",
+   "id": 1907,
+   "name": "Undertale"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a70",
+   "id": 1273,
+   "name": "Valkyria Chronicles"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a6f",
+   "id": 6160,
+   "name": "Vampyr"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a6e",
+   "id": 7775,
+   "name": "Void Bastards"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a6d",
+   "id": 6658,
+   "name": "Wandersong"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a6c",
+   "id": 7206,
+   "name": "Wargroove"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a6b",
+   "id": 1553,
+   "name": "Wasteland 2: Director's Cut"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a6a",
+   "id": 1546,
+   "name": "We Happy Few"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a69",
+   "id": 4658,
+   "name": "West of Loathing"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a68",
+   "id": 900,
+   "name": "Westerado: Double Barreled"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a67",
+   "id": 4132,
+   "name": "What Remains of Edith Finch"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a66",
+   "id": 5627,
+   "name": "Where the Water Tastes Like Wine"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a65",
+   "id": 5988,
+   "name": "Wizard of Legend"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a64",
+   "id": 255,
+   "name": "Wolfenstein: The New Order"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a63",
+   "id": 4490,
+   "name": "Wolfenstein 2: The New Colossus"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a62",
+   "id": 7513,
+   "name": "World War Z"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a61",
+   "id": 3012,
+   "name": "Worms W.M.D"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a60",
+   "id": 6156,
+   "name": "Yoku's Island Express"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a5f",
+   "id": 3677,
+   "name": "Yooka Laylee"
+  },
+  {
+   "_id": "5daba827c73e8e6351c09a5e",
+   "id": 5102,
+   "name": "Zoo Tycoon: Ultimate Animal Collection"
+  },
+  {
+   "_id": "5dabaac3c73e8e6351c09c3e",
+   "id": 8450,
+   "name": "Age of Empires II: Definitive Edition"
+  },
+  {
+   "_id": "5dabad17c73e8e6351c09d47",
+   "id": 2570,
+   "name": "Gears of War 4"
+  },
+  {
+   "_id": "5dabad17c73e8e6351c09d46",
+   "id": 6826,
+   "name": "GRIP: Combat Racing"
+  }
+ ],
+ "gamesNotOnOpenCritic": [
+  {
+   "_id": "6764a865a4d0b028ec3fc6d6",
+   "name": "For The King II",
+   "releaseDate": "2023-11-02T07:00:00.000Z",
+   "firstReleaseDate": "2023-11-02T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6d7",
+   "name": "Overthrown (Game Preview)",
+   "releaseDate": "2024-12-05T08:00:00.000Z",
+   "firstReleaseDate": "2024-12-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6d8",
+   "name": "Starcraft II: Campaign Collection",
+   "releaseDate": "2024-11-05T08:00:00.000Z",
+   "firstReleaseDate": "2024-11-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6d9",
+   "name": "Populous: The Beginning",
+   "releaseDate": "1998-11-30T08:00:00.000Z",
+   "firstReleaseDate": "1998-11-30T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6da",
+   "name": "SimCity 3000: Unlimited",
+   "releaseDate": "2000-05-16T07:00:00.000Z",
+   "firstReleaseDate": "2000-05-16T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6db",
+   "name": "Sid Meier's Alpha Centauri",
+   "releaseDate": "1999-02-12T08:00:00.000Z",
+   "firstReleaseDate": "1999-02-12T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6dc",
+   "name": "Limbo",
+   "releaseDate": "2010-07-21T07:00:00.000Z",
+   "firstReleaseDate": "2010-07-21T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6dd",
+   "name": "Common'hood",
+   "releaseDate": "2022-11-10T08:00:00.000Z",
+   "firstReleaseDate": "2022-11-10T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6de",
+   "name": "The Cave",
+   "releaseDate": "2013-11-22T08:00:00.000Z",
+   "firstReleaseDate": "2013-11-22T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6df",
+   "name": "Stacking",
+   "releaseDate": "2011-02-08T08:00:00.000Z",
+   "firstReleaseDate": "2011-02-08T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e0",
+   "name": "Iron Brigade",
+   "releaseDate": "2011-06-22T07:00:00.000Z",
+   "firstReleaseDate": "2011-06-22T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e1",
+   "name": "Merge & Blade",
+   "releaseDate": "2023-02-28T08:00:00.000Z",
+   "firstReleaseDate": "2023-02-28T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e2",
+   "name": "GoldenEye 007 (2023)",
+   "releaseDate": "2023-01-27T08:00:00.000Z",
+   "firstReleaseDate": "2023-01-27T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e3",
+   "name": "Teamfight Tactics",
+   "releaseDate": "2019-06-29T07:00:00.000Z",
+   "firstReleaseDate": "2019-06-29T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e4",
+   "name": "The Elder Scrolls Adventures: Redguard",
+   "releaseDate": "1998-10-31T08:00:00.000Z",
+   "firstReleaseDate": "1998-10-31T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e5",
+   "name": "Quake 4",
+   "releaseDate": "2005-10-18T07:00:00.000Z",
+   "firstReleaseDate": "2005-10-18T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e6",
+   "name": "An Elder Scrolls Legend: Battlespire",
+   "releaseDate": "1997-11-30T08:00:00.000Z",
+   "firstReleaseDate": "1997-11-30T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e7",
+   "name": "Wolfenstein 3D",
+   "releaseDate": "1992-05-05T07:00:00.000Z",
+   "firstReleaseDate": "1992-05-05T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e8",
+   "name": "Fortnite",
+   "releaseDate": "2017-07-25T07:00:00.000Z",
+   "firstReleaseDate": "2017-07-25T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6e9",
+   "name": "Peggle Nights",
+   "releaseDate": "2008-09-17T07:00:00.000Z",
+   "firstReleaseDate": "2008-09-17T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6ea",
+   "name": "Syndicate (1993)",
+   "releaseDate": "1993-06-09T07:00:00.000Z",
+   "firstReleaseDate": "1993-06-09T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6eb",
+   "name": "Quake III: Arena",
+   "releaseDate": "1999-12-02T08:00:00.000Z",
+   "firstReleaseDate": "1999-12-02T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6ec",
+   "name": "Ultima Underworld 1",
+   "releaseDate": "1992-03-27T08:00:00.000Z",
+   "firstReleaseDate": "1992-03-27T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6ed",
+   "name": "Ultima Underworld 2",
+   "releaseDate": "1993-01-01T08:00:00.000Z",
+   "firstReleaseDate": "1993-01-01T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6ee",
+   "name": "Skate",
+   "releaseDate": "2007-09-14T07:00:00.000Z",
+   "firstReleaseDate": "2007-09-14T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6ef",
+   "name": "Blinx: The Time Sweeper",
+   "releaseDate": "2002-10-07T07:00:00.000Z",
+   "firstReleaseDate": "2002-10-07T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f0",
+   "name": "Crimson Skies: High Road to Revenge",
+   "releaseDate": "2003-10-21T07:00:00.000Z",
+   "firstReleaseDate": "2003-10-21T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f1",
+   "name": "Microsoft Solitaire Collection: Premium Edition",
+   "releaseDate": "2012-10-26T07:00:00.000Z",
+   "firstReleaseDate": "2012-10-26T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f2",
+   "name": "Fallout",
+   "releaseDate": "1997-09-30T07:00:00.000Z",
+   "firstReleaseDate": "1997-09-30T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f3",
+   "name": "Fallout 2",
+   "releaseDate": "1998-09-30T07:00:00.000Z",
+   "firstReleaseDate": "1998-09-30T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f4",
+   "name": "Fallout Tactics: Brotherhood of Steel",
+   "releaseDate": "2001-03-14T08:00:00.000Z",
+   "firstReleaseDate": "2001-03-14T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f5",
+   "name": "Dungeon Keeper 2",
+   "releaseDate": "1999-06-30T07:00:00.000Z",
+   "firstReleaseDate": "1999-06-30T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f6",
+   "name": "Dungeon Keeper",
+   "releaseDate": "1997-06-26T07:00:00.000Z",
+   "firstReleaseDate": "1997-06-26T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f7",
+   "name": "Need for Speed: Most Wanted",
+   "releaseDate": "2012-10-30T07:00:00.000Z",
+   "firstReleaseDate": "2012-10-30T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f8",
+   "name": "SimCity 4: Deluxe Party Edition",
+   "releaseDate": "2003-01-12T08:00:00.000Z",
+   "firstReleaseDate": "2003-01-12T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6f9",
+   "name": "Populous II: Trials of the Olympian Gods",
+   "releaseDate": "1991-08-31T07:00:00.000Z",
+   "firstReleaseDate": "1991-08-31T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6fa",
+   "name": "SimCity 2000: Special Edition",
+   "releaseDate": "1995-02-07T08:00:00.000Z",
+   "firstReleaseDate": "1995-02-07T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6fb",
+   "name": "Populous",
+   "releaseDate": "1989-01-01T08:00:00.000Z",
+   "firstReleaseDate": "1989-01-01T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6fc",
+   "name": "SimCity: Complete Edition",
+   "releaseDate": "2013-03-05T08:00:00.000Z",
+   "firstReleaseDate": "2013-03-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6fd",
+   "name": "Medal of Honor: Allied Assault - War Chest",
+   "releaseDate": "2002-01-20T08:00:00.000Z",
+   "firstReleaseDate": "2002-01-20T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6fe",
+   "name": "The Sims 3",
+   "releaseDate": "2009-06-02T07:00:00.000Z",
+   "firstReleaseDate": "2009-06-02T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc6ff",
+   "name": "The Saboteur",
+   "releaseDate": "2009-12-08T08:00:00.000Z",
+   "firstReleaseDate": "2009-12-08T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc700",
+   "name": "DOOM 3",
+   "releaseDate": "2004-08-03T07:00:00.000Z",
+   "firstReleaseDate": "2004-08-03T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc701",
+   "name": "The Elder Scrolls III: Morrowind",
+   "releaseDate": "2002-05-01T07:00:00.000Z",
+   "firstReleaseDate": "2002-05-01T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc702",
+   "name": "Halo 4",
+   "releaseDate": "2012-11-05T08:00:00.000Z",
+   "firstReleaseDate": "2012-11-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc703",
+   "name": "Army of Two",
+   "releaseDate": "2008-03-04T08:00:00.000Z",
+   "firstReleaseDate": "2008-03-04T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc704",
+   "name": "Battlefield 1: Revolution",
+   "releaseDate": "2016-10-21T07:00:00.000Z",
+   "firstReleaseDate": "2016-10-21T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc705",
+   "name": "Alice: Madness Returns",
+   "releaseDate": "2011-06-14T07:00:00.000Z",
+   "firstReleaseDate": "2011-06-14T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc706",
+   "name": "Battlefield 3: Premium Edition",
+   "releaseDate": "2011-10-25T07:00:00.000Z",
+   "firstReleaseDate": "2011-10-25T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc707",
+   "name": "BLACK",
+   "releaseDate": "2006-02-28T08:00:00.000Z",
+   "firstReleaseDate": "2006-02-28T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc708",
+   "name": "Bejeweled 2",
+   "releaseDate": "2004-11-05T08:00:00.000Z",
+   "firstReleaseDate": "2004-11-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc709",
+   "name": "Bejeweled 3",
+   "releaseDate": "2010-12-07T08:00:00.000Z",
+   "firstReleaseDate": "2010-12-07T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc70a",
+   "name": "Crysis",
+   "releaseDate": "2007-11-13T08:00:00.000Z",
+   "firstReleaseDate": "2007-11-13T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc70b",
+   "name": "Dante's Inferno",
+   "releaseDate": "2010-02-09T08:00:00.000Z",
+   "firstReleaseDate": "2010-02-09T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc70c",
+   "name": "Dead Space 2",
+   "releaseDate": "2011-01-25T08:00:00.000Z",
+   "firstReleaseDate": "2011-01-25T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc70d",
+   "name": "Dragon Age II",
+   "releaseDate": "2011-03-08T08:00:00.000Z",
+   "firstReleaseDate": "2011-03-08T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc70e",
+   "name": "Dead Space: Ignition",
+   "releaseDate": "2010-10-12T07:00:00.000Z",
+   "firstReleaseDate": "2010-10-12T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc70f",
+   "name": "Dragon Age: Origins - Ultimate Edition",
+   "releaseDate": "2009-11-03T08:00:00.000Z",
+   "firstReleaseDate": "2009-11-03T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc710",
+   "name": "Feeding Frenzy",
+   "releaseDate": "2006-03-15T08:00:00.000Z",
+   "firstReleaseDate": "2006-03-15T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc711",
+   "name": "Feeding Frenzy 2: Shipwreck Showdown",
+   "releaseDate": "2006-02-06T08:00:00.000Z",
+   "firstReleaseDate": "2006-02-06T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc712",
+   "name": "Dead Space 3",
+   "releaseDate": "2013-02-05T08:00:00.000Z",
+   "firstReleaseDate": "2013-02-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc713",
+   "name": "Fight Night: Champion",
+   "releaseDate": "2011-03-01T08:00:00.000Z",
+   "firstReleaseDate": "2011-03-01T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc714",
+   "name": "Heavy Weapon",
+   "releaseDate": "2007-01-17T08:00:00.000Z",
+   "firstReleaseDate": "2007-01-17T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc715",
+   "name": "Mass Effect 2: Digital Deluxe Edition",
+   "releaseDate": "2010-01-26T08:00:00.000Z",
+   "firstReleaseDate": "2010-01-26T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc716",
+   "name": "Mass Effect 3: N7 Digital Deluxe Edition",
+   "releaseDate": "2012-03-06T08:00:00.000Z",
+   "firstReleaseDate": "2012-03-06T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc717",
+   "name": "Mirror's Edge",
+   "releaseDate": "2010-04-01T07:00:00.000Z",
+   "firstReleaseDate": "2010-04-01T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc718",
+   "name": "Medal of Honor: Airborne",
+   "releaseDate": "2007-09-04T07:00:00.000Z",
+   "firstReleaseDate": "2007-09-04T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc719",
+   "name": "Need for Speed: Deluxe Edition",
+   "releaseDate": "2015-11-03T08:00:00.000Z",
+   "firstReleaseDate": "2015-11-03T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc71a",
+   "name": "Peggle",
+   "releaseDate": "2007-04-11T07:00:00.000Z",
+   "firstReleaseDate": "2007-04-11T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc71b",
+   "name": "Plants vs. Zombies: Game of the Year Edition",
+   "releaseDate": "2009-05-05T07:00:00.000Z",
+   "firstReleaseDate": "2009-05-05T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc71c",
+   "name": "SSX",
+   "releaseDate": "2012-02-28T08:00:00.000Z",
+   "firstReleaseDate": "2012-02-28T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc71d",
+   "name": "Skate 3",
+   "releaseDate": "2010-05-11T07:00:00.000Z",
+   "firstReleaseDate": "2010-05-11T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc71e",
+   "name": "Zuma",
+   "releaseDate": "2003-12-12T08:00:00.000Z",
+   "firstReleaseDate": "2003-12-12T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc71f",
+   "name": "Brütal Legend",
+   "releaseDate": "2009-10-13T07:00:00.000Z",
+   "firstReleaseDate": "2009-10-13T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc720",
+   "name": "Zuma's Revenge!",
+   "releaseDate": "2009-09-15T07:00:00.000Z",
+   "firstReleaseDate": "2009-09-15T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc721",
+   "name": "Halo 3: ODST",
+   "releaseDate": "2009-09-22T07:00:00.000Z",
+   "firstReleaseDate": "2009-09-22T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc722",
+   "name": "Halo 3",
+   "releaseDate": "2007-09-25T07:00:00.000Z",
+   "firstReleaseDate": "2007-09-25T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc723",
+   "name": "Halo 2: Anniversary",
+   "releaseDate": "2004-11-09T08:00:00.000Z",
+   "firstReleaseDate": "2004-11-09T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc724",
+   "name": "Halo: Combat Evolved - Anniversary",
+   "releaseDate": "2001-11-15T08:00:00.000Z",
+   "firstReleaseDate": "2001-11-15T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc725",
+   "name": "Halo: Reach",
+   "releaseDate": "2010-09-14T07:00:00.000Z",
+   "firstReleaseDate": "2010-09-14T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc726",
+   "name": "Fallout: New Vegas - Ultimate Edition",
+   "releaseDate": "2010-10-19T07:00:00.000Z",
+   "firstReleaseDate": "2010-10-19T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc727",
+   "name": "Killer Instinct Classic",
+   "releaseDate": "1994-10-28T07:00:00.000Z",
+   "firstReleaseDate": "1994-10-28T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc728",
+   "name": "Killer Instinct 2 Classic",
+   "releaseDate": "2013-11-22T08:00:00.000Z",
+   "firstReleaseDate": "2013-11-22T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc729",
+   "name": "Perfect Dark",
+   "releaseDate": "2000-08-28T07:00:00.000Z",
+   "firstReleaseDate": "2000-08-28T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc72a",
+   "name": "Killer Instinct (2013): Anniversary Edition",
+   "releaseDate": "2013-11-22T08:00:00.000Z",
+   "firstReleaseDate": "2013-11-22T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc72b",
+   "name": "Halo: Spartan Strike",
+   "releaseDate": "2015-04-16T07:00:00.000Z",
+   "firstReleaseDate": "2015-04-16T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc72c",
+   "name": "Rise of Nations: Extended Edition",
+   "releaseDate": "2003-05-20T07:00:00.000Z",
+   "firstReleaseDate": "2003-05-20T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc72d",
+   "name": "The Walking Dead: The Complete First Season",
+   "releaseDate": "2017-12-05T08:00:00.000Z",
+   "firstReleaseDate": "2017-12-05T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc72e",
+   "name": "RAGE",
+   "releaseDate": "2011-10-04T07:00:00.000Z",
+   "firstReleaseDate": "2011-10-04T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc72f",
+   "name": "Fallout 3: Game of the Year Edition",
+   "releaseDate": "2008-10-28T07:00:00.000Z",
+   "firstReleaseDate": "2008-10-28T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc730",
+   "name": "The Elder Scrolls IV: Oblivion",
+   "releaseDate": "2006-03-20T08:00:00.000Z",
+   "firstReleaseDate": "2006-03-20T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc731",
+   "name": "Fable Anniversary",
+   "releaseDate": "2014-02-04T08:00:00.000Z",
+   "firstReleaseDate": "2014-02-04T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc732",
+   "name": "Mass Effect",
+   "releaseDate": "2007-11-20T08:00:00.000Z",
+   "firstReleaseDate": "2007-11-20T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc733",
+   "name": "Fable II",
+   "releaseDate": "2008-10-21T07:00:00.000Z",
+   "firstReleaseDate": "2008-10-21T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc734",
+   "name": "Banjo-Kazooie",
+   "releaseDate": "1998-06-29T07:00:00.000Z",
+   "firstReleaseDate": "1998-06-29T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc735",
+   "name": "Gears of War",
+   "releaseDate": "2006-11-07T08:00:00.000Z",
+   "firstReleaseDate": "2006-11-07T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc736",
+   "name": "Gears of War 3",
+   "releaseDate": "2011-09-20T07:00:00.000Z",
+   "firstReleaseDate": "2011-09-20T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc737",
+   "name": "Gears of War: Judgment",
+   "releaseDate": "2013-03-19T07:00:00.000Z",
+   "firstReleaseDate": "2013-03-19T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc738",
+   "name": "Banjo-Kazooie: Nuts & Bolts",
+   "releaseDate": "2008-11-11T08:00:00.000Z",
+   "firstReleaseDate": "2008-11-11T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc739",
+   "name": "Fuzion Frenzy",
+   "releaseDate": "2001-11-14T08:00:00.000Z",
+   "firstReleaseDate": "2001-11-14T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc73a",
+   "name": "Fable III",
+   "releaseDate": "2010-10-26T07:00:00.000Z",
+   "firstReleaseDate": "2010-10-26T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc73b",
+   "name": "Banjo-Tooie",
+   "releaseDate": "2000-11-19T08:00:00.000Z",
+   "firstReleaseDate": "2000-11-19T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc73c",
+   "name": "Gears of War 2",
+   "releaseDate": "2008-11-07T08:00:00.000Z",
+   "firstReleaseDate": "2008-11-07T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc73d",
+   "name": "Jetpac Refuelled",
+   "releaseDate": "2007-03-28T07:00:00.000Z",
+   "firstReleaseDate": "2007-03-28T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc73e",
+   "name": "Joy Ride Turbo",
+   "releaseDate": "2012-05-23T07:00:00.000Z",
+   "firstReleaseDate": "2012-05-23T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc73f",
+   "name": "Perfect Dark Zero",
+   "releaseDate": "2006-06-07T07:00:00.000Z",
+   "firstReleaseDate": "2006-06-07T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc740",
+   "name": "Kameo: Elements of Power",
+   "releaseDate": "2005-11-14T08:00:00.000Z",
+   "firstReleaseDate": "2005-11-14T08:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc741",
+   "name": "Viva Piñata: Trouble in Paradise",
+   "releaseDate": "2008-09-02T07:00:00.000Z",
+   "firstReleaseDate": "2008-09-02T07:00:00.000Z"
+  },
+  {
+   "_id": "6764a865a4d0b028ec3fc742",
+   "name": "Viva Piñata",
+   "releaseDate": "2006-11-09T08:00:00.000Z",
+   "firstReleaseDate": "2006-11-09T08:00:00.000Z"
+  }
+ ],
+ "label": "Xbox Game Pass Ultimate",
+ "isHomepage": false,
+ "description": "<p>Xbox Game Pass Ultimate combines three different services:</p><ul><li>Xbox Game Pass on Xbox One</li><li>Xbox Game Pass on PC</li><li>Xbox Live Gold</li></ul><p>The Xbox Game Pass gives subscribers access to Xbox exclusives the day they release, such as Forza, Halo, Gears of War, and more. Subscribers may also receive a 10% - 20% discount on some digital purchases on Microsoft's platforms.</p><p>It currently costs $19.99 / 17,99 € per month.</p><p>Subscribe now at the <a href=\"https://sovrn.co/0vfsa3s\" rel=\"noopener noreferrer\" target=\"_blank\">Microsoft store</a>, and be sure to check out the store for the most up-to-date game listings for your region.</p>",
+ "createdAt": "2020-08-25T01:34:32.849Z",
+ "updatedAt": "2026-09-19T09:41:11.975Z"
+}

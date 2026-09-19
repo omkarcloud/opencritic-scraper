@@ -1,0 +1,1653 @@
+[
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "6aa0427cc5a5522e4fef4537"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "6aa0427cc5a5522e4fef4538"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "6aa0427cc5a5522e4fef4539"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "6aa0427cc5a5522e4fef4536",
+  "userId": 136140,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-09-08T17:14:36.036Z",
+  "updatedAt": "2026-09-09T21:22:05.007Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "6aa0412dab7ac0c1f37ebb71",
+   "id": 136140,
+   "displayName": "RMOMB",
+   "slug": "rmomb"
+  },
+  "id": "6aa0427cc5a5522e4fef4536",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "I took almost 10 years for I give a change to this game and it worth every our of gameplay."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "6a9ccf79ab7ac0c1f3263499"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "6a9ccf79ab7ac0c1f326349a"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "6a9ccf79ab7ac0c1f326349b"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "6a9ccf79ab7ac0c1f3263498",
+  "userId": 135923,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 250,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-09-06T02:27:05.592Z",
+  "updatedAt": "2026-09-07T17:39:36.005Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "6a9ccd64ab7ac0c1f3224d44",
+   "id": 135923,
+   "displayName": "Ss1cK",
+   "slug": "ss1ck"
+  },
+  "id": "6a9ccf79ab7ac0c1f3263498",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Best PC Game made"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "6a8f1f6213a56c28cb76b311"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "6a8f1f6213a56c28cb76b312"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "6a8f1f6213a56c28cb76b313"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "6a8f1f6213a56c28cb76b310",
+  "userId": 134957,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": null,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-08-26T17:16:18.550Z",
+  "updatedAt": "2026-08-26T22:56:21.809Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "6a8f1e7cc5a5522e4f80cc69",
+   "id": 134957,
+   "displayName": "Ptidarki",
+   "slug": "ptidarki"
+  },
+  "id": "6a8f1f6213a56c28cb76b310",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "One of the top 3 of my games with no argument needed.\nHistory, characters, gameplay, artistic direction, graphics... Just play it, you will never forget your experience with Geralt. NEVER."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "6a52356bc5a5522e4f1c7c28"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "6a52356bc5a5522e4f1c7c29"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "6a52356bc5a5522e4f1c7c2a"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "6a52356bc5a5522e4f1c7c27",
+  "userId": 54531,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 140,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-07-11T12:22:03.194Z",
+  "updatedAt": "2026-07-13T18:17:46.729Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "6307a156f8e5020b5defa030",
+   "id": 54531,
+   "displayName": "Tkatsaros98",
+   "slug": "tkatsaros98"
+  },
+  "id": "6a52356bc5a5522e4f1c7c27",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "One of the best story teller game."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "6a0b420a5961165c67ce0d98"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "6a0b420a5961165c67ce0d99"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "6a0b420a5961165c67ce0d9a"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "6a0b420a5961165c67ce0d97",
+  "userId": 128519,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 150,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-05-18T16:44:58.166Z",
+  "updatedAt": "2026-05-18T19:09:50.391Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "6a0b40655961165c67cbecce",
+   "id": 128519,
+   "displayName": "DJHarmon92",
+   "slug": "djharmon92"
+  },
+  "id": "6a0b420a5961165c67ce0d97",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "A super good RPG game superb story"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "69e3a8055961165c67bb1d18"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "69e3a8055961165c67bb1d19"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "69e3a8055961165c67bb1d1a"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "69e3a8055961165c67bb1d17",
+  "userId": 126131,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-04-18T15:49:25.573Z",
+  "updatedAt": "2026-04-20T14:40:12.279Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "69e3a7a65961165c67badee0",
+   "id": 126131,
+   "displayName": "HellBen99",
+   "slug": "hellben99"
+  },
+  "id": "69e3a8055961165c67bb1d17",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "One of the Best RPGs ever and the Best DLCs ever"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "69dceee4ef498245b93a5bae"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "69dceee4ef498245b93a5baf"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "69dceee4ef498245b93a5bb0"
+     }
+    ]
+   },
+   "name": "The Witcher 3: Wild Hunt",
+   "id": 463,
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z",
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ]
+  },
+  "_id": "69dce59e5961165c67ce5efb",
+  "userId": 125791,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 130,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-04-13T12:46:22.373Z",
+  "updatedAt": "2026-04-13T14:46:12.858Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "69dcdeceef498245b92f5684",
+   "id": 125791,
+   "displayName": "Darrow",
+   "slug": "darrow"
+  },
+  "id": "69dce59e5961165c67ce5efb",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Still one of the best open world fantasy action RPG to this day! The main story and the side quests are amazing. Witcher contracts are so fun to do while investigating and using your Witcher senses. Characters are very interesting especially Geralt's relationship around Yennefer and Ciri. The atmosphere surrounding"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "screenshots": []
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "69cab9505961165c6762807d",
+  "userId": 125000,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-03-30T17:56:32.581Z",
+  "updatedAt": "2026-03-30T18:14:44.700Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "69cab8d65961165c67622154",
+   "id": 125000,
+   "displayName": "PirateZ86",
+   "slug": "piratez86"
+  },
+  "id": "69cab9505961165c6762807d",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "There are thousands of really good reviews but I will say this, you gotto expierence it"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "696b8a42d6cb02defd3db748"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "696b8a42d6cb02defd3db749"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "696b8a42d6cb02defd3db74a"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "696b8a42d6cb02defd3db747",
+  "userId": 122135,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-01-17T13:10:26.754Z",
+  "updatedAt": "2026-01-20T15:01:46.756Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "696b89599730c87a1d407635",
+   "id": 122135,
+   "displayName": "salmelyxxx",
+   "slug": "salmelyxxx"
+  },
+  "id": "696b8a42d6cb02defd3db747",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Beautiful game"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "696a8c3f9730c87a1d8f7be2"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "696a8c3f9730c87a1d8f7be3"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "696a8c3f9730c87a1d8f7be4"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "696a8c3f9730c87a1d8f7be1",
+  "userId": 122111,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 144,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2026-01-16T19:06:39.071Z",
+  "updatedAt": "2026-01-20T15:01:46.156Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "696a89e29730c87a1d8d7e33",
+   "id": 122111,
+   "displayName": "kutayavuz",
+   "slug": "kutayavuz"
+  },
+  "id": "696a8c3f9730c87a1d8f7be1",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "One of my best games I've played"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "69129e5666a80b4c7a66b228"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "69129e5666a80b4c7a66b229"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "69129e5666a80b4c7a66b22a"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "69129e5666a80b4c7a66b227",
+  "userId": 119503,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-11-11T02:24:22.791Z",
+  "updatedAt": "2025-11-11T15:42:39.470Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "6912862a66a80b4c7a531e02",
+   "id": 119503,
+   "displayName": "Daywim",
+   "slug": "daywim"
+  },
+  "id": "69129e5666a80b4c7a66b227",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "One of the best RPGs ever made"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68f0117c66a80b4c7a98ef08"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68f0117c66a80b4c7a98ef09"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68f0117c66a80b4c7a98ef0a"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68f0117c66a80b4c7a98ef07",
+  "userId": 118348,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-10-15T21:26:20.871Z",
+  "updatedAt": "2025-10-16T14:49:52.405Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68f00f3c66a80b4c7a970a08",
+   "id": 118348,
+   "displayName": "Kosic",
+   "slug": "kosic"
+  },
+  "id": "68f0117c66a80b4c7a98ef07",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "A legendary Polish franchise, and the third part was a great conclusion to the trilogy… now we’re waiting for part four ;)"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "screenshots": []
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68e10f0266a80b4c7a74e4f6",
+  "userId": 117886,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": null,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-10-04T12:11:46.989Z",
+  "updatedAt": "2025-10-06T12:46:40.532Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68e10de966a80b4c7a742fd3",
+   "id": 117886,
+   "displayName": "wjofre",
+   "slug": "wjofre"
+  },
+  "id": "68e10f0266a80b4c7a74e4f6",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "The best game I've ever played. The combat could be better for some people but I enjoyed the heck out of it."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68da4df366a80b4c7a945383"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68da4df366a80b4c7a945384"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68da4df366a80b4c7a945385"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68da4df366a80b4c7a945382",
+  "userId": 117639,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 200,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-09-29T09:14:27.945Z",
+  "updatedAt": "2025-09-29T13:35:15.185Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68da4b0966a80b4c7a920b95",
+   "id": 117639,
+   "displayName": "Sooza",
+   "slug": "sooza"
+  },
+  "id": "68da4df366a80b4c7a945382",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "One of the best RPG's with better written characters and dialogue than most movies."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68d29ab879f753aced7313cb"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68d29ab879f753aced7313cc"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68d29ab879f753aced7313cd"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68d29ab879f753aced7313ca",
+  "userId": 44970,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-09-23T13:03:52.792Z",
+  "updatedAt": "2025-09-23T14:33:30.024Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "61672d7f81da9f0e15569e6f",
+   "id": 44970,
+   "displayName": "denixius",
+   "slug": "denixius"
+  },
+  "id": "68d29ab879f753aced7313ca",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Unrivaled Storytelling and Quest Design, A Living, Breathing Open World, Memorable Characters. Clunky Combat, Inconsistent Level Scaling."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68ccafc679f753aced308075"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68ccafc679f753aced308076"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68ccafc679f753aced308077"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68ccafc679f753aced308074",
+  "userId": 116973,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-09-19T01:20:06.189Z",
+  "updatedAt": "2025-09-19T14:37:28.728Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68ccaedb66a80b4c7a1d1533",
+   "id": 116973,
+   "displayName": "V gamer",
+   "slug": "v-gamer"
+  },
+  "id": "68ccafc679f753aced308074",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "My favorite!"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68c4017279f753aced13838c"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68c4017279f753aced13838d"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68c4017279f753aced13838e"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68c4017279f753aced13838b",
+  "userId": 106082,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-09-12T11:18:10.215Z",
+  "updatedAt": "2025-09-12T14:34:56.999Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "67a0edc598fb237f13ff1f60",
+   "id": 106082,
+   "displayName": "Faroux34",
+   "slug": "faroux34"
+  },
+  "id": "68c4017279f753aced13838b",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Best game in history"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68c1fd0f66a80b4c7a8f2caf"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68c1fd0f66a80b4c7a8f2cb0"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68c1fd0f66a80b4c7a8f2cb1"
+     }
+    ]
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68c1fd0f66a80b4c7a8f2cae",
+  "userId": 116570,
+  "score": 100,
+  "scoreFormat": 19,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-09-10T22:34:55.320Z",
+  "updatedAt": "2025-09-11T14:36:55.886Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68c1c0aa79f753aced4e3db2",
+   "id": 116570,
+   "displayName": "lyzzaryz",
+   "slug": "lyzzaryz"
+  },
+  "id": "68c1fd0f66a80b4c7a8f2cae",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Perfection"
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "screenshots": []
+   },
+   "id": 463,
+   "name": "The Witcher 3: Wild Hunt",
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ],
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z"
+  },
+  "_id": "68c0504479f753aced4db970",
+  "userId": 116168,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 159,
+  "recommend": true,
+  "recommendTo": [],
+  "createdAt": "2025-09-09T16:05:24.452Z",
+  "updatedAt": "2025-09-09T16:06:12.511Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68bfca4e66a80b4c7a7b7f08",
+   "id": 116168,
+   "displayName": "Alvelian",
+   "slug": "alvelian"
+  },
+  "id": "68c0504479f753aced4db970",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "For me, the best game of the last decade. But like many such large projects, I have no strength or desire to play this one a second time."
+ },
+ {
+  "game": {
+   "images": {
+    "box": {
+     "og": "https://img.opencritic.com/game/463/o/M0VUcLa8.jpg",
+     "sm": "https://img.opencritic.com/game/463/rB1hHRUz.jpg"
+    },
+    "square": {
+     "og": "https://img.opencritic.com/game/463/o/OVsgXNo2.jpg",
+     "xs": "https://img.opencritic.com/game/463/6bOIfnaJ.jpg",
+     "sm": "https://img.opencritic.com/game/463/GG8JCUkL.jpg",
+     "lg": "https://img.opencritic.com/game/463/oTjgRCNz.jpg"
+    },
+    "masthead": {
+     "og": "https://img.opencritic.com/game/463/o/GUT53zSN.jpg",
+     "xs": "https://img.opencritic.com/game/463/HDjXfrh4.jpg",
+     "sm": "https://img.opencritic.com/game/463/MSN7ZMj6.jpg",
+     "md": "https://img.opencritic.com/game/463/1Jy2mzhl.jpg",
+     "lg": "https://img.opencritic.com/game/463/HdCILLfl.jpg",
+     "xl": "https://img.opencritic.com/game/463/iNiqeJlm.jpg"
+    },
+    "banner": {
+     "og": "https://img.opencritic.com/game/463/o/NcQS6Nk8.jpg",
+     "sm": "https://img.opencritic.com/game/463/6uNBtFmg.jpg"
+    },
+    "logo": {
+     "og": "https://img.opencritic.com/game/463/o/vm06X7tT.jpg"
+    },
+    "screenshots": [
+     {
+      "og": "https://img.opencritic.com/game/463/o/3iC8cNfj.jpg",
+      "sm": "https://img.opencritic.com/game/463/WLIfpTNm.jpg",
+      "_id": "68d64c5e79f753acedb68667"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/2be7qvpn.jpg",
+      "sm": "https://img.opencritic.com/game/463/vESoVPyn.jpg",
+      "_id": "68d64c5e79f753acedb68668"
+     },
+     {
+      "og": "https://img.opencritic.com/game/463/o/d5cebZxZ.jpg",
+      "sm": "https://img.opencritic.com/game/463/5MUgAhQU.jpg",
+      "_id": "68d64c5e79f753acedb68669"
+     }
+    ]
+   },
+   "name": "The Witcher 3: Wild Hunt",
+   "id": 463,
+   "firstReleaseDate": "2015-05-19T00:00:00.000Z",
+   "tags": [
+    "adventure",
+    "fantasy",
+    "open-world",
+    "rpg",
+    "singleplayer",
+    "story-rich"
+   ],
+   "platforms": [
+    "PS4",
+    "XB1",
+    "PC",
+    "XBXS",
+    "PS5",
+    "Switch"
+   ]
+  },
+  "_id": "68a579aa66a80b4c7a2f4018",
+  "userId": 115350,
+  "score": 100,
+  "scoreFormat": 19,
+  "hoursPlayed": 130,
+  "recommend": false,
+  "recommendTo": [],
+  "createdAt": "2025-08-20T07:30:50.261Z",
+  "updatedAt": "2025-09-26T14:21:17.894Z",
+  "__v": 0,
+  "declineReason": null,
+  "user": {
+   "_id": "68a56c1166a80b4c7a25586b",
+   "id": 115350,
+   "displayName": "Snooker",
+   "slug": "snooker"
+  },
+  "id": "68a579aa66a80b4c7a2f4018",
+  "count": 0,
+  "status": "approved",
+  "excerpt": "Best"
+ }
+]
